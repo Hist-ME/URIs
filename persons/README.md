@@ -1,2 +1,2 @@
 # Person URIs
-This is the place to align person URIs among different projects.
+This is a place to align person URIs among different projects.
