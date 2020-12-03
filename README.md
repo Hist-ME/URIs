@@ -19,16 +19,16 @@ Exports into other formats (such as RDF) might be provided in this repository, b
 **\*** indicates required fields.
 
 #### uri*
-**required:** The URI of the entity (person, place, etc.) in your system that is being related to another URI.
+*required:* The URI of the entity (person, place, etc.) in your system that is being related to another URI.
 
 #### related-uri*
-**required:** The URI of the related entity in another system.
+*required:* The URI of the related entity in another system.
 
 #### according-to*
-**required:** A URI identifying the project, team, or person responsible for asserting the relationship between the URIs in the first two columns.
+*required:* A URI identifying the project, team, or person responsible for asserting the relationship between the URIs in the first two columns.
 
 #### description
-**optional:** An informal description of the relationship between the two URIs, for example, "is probably the same as" or "is the primary entity described by". This provides guidance to other projects who may be trying to align their URIs with the ones mentioned. It may also be the basis for creating RDF triples in the future. Please try to keep your descriptions consistent for rows describing the same relationship.
+*optional:* An informal description of the relationship between the two URIs, for example, "is probably the same as" or "is the primary entity described by". This provides guidance to other projects who may be trying to align their URIs with the ones mentioned. It may also be the basis for creating RDF triples in the future. Please try to keep your descriptions consistent for rows describing the same relationship.
 
 ## How to contribute URIs
  1. Create a **new branch** (if you're a member) or **fork** this repo. To become a member, please contact one of the organization owners.
