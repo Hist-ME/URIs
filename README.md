@@ -1,7 +1,7 @@
 # URIs
 This is a place to align URIs among different projects for persons, places, works, manuscripts, and potentially other entities related to the historical Middle East.
 
-## How to use these URIs
+## How to use aligned URIs
 Here you'll find folders for each entity containing **simple TSV tables with at least three columns**. Each row represents a relationship between the URIs in each of the columns. The columns are not ordered: which URI appears in which column does not matter. Each URI may appear multiple times in the spreadsheet when it has relationships to additional URIs. 
 
 You can import this into the spreadsheet editor or data format of your choice and use lookup, filter, or similar functions to search for one URI and get related URIs from other domains (projects). Note: When searching for URIs, make sure to take into account both http:// and https:// versions as well as with or without www . In regex, this can be done with `https?://(www\.)?`.
@@ -30,7 +30,7 @@ Exports into other formats (such as RDF) might be provided in this repository, b
 #### description
 *optional:* An informal description of the relationship between the two URIs, for example, "is probably the same as" or "is the primary entity described by". This provides guidance to other projects who may be trying to align their URIs with the ones mentioned. It may also be the basis for creating RDF triples in the future. Please try to keep your descriptions consistent for rows describing the same relationship.
 
-## How to contribute URIs
+## How to contribute aligned URIs
  1. Create a **new branch** (if you're a member) or **fork** this repo. To become a member, please contact one of the organization owners.
  2. **Add a new TSV file** to the relevant folder, named [yourprojectnameorwebsite].tsv, with the columns mentioned above. 
  3. **Create a pull request** to merge your updated spreadsheet into the master branch.
@@ -40,6 +40,9 @@ Exports into other formats (such as RDF) might be provided in this repository, b
  2. Please don't include URIs that don't have any related URIs (blank cells). They aren't useful here unless they're matched.
  3. At least one URI in each row (yours or the related one) should resolve to a URL with sufficient information to identify the entity. 
  4. Don't add names or other non-URI identifiers to the spreadsheet. This is to make sure all identifications are done on the basis of the URIs themselves, not extra information in the spreadsheet.
+
+## How to use and contribute non-aligned URIs
+If you have a list of entities for which you don't yet have links to related URIs, you can include these as a TSV in the non-aligned-uris folders for each entity type. We're still working on what should be included in these (at minimum your URI and some kind of label), but you can see an example at https://github.com/Hist-ME/URIs/tree/master/places/non-aligned-uris.
 
 ## Questions? 
 Please file a new [issue](https://github.com/Hist-ME/URIs/issues).
