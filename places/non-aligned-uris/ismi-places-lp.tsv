@@ -1,418 +1,418 @@
-ismi_uri	id	title	title_source	date	ismi_type	parent_name	parent_id	parent_type
-https://ismi.mpiwg-berlin.mpg.de/place/85243	85243	Aden	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/85589	85589	Adrianopel	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179798	179798	Afghanistan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/85213	85213	Afshana, near Bukhārā (Uzbekistan)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87434	87434	Afyon	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/330886	330886	Agarfa, Bale	ISMI	0700	city	Ethiopia	#330883	country
-https://ismi.mpiwg-berlin.mpg.de/place/88263	88263	Adana	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87895	87895	Ahmadabad	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/24358	24358	Aḥmadiyya	ISMI	0700	madrasa	Aleppo	#85486	city
-https://ismi.mpiwg-berlin.mpg.de/place/529683	529683	Ahmedabad	ISMI	0700		India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/361847	361847	Ahwaz	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/87782	87782	Akbarabad	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/86833	86833	Akşehir	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/123652	123652	al-Madrasaẗ al-Šāmiyyaẗ	ISMI	0700	madrasa	Damascus	#85658	city
-https://ismi.mpiwg-berlin.mpg.de/place/22121	22121	al-Jazīratān	ISMI	0700	city_district			
-https://ismi.mpiwg-berlin.mpg.de/place/85486	85486	Aleppo	ISMI	0700	city	Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87102	87102	Alexandria	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/173275	173275	Algeria	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87820	87820	Algiers	ISMI	0700	city	Algeria	#173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/86794	86794	Aligarh	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/490235	490235	Almeria	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/525362	525362	Amasya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/86472	86472	Amsterdam	ISMI	0700	city	Netherlands	#174707	country
-https://ismi.mpiwg-berlin.mpg.de/place/390537	390537	Amul	ISMI	0700	city	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/482813	482813	Anatolia	ISMI	0700	region	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/93261	93261	Andalusia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87724	87724	Ankara	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85621	85621	Ankara (Enguriye)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/44343	44343	Ann Arbor, MI	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/462175	462175	Antakya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/411067	411067	Antalya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/480382	480382	Ardabil	ISMI	0700	city	Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/173852	173852	Armenia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/325114	325114	Arrajān	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87019	87019	Ashqabad	ISMI	0700	city	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/354268	354268	Astija	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/434061	434061	Aswan	ISMI	0700		Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/486754	486754	Asyūt	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/173483	173483	Austria	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/178920	178920	Azerbaijan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/2066	2066	Azhar	ISMI	0700	madrasa	Cairo	#85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/87149	87149	Baalbek	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/394897	394897	Badajoz	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/438196	438196	Baeza	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/167760	167760	Baghdad	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/437004	437004	Bahrain	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/87420	87420	Bakchesaray	ISMI	0700	city	Ukraine	#173857	country
-https://ismi.mpiwg-berlin.mpg.de/place/87016	87016	Baku	ISMI	0700	city	Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/434389	434389	Balad (Iraq)	ISMI	0700	city_district	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86680	86680	Balıkesir	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/153791	153791	Balkh	ISMI	0700	city	Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/179186	179186	Bangladesh	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/40827	40827	Bankipore	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/442398	442398	Barda (Barḏaʿaẗ)	ISMI	0700	city	Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/86545	86545	Barudi	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/93607	93607	Baṣra	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/422190	422190	Bayhaq	ISMI	0700		Khurāsān	#310384	city_district
-https://ismi.mpiwg-berlin.mpg.de/place/86325	86325	Beirut	ISMI	0700	city	Lebanon	#174621	country
-https://ismi.mpiwg-berlin.mpg.de/place/179327	179327	Belgium	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87247	87247	Berlin	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/447960	447960	Birgi	ISMI	0700		İzmir	#49174	city
-https://ismi.mpiwg-berlin.mpg.de/place/86475	86475	Birmingham, U.K.	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/168025	168025	Alamūt	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/88220	88220	Bologna	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/431413	431413	Bombay	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/179005	179005	Bosnia/Herzegovina	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88049	88049	Boston	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/25201	25201	Bourron	ISMI	0700	city	France	#174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/86686	86686	Bratislava	ISMI	0700	city	Slovakia	#173935	country
-https://ismi.mpiwg-berlin.mpg.de/place/88007	88007	Brussels	ISMI	0700	city	Belgium	#179327	country
-https://ismi.mpiwg-berlin.mpg.de/place/88038	88038	Budapest	ISMI	0700	city	Hungary	#178964	country
-https://ismi.mpiwg-berlin.mpg.de/place/87068	87068	Bukhara	ISMI	0700	city	Uzbekistan	#173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/449376	449376	Bulgaria	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88226	88226	Burdur	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85658	85658	Damascus	ISMI	0700	city	Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87313	87313	Damietta	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/85627	85627	Bursa	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/152291	152291	Būzjān	ISMI	0700	city_district			
-https://ismi.mpiwg-berlin.mpg.de/place/85226	85226	Cairo	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/86381	86381	Calcutta	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86439	86439	Cambridge, MA	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86828	86828	Cambridge, UK	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179459	179459	Canada	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/414387	414387	Carmona	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/93084	93084	Central Asia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/119665	119665	Ceuta (northern Morocco)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/85210	85210	Constantinople	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87876	87876	Copenhagen	ISMI	0700	city	Denmark	#179170	country
-https://ismi.mpiwg-berlin.mpg.de/place/85178	85178	Cordova (Spain)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86378	86378	Çorum	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/338465	338465	Cremona	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/87971	87971	Fez	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/441543	441543	Deccan	ISMI	0700	region	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87127	87127	Denia (Spain)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179170	179170	Denmark	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88072	88072	Detroit	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86551	86551	Dhaka	ISMI	0700	city	Bangladesh	#179186	country
-https://ismi.mpiwg-berlin.mpg.de/place/479550	479550	Dhamār	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/450324	450324	Dīnawar	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87384	87384	Diyarbakir	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/493137	493137	Doha	ISMI	0700	city	Qatar	#493134	country
-https://ismi.mpiwg-berlin.mpg.de/place/87480	87480	Dresden	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/86683	86683	Dublin	ISMI	0700	city	Ireland	#179659	country
-https://ismi.mpiwg-berlin.mpg.de/place/87927	87927	Dushanbe	ISMI	0700	city	Tajikistan	#179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/356027	356027	Écija	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/328715	328715	Edessa	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87546	87546	Edinburgh, Scotland	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/85246	85246	Edirne	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/173189	173189	Egypt	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/119513	119513	Elche (Andalusia)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/437015	437015	Erbil	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/24616	24616	Erfurt	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/87114	87114	Erzincan	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/270897	270897	Erzurum	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/330883	330883	Ethiopia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/422251	422251	Farab	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/333575	333575	Farghāna	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179766	179766	Fās	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/441547	441547	Fatḥ-Nakr	ISMI	0700	city_district	Deccan	#441543	region
-https://ismi.mpiwg-berlin.mpg.de/place/142708	142708	Giza	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/86946	86946	Glasgow	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179423	179423	Golkanda	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87176	87176	Gotha	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/87757	87757	Florence	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174775	174775	France	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/529096	529096	Galata	ISMI	0700		Istanbul	#85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/140190	140190	Ġandagān (near Shiraz)	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/447260	447260	Gaziantep (Ayntāb)	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/525410	525410	Gelibolu	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179183	179183	Georgia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174492	174492	Germany	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/153829	153829	Ghazna	ISMI	0700	city	Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/85304	85304	Gīlān (Iran)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87304	87304	Giresun	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/1129	1129	Göttingen	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/88223	88223	Granada	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/71938	71938	Greece	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/436281	436281	Guadix	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/312817	312817	Gülistan (Guliston)	ISMI	0700	city	Uzbekistan	#173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/327648	327648	Gundeshapur [Gundēšāpūr] (Fars)	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85367	85367	Gurganj	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86943	86943	Hamadan	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/311328	311328	Ḥamāh	ISMI	0700	city	Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87597	87597	Hamburg	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/347936	347936	Harran	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/374418	374418	Ḫujand	ISMI	0700	city	Tajikistan	#179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/86434	86434	Heidelberg	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/71934	71934	Heraklion (Iraklion, Candia, Qandiya; in Crete)	ISMI	0700	city	Greece	#71938	country
-https://ismi.mpiwg-berlin.mpg.de/place/374934	374934	Herat	ISMI	0700		Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/154074	154074	Ḫilāṭ [Aḫlāṭ]	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/178964	178964	Hungary	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88276	88276	Hyderabad	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/174638	174638	India	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173690	173690	Indonesia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174469	174469	Iran	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173298	173298	Iraq	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/179659	179659	Ireland	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87474	87474	Isfahan	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/384589	384589	Isfarain	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/356327	356327	Iṣṭaḫr	ISMI	0700		Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85148	85148	Istanbul	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/173763	173763	Italy	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/382383	382383	Jawhar	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/450367	450367	Jayyān (Jaén)	ISMI	0700	city	Andalusia	#93261	country
-https://ismi.mpiwg-berlin.mpg.de/place/87387	87387	Jerusalem	ISMI	0700	city	Palestine/Israel	#179483	country
-https://ismi.mpiwg-berlin.mpg.de/place/86701	86701	Jibla	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/85370	85370	Jurjān	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86618	86618	Kabul	ISMI	0700	city	Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/87440	87440	Kaduna	ISMI	0700	city	Nigeria	#178897	country
-https://ismi.mpiwg-berlin.mpg.de/place/87727	87727	Kairouan	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87040	87040	Kairouan (Qayrawān)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/33055	33055	Kapūrt’halah, India	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/381807	381807	Karaj	ISMI	0700		Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87511	87511	Karbala	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/488271	488271	Kashan	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/155387	155387	Kashghar	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87594	87594	Kastamonu	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/155041	155041	Kaṯ	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/88310	88310	Kayseri	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/382381	382381	Kazakhstan	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/86288	86288	Kazan	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/177048	177048	Kazimiya	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86520	86520	Kazimiya	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87173	87173	Khar'kov	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/310384	310384	Khurāsān	ISMI	0700	city_district	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/325429	325429	Khuttal	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/25264	25264	Khuzistan	ISMI	0700	country	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/310048	310048	Khwārizm	ISMI	0700	country	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/87477	87477	Kiev	ISMI	0700	city	Ukraine	#173857	country
-https://ismi.mpiwg-berlin.mpg.de/place/87152	87152	Kiliç	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/443803	443803	Kilis	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/380989	380989	Kirman	ISMI	0700		Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/49174	49174	İzmir	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/447733	447733	Iznik	ISMI	0700	city_district	Bursa	#85627	city
-https://ismi.mpiwg-berlin.mpg.de/place/395007	395007	Jaén	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/86356	86356	Jaipur	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86449	86449	Jakarta (formerly Batavia)	ISMI	0700	city	Indonesia	#173690	country
-https://ismi.mpiwg-berlin.mpg.de/place/271745	271745	Jāmiʿ Naqīb al-Juyūš	ISMI	0700	madrasa			
-https://ismi.mpiwg-berlin.mpg.de/place/34602	34602	Lār	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/174621	174621	Lebanon	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86776	86776	Leiden	ISMI	0700	city	Netherlands	#174707	country
-https://ismi.mpiwg-berlin.mpg.de/place/87228	87228	Leipzig	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/178992	178992	Libya	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86645	86645	London	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/88247	88247	Los Angeles, CA	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86969	86969	Lucknow	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87628	87628	Madras	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/438040	438040	Madrasa Kāmiliyya	ISMI	0700	madrasa	Cairo	#85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/22073	22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy	ISMI	0700	city	Cairo	#85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/38142	38142	Madrasah Šāh zādah Muḥammad Ḫān	ISMI	0700	madrasa	unknown country	#200567	country
-https://ismi.mpiwg-berlin.mpg.de/place/23268	23268	Madrasaẗ Ilyās al-Mawlỳ ibn Ramaḍān	ISMI	0700	madrasa			
-https://ismi.mpiwg-berlin.mpg.de/place/23251	23251	Madrasaẗ Šayḫ Muḥammad Afandī	ISMI	0700	madrasa			
-https://ismi.mpiwg-berlin.mpg.de/place/86912	86912	Madrid	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/478778	478778	Maġrib	ISMI	0700	region	North Africa	#93622	country
-https://ismi.mpiwg-berlin.mpg.de/place/86446	86446	Mahachqala	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/87719	87719	Makhachqala	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/140728	140728	Malaga	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/85376	85376	Malatya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87080	87080	Manchester	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/87295	87295	Manisa	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85354	85354	Marāgha	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/85558	85558	Marāgha/Baghdad*	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/441899	441899	Maraş (Kahramanmaraş)	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/312831	312831	Mardin	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85336	85336	Marrakech (Morocco)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/153834	153834	Marw	ISMI	0700	city	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/390282	390282	Marwarrüḏ	ISMI	0700		Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/86575	86575	Mar`ashi	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87957	87957	Mashhad	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87301	87301	Konya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/93604	93604	Kufa	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/525086	525086	Kütahya	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/440170	440170	Kuwait	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/440173	440173	Kuwait City	ISMI	0700	city	Kuwait	#440170	country
-https://ismi.mpiwg-berlin.mpg.de/place/443486	443486	Ladik	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87930	87930	Lahore	ISMI	0700	city	Pakistan	#179735	country
-https://ismi.mpiwg-berlin.mpg.de/place/442709	442709	Māwaẗ	ISMI	0700	city_district	Sulaymaniyah	#442705	city
-https://ismi.mpiwg-berlin.mpg.de/place/498926	498926	Mazandaran	ISMI	0700	region	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/127632	127632	Mecca	ISMI	0700	city	Saudi Arabia	#179081	country
-https://ismi.mpiwg-berlin.mpg.de/place/87879	87879	Medina	ISMI	0700	city	Saudi Arabia	#179081	country
-https://ismi.mpiwg-berlin.mpg.de/place/426724	426724	Mehdia	ISMI	0700		Tunisia	#173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/318030	318030	Mersin/Tarsus	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/485679	485679	Merv	ISMI	0700	city	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/87404	87404	Milan	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/69524	69524	Mocha	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/87483	87483	Montpelier	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/88035	88035	Montreal	ISMI	0700	city	Canada	#179459	country
-https://ismi.mpiwg-berlin.mpg.de/place/173531	173531	Morocco	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86758	86758	Moscow	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/85483	85483	Mosul	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86422	86422	Mysore	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87804	87804	Najaf	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/445345	445345	Nakhchivan	ISMI	0700	region	Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/310373	310373	Nasā	ISMI	0700	city_district	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/428715	428715	Nasaf	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/87234	87234	Navsari	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/530136	530136	Mukalla	ISMI	0700		Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/87556	87556	Mumbai	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87231	87231	Munich	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/87347	87347	Muradabad, India	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/431843	431843	Murcia	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/93622	93622	North Africa	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/350648	350648	Nūr Aḥmadiyya	ISMI	0700	madrasa	ʿAkkā	#350573	city_district
-https://ismi.mpiwg-berlin.mpg.de/place/174707	174707	Netherlands	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88323	88323	New Haven, CT	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/87609	87609	New York	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86603	86603	Niğde	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/178897	178897	Nigeria	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/482817	482817	Niksar	ISMI	0700	city	Anatolia	#482813	region
-https://ismi.mpiwg-berlin.mpg.de/place/85301	85301	Nīshābūr	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/134677	134677	Nisibis	ISMI	0700	city	Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/43390	43390	Niẓāmiyya	ISMI	0700	madrasa	Baghdad	#167760	city
-https://ismi.mpiwg-berlin.mpg.de/place/87742	87742	Odessa	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/156139	156139	Oran	ISMI	0700	city	Algeria	#173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/443952	443952	Osmancık	ISMI	0700	city_district	Çorum	#86378	city
-https://ismi.mpiwg-berlin.mpg.de/place/517299	517299	Otlukbeli	ISMI	0700	city_district	Erzincan	#87114	city
-https://ismi.mpiwg-berlin.mpg.de/place/86816	86816	Oxford	ISMI	0700	city	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179735	179735	Pakistan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/276374	276374	Palermo	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/179483	179483	Palestine/Israel	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86667	86667	Paris	ISMI	0700	city	France	#174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/87844	87844	Patiala (Kapurthala)	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86909	86909	Patna	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/88340	88340	Peshawar	ISMI	0700	city	Pakistan	#179735	country
-https://ismi.mpiwg-berlin.mpg.de/place/44417	44417	Philadelphia, PA	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/449379	449379	Plovdiv (Filibe)	ISMI	0700	city	Bulgaria	#449376	country
-https://ismi.mpiwg-berlin.mpg.de/place/86846	86846	Princeton	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/153698	153698	Qabadiyan (or Qubadiyan modern Nosiri Khusrav in SE Tajikistan)	ISMI	0700	city	Tajikistan	#179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/493134	493134	Qatar	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174008	174008	Qayrawan	ISMI	0700	city	Tunisia	#173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/463432	463432	Qazwīn	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/167982	167982	Qāʾin	ISMI	0700	city	Qūhistān	#168047	country
-https://ismi.mpiwg-berlin.mpg.de/place/319018	319018	Qift	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/326959	326959	Qinnasrin	ISMI	0700	city	Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/168047	168047	Qūhistān	ISMI	0700	country	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/457991	457991	Qum	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/86749	86749	Rabat	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/86252	86252	Rajab	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86730	86730	Rampur	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/363352	363352	Raqqa	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/88250	88250	Rasht	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87984	87984	Rayy	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85672	85672	Rayy (Iran)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87533	87533	Rome	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174659	174659	Russia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/108354	108354	Salamanca (Spain)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/179683	179683	Salé	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/362860	362860	Samarqand	ISMI	0700	city	Uzbekistan	#173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/329068	329068	Samarra	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/502402	502402	Samsun	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/163900	163900	San Lorenzo de El Escorial	ISMI	0700	city_district	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/87660	87660	Sana`a	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/85151	85151	Saragossa (Spain)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/320173	320173	Sarai (Saraj or Saray)	ISMI	0700	country	Sarai (Saraj or Saray)	#320173	country
-https://ismi.mpiwg-berlin.mpg.de/place/87807	87807	Sarajevo	ISMI	0700	city	Bosnia/Herzegovina	#179005	country
-https://ismi.mpiwg-berlin.mpg.de/place/331126	331126	Sarakhs	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/313825	313825	Serakhs	ISMI	0700	city	Turkmenistan	#178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/140114	140114	Seville	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/119509	119509	Sfax (Tunisia)	ISMI	0700	city	Tunisia	#173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/433318	433318	Shahrazur	ISMI	0700		Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86746	86746	Shibin al-Qum	ISMI	0700	city	Egypt	#173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/455703	455703	Shikohabad	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/85653	85653	Shiraz	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/446245	446245	Shirvān‎	ISMI	0700		Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/4404	4404	Shirwān, Shamākhi	ISMI	0700	city	Azerbaijan	#178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/141246	141246	Sicily	ISMI	0700	country	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/350578	350578	Sidon	ISMI	0700	city_district	Lebanon	#174621	country
-https://ismi.mpiwg-berlin.mpg.de/place/376768	376768	Sijistan	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/360314	360314	Siraf	ISMI	0700		Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85537	85537	Sīwās (NE Turkey)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/173935	173935	Slovakia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174730	174730	Spain	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/85534	85534	Sartakht	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/456861	456861	Satarāh	ISMI	0700	city	India	#174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/179081	179081	Saudi Arabia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/393060	393060	St Andrews, Fife, Scotland	ISMI	0700	city_district	UK	#174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/87260	87260	St. Petersburg	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/74460	74460	Stockholm	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86689	86689	Strasbourg	ISMI	0700	city	France	#174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/437147	437147	Suhraward	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/442705	442705	Sulaymaniyah	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/374813	374813	Sumaysat	ISMI	0700		Syria	#174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/178937	178937	Sweden	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174694	174694	Syria	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/314816	314816	Tabaristan	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/484892	484892	Tabrīz	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/412619	412619	Taft	ISMI	0700		Yazd	#87675	city
-https://ismi.mpiwg-berlin.mpg.de/place/276430	276430	Segovia	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/179518	179518	Tajikistan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/142459	142459	Takrit	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/85640	85640	Taku	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/473519	473519	Tazeghedra	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/87569	87569	Tbilisi	ISMI	0700	city	Georgia	#179183	country
-https://ismi.mpiwg-berlin.mpg.de/place/86384	86384	Tehran	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85113	85113	Terjān	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/348362	348362	Test City	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/86874	86874	Tetuan	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/87437	87437	Tangier	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/86233	86233	Tarim, Yemen	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/359019	359019	Tarsus	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86548	86548	Tashkent	ISMI	0700	city	Uzbekistan	#173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/25277	25277	Tiflis (Tbilisi)	ISMI	0700	city	Georgia	#179183	country
-https://ismi.mpiwg-berlin.mpg.de/place/321561	321561	Tlemcen	ISMI	0700	city	Algeria	#173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/443439	443439	Tokat	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/140646	140646	Toledo	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/86779	86779	Tonk	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/38689	38689	Toronto	ISMI	0700	city	Canada	#179459	country
-https://ismi.mpiwg-berlin.mpg.de/place/108386	108386	Tortosa (Catalonia)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/19074	19074	Trebizond (Trabzon)	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86507	86507	Tripoli	ISMI	0700	city	Libya	#178992	country
-https://ismi.mpiwg-berlin.mpg.de/place/86533	86533	Tübingen	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/86632	86632	Tunis	ISMI	0700	city	Tunisia	#173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/173557	173557	Tunisia	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86305	86305	Turin	ISMI	0700	city	Italy	#173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174510	174510	Turkey	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/178885	178885	Turkmenistan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/85545	85545	Ṭūs	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87257	87257	Ufa	ISMI	0700	city	Russia	#174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/174533	174533	UK	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173857	173857	Ukraine	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/350677	350677	UNKNOWN	ISMI	0700				
-https://ismi.mpiwg-berlin.mpg.de/place/179446	179446	unknown city is part of Canada	ISMI	0700	city	Canada	#179459	country
-https://ismi.mpiwg-berlin.mpg.de/place/177105	177105	unknown city is part of Germany	ISMI	0700	city	Germany	#174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/173343	173343	unknown city is part of Iran	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/179801	179801	unknown city is part of Iraq	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/176454	176454	unknown city is part of Morocco	ISMI	0700	city	Morocco	#173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/200570	200570	unknown city is part of unknown country	ISMI	0700	city	unknown country	#200567	country
-https://ismi.mpiwg-berlin.mpg.de/place/200567	200567	unknown country	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/155747	155747	Upal	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86266	86266	Uppsala	ISMI	0700	city	Sweden	#178937	country
-https://ismi.mpiwg-berlin.mpg.de/place/173554	173554	USA	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/447130	447130	Uskudar	ISMI	0700	city_district	Istanbul	#85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/173272	173272	Uzbekistan	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/142599	142599	Valencia	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/38383	38383	Vatican City	ISMI	0700	city	Vatican City State	#43921	country
-https://ismi.mpiwg-berlin.mpg.de/place/43921	43921	Vatican City State	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/501761	501761	Yedikule	ISMI	0700	city_district	Istanbul	#85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/178900	178900	Yemen	ISMI	0700	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87640	87640	Yerevan	ISMI	0700	city	Armenia	#173852	country
-https://ismi.mpiwg-berlin.mpg.de/place/87882	87882	Yozgat	ISMI	0700	city	Turkey	#174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87199	87199	Zabid	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/483787	483787	Zabid	ISMI	0700	city	Yemen	#178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/498785	498785	Ẓāhiriyya Juwāniyya madrasa	ISMI	0700	madrasa	Damascus	#85658	city
-https://ismi.mpiwg-berlin.mpg.de/place/108247	108247	Zahra (suburb of Cordova)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/458112	458112	Zanjān	ISMI	0700	city_district	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/142614	142614	Zaragoza	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/87037	87037	Vienna	ISMI	0700	city	Austria	#173483	country
-https://ismi.mpiwg-berlin.mpg.de/place/436967	436967	Wādyāš	ISMI	0700		Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/142516	142516	Wann (Khuzistan)	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87833	87833	Washington D.C.	ISMI	0700	city	USA	#173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/458696	458696	Wāsiṭ	ISMI	0700	city	Iraq	#173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/141626	141626	Wāsiṭa (south of Cordoba)	ISMI	0700	city	Spain	#174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/164884	164884	Wrocław	ISMI	0700	city			
-https://ismi.mpiwg-berlin.mpg.de/place/153749	153749	Yamgan (or Yomgan in NE Afghanistan)	ISMI	0700	city	Afghanistan	#179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/87675	87675	Yazd	ISMI	0700	city	Iran	#174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/350573	350573	ʿAkkā	ISMI	0700	city_district	Palestine/Israel	#179483	country
-https://ismi.mpiwg-berlin.mpg.de/place/431559	431559	ʿAyn Zarba	ISMI	0700	city			
+id	title	title_uri	title_source	start	parent_name	parent_id
+85243	Aden	https://ismi.mpiwg-berlin.mpg.de/place/85243	ISMI	0700		
+85589	Adrianopel	https://ismi.mpiwg-berlin.mpg.de/place/85589	ISMI	0700		
+179798	Afghanistan	https://ismi.mpiwg-berlin.mpg.de/place/179798	ISMI	0700		
+85213	Afshana, near Bukhārā (Uzbekistan)	https://ismi.mpiwg-berlin.mpg.de/place/85213	ISMI	0700		
+87434	Afyon	https://ismi.mpiwg-berlin.mpg.de/place/87434	ISMI	0700	Turkey	#174510
+330886	Agarfa, Bale	https://ismi.mpiwg-berlin.mpg.de/place/330886	ISMI	0700	Ethiopia	#330883
+88263	Adana	https://ismi.mpiwg-berlin.mpg.de/place/88263	ISMI	0700	Turkey	#174510
+87895	Ahmadabad	https://ismi.mpiwg-berlin.mpg.de/place/87895	ISMI	0700	India	#174638
+24358	Aḥmadiyya	https://ismi.mpiwg-berlin.mpg.de/place/24358	ISMI	0700	Aleppo	#85486
+529683	Ahmedabad	https://ismi.mpiwg-berlin.mpg.de/place/529683	ISMI	0700	India	#174638
+361847	Ahwaz	https://ismi.mpiwg-berlin.mpg.de/place/361847	ISMI	0700		
+87782	Akbarabad	https://ismi.mpiwg-berlin.mpg.de/place/87782	ISMI	0700	Iran	#174469
+86833	Akşehir	https://ismi.mpiwg-berlin.mpg.de/place/86833	ISMI	0700		
+123652	al-Madrasaẗ al-Šāmiyyaẗ	https://ismi.mpiwg-berlin.mpg.de/place/123652	ISMI	0700	Damascus	#85658
+22121	al-Jazīratān	https://ismi.mpiwg-berlin.mpg.de/place/22121	ISMI	0700		
+85486	Aleppo	https://ismi.mpiwg-berlin.mpg.de/place/85486	ISMI	0700	Syria	#174694
+87102	Alexandria	https://ismi.mpiwg-berlin.mpg.de/place/87102	ISMI	0700	Egypt	#173189
+173275	Algeria	https://ismi.mpiwg-berlin.mpg.de/place/173275	ISMI	0700		
+87820	Algiers	https://ismi.mpiwg-berlin.mpg.de/place/87820	ISMI	0700	Algeria	#173275
+86794	Aligarh	https://ismi.mpiwg-berlin.mpg.de/place/86794	ISMI	0700	India	#174638
+490235	Almeria	https://ismi.mpiwg-berlin.mpg.de/place/490235	ISMI	0700	Spain	#174730
+525362	Amasya	https://ismi.mpiwg-berlin.mpg.de/place/525362	ISMI	0700	Turkey	#174510
+86472	Amsterdam	https://ismi.mpiwg-berlin.mpg.de/place/86472	ISMI	0700	Netherlands	#174707
+390537	Amul	https://ismi.mpiwg-berlin.mpg.de/place/390537	ISMI	0700	Turkmenistan	#178885
+482813	Anatolia	https://ismi.mpiwg-berlin.mpg.de/place/482813	ISMI	0700	Turkey	#174510
+93261	Andalusia	https://ismi.mpiwg-berlin.mpg.de/place/93261	ISMI	0700		
+87724	Ankara	https://ismi.mpiwg-berlin.mpg.de/place/87724	ISMI	0700	Turkey	#174510
+85621	Ankara (Enguriye)	https://ismi.mpiwg-berlin.mpg.de/place/85621	ISMI	0700		
+44343	Ann Arbor, MI	https://ismi.mpiwg-berlin.mpg.de/place/44343	ISMI	0700	USA	#173554
+462175	Antakya	https://ismi.mpiwg-berlin.mpg.de/place/462175	ISMI	0700	Turkey	#174510
+411067	Antalya	https://ismi.mpiwg-berlin.mpg.de/place/411067	ISMI	0700	Turkey	#174510
+480382	Ardabil	https://ismi.mpiwg-berlin.mpg.de/place/480382	ISMI	0700	Azerbaijan	#178920
+173852	Armenia	https://ismi.mpiwg-berlin.mpg.de/place/173852	ISMI	0700		
+325114	Arrajān	https://ismi.mpiwg-berlin.mpg.de/place/325114	ISMI	0700		
+87019	Ashqabad	https://ismi.mpiwg-berlin.mpg.de/place/87019	ISMI	0700	Turkmenistan	#178885
+354268	Astija	https://ismi.mpiwg-berlin.mpg.de/place/354268	ISMI	0700	Spain	#174730
+434061	Aswan	https://ismi.mpiwg-berlin.mpg.de/place/434061	ISMI	0700	Egypt	#173189
+486754	Asyūt	https://ismi.mpiwg-berlin.mpg.de/place/486754	ISMI	0700	Egypt	#173189
+173483	Austria	https://ismi.mpiwg-berlin.mpg.de/place/173483	ISMI	0700		
+178920	Azerbaijan	https://ismi.mpiwg-berlin.mpg.de/place/178920	ISMI	0700		
+2066	Azhar	https://ismi.mpiwg-berlin.mpg.de/place/2066	ISMI	0700	Cairo	#85226
+87149	Baalbek	https://ismi.mpiwg-berlin.mpg.de/place/87149	ISMI	0700		
+394897	Badajoz	https://ismi.mpiwg-berlin.mpg.de/place/394897	ISMI	0700	Spain	#174730
+438196	Baeza	https://ismi.mpiwg-berlin.mpg.de/place/438196	ISMI	0700	Spain	#174730
+167760	Baghdad	https://ismi.mpiwg-berlin.mpg.de/place/167760	ISMI	0700	Iraq	#173298
+437004	Bahrain	https://ismi.mpiwg-berlin.mpg.de/place/437004	ISMI	0700		
+87420	Bakchesaray	https://ismi.mpiwg-berlin.mpg.de/place/87420	ISMI	0700	Ukraine	#173857
+87016	Baku	https://ismi.mpiwg-berlin.mpg.de/place/87016	ISMI	0700	Azerbaijan	#178920
+434389	Balad (Iraq)	https://ismi.mpiwg-berlin.mpg.de/place/434389	ISMI	0700	Iraq	#173298
+86680	Balıkesir	https://ismi.mpiwg-berlin.mpg.de/place/86680	ISMI	0700	Turkey	#174510
+153791	Balkh	https://ismi.mpiwg-berlin.mpg.de/place/153791	ISMI	0700	Afghanistan	#179798
+179186	Bangladesh	https://ismi.mpiwg-berlin.mpg.de/place/179186	ISMI	0700		
+40827	Bankipore	https://ismi.mpiwg-berlin.mpg.de/place/40827	ISMI	0700		
+442398	Barda (Barḏaʿaẗ)	https://ismi.mpiwg-berlin.mpg.de/place/442398	ISMI	0700	Azerbaijan	#178920
+86545	Barudi	https://ismi.mpiwg-berlin.mpg.de/place/86545	ISMI	0700		
+93607	Baṣra	https://ismi.mpiwg-berlin.mpg.de/place/93607	ISMI	0700	Iraq	#173298
+422190	Bayhaq	https://ismi.mpiwg-berlin.mpg.de/place/422190	ISMI	0700	Khurāsān	#310384
+86325	Beirut	https://ismi.mpiwg-berlin.mpg.de/place/86325	ISMI	0700	Lebanon	#174621
+179327	Belgium	https://ismi.mpiwg-berlin.mpg.de/place/179327	ISMI	0700		
+87247	Berlin	https://ismi.mpiwg-berlin.mpg.de/place/87247	ISMI	0700	Germany	#174492
+447960	Birgi	https://ismi.mpiwg-berlin.mpg.de/place/447960	ISMI	0700	İzmir	#49174
+86475	Birmingham, U.K.	https://ismi.mpiwg-berlin.mpg.de/place/86475	ISMI	0700	UK	#174533
+168025	Alamūt	https://ismi.mpiwg-berlin.mpg.de/place/168025	ISMI	0700	Iran	#174469
+88220	Bologna	https://ismi.mpiwg-berlin.mpg.de/place/88220	ISMI	0700	Italy	#173763
+431413	Bombay	https://ismi.mpiwg-berlin.mpg.de/place/431413	ISMI	0700	India	#174638
+179005	Bosnia/Herzegovina	https://ismi.mpiwg-berlin.mpg.de/place/179005	ISMI	0700		
+88049	Boston	https://ismi.mpiwg-berlin.mpg.de/place/88049	ISMI	0700	USA	#173554
+25201	Bourron	https://ismi.mpiwg-berlin.mpg.de/place/25201	ISMI	0700	France	#174775
+86686	Bratislava	https://ismi.mpiwg-berlin.mpg.de/place/86686	ISMI	0700	Slovakia	#173935
+88007	Brussels	https://ismi.mpiwg-berlin.mpg.de/place/88007	ISMI	0700	Belgium	#179327
+88038	Budapest	https://ismi.mpiwg-berlin.mpg.de/place/88038	ISMI	0700	Hungary	#178964
+87068	Bukhara	https://ismi.mpiwg-berlin.mpg.de/place/87068	ISMI	0700	Uzbekistan	#173272
+449376	Bulgaria	https://ismi.mpiwg-berlin.mpg.de/place/449376	ISMI	0700		
+88226	Burdur	https://ismi.mpiwg-berlin.mpg.de/place/88226	ISMI	0700	Turkey	#174510
+85658	Damascus	https://ismi.mpiwg-berlin.mpg.de/place/85658	ISMI	0700	Syria	#174694
+87313	Damietta	https://ismi.mpiwg-berlin.mpg.de/place/87313	ISMI	0700	Egypt	#173189
+85627	Bursa	https://ismi.mpiwg-berlin.mpg.de/place/85627	ISMI	0700	Turkey	#174510
+152291	Būzjān	https://ismi.mpiwg-berlin.mpg.de/place/152291	ISMI	0700		
+85226	Cairo	https://ismi.mpiwg-berlin.mpg.de/place/85226	ISMI	0700	Egypt	#173189
+86381	Calcutta	https://ismi.mpiwg-berlin.mpg.de/place/86381	ISMI	0700	India	#174638
+86439	Cambridge, MA	https://ismi.mpiwg-berlin.mpg.de/place/86439	ISMI	0700	USA	#173554
+86828	Cambridge, UK	https://ismi.mpiwg-berlin.mpg.de/place/86828	ISMI	0700	UK	#174533
+179459	Canada	https://ismi.mpiwg-berlin.mpg.de/place/179459	ISMI	0700		
+414387	Carmona	https://ismi.mpiwg-berlin.mpg.de/place/414387	ISMI	0700	Spain	#174730
+93084	Central Asia	https://ismi.mpiwg-berlin.mpg.de/place/93084	ISMI	0700		
+119665	Ceuta (northern Morocco)	https://ismi.mpiwg-berlin.mpg.de/place/119665	ISMI	0700	Spain	#174730
+85210	Constantinople	https://ismi.mpiwg-berlin.mpg.de/place/85210	ISMI	0700		
+87876	Copenhagen	https://ismi.mpiwg-berlin.mpg.de/place/87876	ISMI	0700	Denmark	#179170
+85178	Cordova (Spain)	https://ismi.mpiwg-berlin.mpg.de/place/85178	ISMI	0700		
+86378	Çorum	https://ismi.mpiwg-berlin.mpg.de/place/86378	ISMI	0700	Turkey	#174510
+338465	Cremona	https://ismi.mpiwg-berlin.mpg.de/place/338465	ISMI	0700	Italy	#173763
+87971	Fez	https://ismi.mpiwg-berlin.mpg.de/place/87971	ISMI	0700		
+441543	Deccan	https://ismi.mpiwg-berlin.mpg.de/place/441543	ISMI	0700	India	#174638
+87127	Denia (Spain)	https://ismi.mpiwg-berlin.mpg.de/place/87127	ISMI	0700		
+179170	Denmark	https://ismi.mpiwg-berlin.mpg.de/place/179170	ISMI	0700		
+88072	Detroit	https://ismi.mpiwg-berlin.mpg.de/place/88072	ISMI	0700	USA	#173554
+86551	Dhaka	https://ismi.mpiwg-berlin.mpg.de/place/86551	ISMI	0700	Bangladesh	#179186
+479550	Dhamār	https://ismi.mpiwg-berlin.mpg.de/place/479550	ISMI	0700	Yemen	#178900
+450324	Dīnawar	https://ismi.mpiwg-berlin.mpg.de/place/450324	ISMI	0700		
+87384	Diyarbakir	https://ismi.mpiwg-berlin.mpg.de/place/87384	ISMI	0700	Turkey	#174510
+493137	Doha	https://ismi.mpiwg-berlin.mpg.de/place/493137	ISMI	0700	Qatar	#493134
+87480	Dresden	https://ismi.mpiwg-berlin.mpg.de/place/87480	ISMI	0700	Germany	#174492
+86683	Dublin	https://ismi.mpiwg-berlin.mpg.de/place/86683	ISMI	0700	Ireland	#179659
+87927	Dushanbe	https://ismi.mpiwg-berlin.mpg.de/place/87927	ISMI	0700	Tajikistan	#179518
+356027	Écija	https://ismi.mpiwg-berlin.mpg.de/place/356027	ISMI	0700	Spain	#174730
+328715	Edessa	https://ismi.mpiwg-berlin.mpg.de/place/328715	ISMI	0700		
+87546	Edinburgh, Scotland	https://ismi.mpiwg-berlin.mpg.de/place/87546	ISMI	0700	UK	#174533
+85246	Edirne	https://ismi.mpiwg-berlin.mpg.de/place/85246	ISMI	0700	Turkey	#174510
+173189	Egypt	https://ismi.mpiwg-berlin.mpg.de/place/173189	ISMI	0700		
+119513	Elche (Andalusia)	https://ismi.mpiwg-berlin.mpg.de/place/119513	ISMI	0700	Spain	#174730
+437015	Erbil	https://ismi.mpiwg-berlin.mpg.de/place/437015	ISMI	0700		
+24616	Erfurt	https://ismi.mpiwg-berlin.mpg.de/place/24616	ISMI	0700	Germany	#174492
+87114	Erzincan	https://ismi.mpiwg-berlin.mpg.de/place/87114	ISMI	0700	Turkey	#174510
+270897	Erzurum	https://ismi.mpiwg-berlin.mpg.de/place/270897	ISMI	0700	Turkey	#174510
+330883	Ethiopia	https://ismi.mpiwg-berlin.mpg.de/place/330883	ISMI	0700		
+422251	Farab	https://ismi.mpiwg-berlin.mpg.de/place/422251	ISMI	0700		
+333575	Farghāna	https://ismi.mpiwg-berlin.mpg.de/place/333575	ISMI	0700		
+179766	Fās	https://ismi.mpiwg-berlin.mpg.de/place/179766	ISMI	0700	Morocco	#173531
+441547	Fatḥ-Nakr	https://ismi.mpiwg-berlin.mpg.de/place/441547	ISMI	0700	Deccan	#441543
+142708	Giza	https://ismi.mpiwg-berlin.mpg.de/place/142708	ISMI	0700	Egypt	#173189
+86946	Glasgow	https://ismi.mpiwg-berlin.mpg.de/place/86946	ISMI	0700	UK	#174533
+179423	Golkanda	https://ismi.mpiwg-berlin.mpg.de/place/179423	ISMI	0700		
+87176	Gotha	https://ismi.mpiwg-berlin.mpg.de/place/87176	ISMI	0700	Germany	#174492
+87757	Florence	https://ismi.mpiwg-berlin.mpg.de/place/87757	ISMI	0700	Italy	#173763
+174775	France	https://ismi.mpiwg-berlin.mpg.de/place/174775	ISMI	0700		
+529096	Galata	https://ismi.mpiwg-berlin.mpg.de/place/529096	ISMI	0700	Istanbul	#85148
+140190	Ġandagān (near Shiraz)	https://ismi.mpiwg-berlin.mpg.de/place/140190	ISMI	0700	Iran	#174469
+447260	Gaziantep (Ayntāb)	https://ismi.mpiwg-berlin.mpg.de/place/447260	ISMI	0700	Turkey	#174510
+525410	Gelibolu	https://ismi.mpiwg-berlin.mpg.de/place/525410	ISMI	0700		
+179183	Georgia	https://ismi.mpiwg-berlin.mpg.de/place/179183	ISMI	0700		
+174492	Germany	https://ismi.mpiwg-berlin.mpg.de/place/174492	ISMI	0700		
+153829	Ghazna	https://ismi.mpiwg-berlin.mpg.de/place/153829	ISMI	0700	Afghanistan	#179798
+85304	Gīlān (Iran)	https://ismi.mpiwg-berlin.mpg.de/place/85304	ISMI	0700		
+87304	Giresun	https://ismi.mpiwg-berlin.mpg.de/place/87304	ISMI	0700	Turkey	#174510
+1129	Göttingen	https://ismi.mpiwg-berlin.mpg.de/place/1129	ISMI	0700	Germany	#174492
+88223	Granada	https://ismi.mpiwg-berlin.mpg.de/place/88223	ISMI	0700	Spain	#174730
+71938	Greece	https://ismi.mpiwg-berlin.mpg.de/place/71938	ISMI	0700		
+436281	Guadix	https://ismi.mpiwg-berlin.mpg.de/place/436281	ISMI	0700	Spain	#174730
+312817	Gülistan (Guliston)	https://ismi.mpiwg-berlin.mpg.de/place/312817	ISMI	0700	Uzbekistan	#173272
+327648	Gundeshapur [Gundēšāpūr] (Fars)	https://ismi.mpiwg-berlin.mpg.de/place/327648	ISMI	0700	Iran	#174469
+85367	Gurganj	https://ismi.mpiwg-berlin.mpg.de/place/85367	ISMI	0700		
+86943	Hamadan	https://ismi.mpiwg-berlin.mpg.de/place/86943	ISMI	0700	Iran	#174469
+311328	Ḥamāh	https://ismi.mpiwg-berlin.mpg.de/place/311328	ISMI	0700	Syria	#174694
+87597	Hamburg	https://ismi.mpiwg-berlin.mpg.de/place/87597	ISMI	0700	Germany	#174492
+347936	Harran	https://ismi.mpiwg-berlin.mpg.de/place/347936	ISMI	0700	Turkey	#174510
+374418	Ḫujand	https://ismi.mpiwg-berlin.mpg.de/place/374418	ISMI	0700	Tajikistan	#179518
+86434	Heidelberg	https://ismi.mpiwg-berlin.mpg.de/place/86434	ISMI	0700	Germany	#174492
+71934	Heraklion (Iraklion, Candia, Qandiya; in Crete)	https://ismi.mpiwg-berlin.mpg.de/place/71934	ISMI	0700	Greece	#71938
+374934	Herat	https://ismi.mpiwg-berlin.mpg.de/place/374934	ISMI	0700	Afghanistan	#179798
+154074	Ḫilāṭ [Aḫlāṭ]	https://ismi.mpiwg-berlin.mpg.de/place/154074	ISMI	0700		
+178964	Hungary	https://ismi.mpiwg-berlin.mpg.de/place/178964	ISMI	0700		
+88276	Hyderabad	https://ismi.mpiwg-berlin.mpg.de/place/88276	ISMI	0700	India	#174638
+174638	India	https://ismi.mpiwg-berlin.mpg.de/place/174638	ISMI	0700		
+173690	Indonesia	https://ismi.mpiwg-berlin.mpg.de/place/173690	ISMI	0700		
+174469	Iran	https://ismi.mpiwg-berlin.mpg.de/place/174469	ISMI	0700		
+173298	Iraq	https://ismi.mpiwg-berlin.mpg.de/place/173298	ISMI	0700		
+179659	Ireland	https://ismi.mpiwg-berlin.mpg.de/place/179659	ISMI	0700		
+87474	Isfahan	https://ismi.mpiwg-berlin.mpg.de/place/87474	ISMI	0700	Iran	#174469
+384589	Isfarain	https://ismi.mpiwg-berlin.mpg.de/place/384589	ISMI	0700	Iran	#174469
+356327	Iṣṭaḫr	https://ismi.mpiwg-berlin.mpg.de/place/356327	ISMI	0700	Iran	#174469
+85148	Istanbul	https://ismi.mpiwg-berlin.mpg.de/place/85148	ISMI	0700	Turkey	#174510
+173763	Italy	https://ismi.mpiwg-berlin.mpg.de/place/173763	ISMI	0700		
+382383	Jawhar	https://ismi.mpiwg-berlin.mpg.de/place/382383	ISMI	0700		
+450367	Jayyān (Jaén)	https://ismi.mpiwg-berlin.mpg.de/place/450367	ISMI	0700	Andalusia	#93261
+87387	Jerusalem	https://ismi.mpiwg-berlin.mpg.de/place/87387	ISMI	0700	Palestine/Israel	#179483
+86701	Jibla	https://ismi.mpiwg-berlin.mpg.de/place/86701	ISMI	0700	Yemen	#178900
+85370	Jurjān	https://ismi.mpiwg-berlin.mpg.de/place/85370	ISMI	0700		
+86618	Kabul	https://ismi.mpiwg-berlin.mpg.de/place/86618	ISMI	0700	Afghanistan	#179798
+87440	Kaduna	https://ismi.mpiwg-berlin.mpg.de/place/87440	ISMI	0700	Nigeria	#178897
+87727	Kairouan	https://ismi.mpiwg-berlin.mpg.de/place/87727	ISMI	0700		
+87040	Kairouan (Qayrawān)	https://ismi.mpiwg-berlin.mpg.de/place/87040	ISMI	0700		
+33055	Kapūrt’halah, India	https://ismi.mpiwg-berlin.mpg.de/place/33055	ISMI	0700	India	#174638
+381807	Karaj	https://ismi.mpiwg-berlin.mpg.de/place/381807	ISMI	0700	Iran	#174469
+87511	Karbala	https://ismi.mpiwg-berlin.mpg.de/place/87511	ISMI	0700		
+488271	Kashan	https://ismi.mpiwg-berlin.mpg.de/place/488271	ISMI	0700	Iran	#174469
+155387	Kashghar	https://ismi.mpiwg-berlin.mpg.de/place/155387	ISMI	0700		
+87594	Kastamonu	https://ismi.mpiwg-berlin.mpg.de/place/87594	ISMI	0700	Turkey	#174510
+155041	Kaṯ	https://ismi.mpiwg-berlin.mpg.de/place/155041	ISMI	0700		
+88310	Kayseri	https://ismi.mpiwg-berlin.mpg.de/place/88310	ISMI	0700	Turkey	#174510
+382381	Kazakhstan	https://ismi.mpiwg-berlin.mpg.de/place/382381	ISMI	0700		
+86288	Kazan	https://ismi.mpiwg-berlin.mpg.de/place/86288	ISMI	0700	Russia	#174659
+177048	Kazimiya	https://ismi.mpiwg-berlin.mpg.de/place/177048	ISMI	0700	Iraq	#173298
+86520	Kazimiya	https://ismi.mpiwg-berlin.mpg.de/place/86520	ISMI	0700		
+87173	Khar'kov	https://ismi.mpiwg-berlin.mpg.de/place/87173	ISMI	0700		
+310384	Khurāsān	https://ismi.mpiwg-berlin.mpg.de/place/310384	ISMI	0700	Turkmenistan	#178885
+325429	Khuttal	https://ismi.mpiwg-berlin.mpg.de/place/325429	ISMI	0700		
+25264	Khuzistan	https://ismi.mpiwg-berlin.mpg.de/place/25264	ISMI	0700	Iran	#174469
+310048	Khwārizm	https://ismi.mpiwg-berlin.mpg.de/place/310048	ISMI	0700	Turkmenistan	#178885
+87477	Kiev	https://ismi.mpiwg-berlin.mpg.de/place/87477	ISMI	0700	Ukraine	#173857
+87152	Kiliç	https://ismi.mpiwg-berlin.mpg.de/place/87152	ISMI	0700	Turkey	#174510
+443803	Kilis	https://ismi.mpiwg-berlin.mpg.de/place/443803	ISMI	0700	Turkey	#174510
+380989	Kirman	https://ismi.mpiwg-berlin.mpg.de/place/380989	ISMI	0700	Iran	#174469
+49174	İzmir	https://ismi.mpiwg-berlin.mpg.de/place/49174	ISMI	0700	Turkey	#174510
+447733	Iznik	https://ismi.mpiwg-berlin.mpg.de/place/447733	ISMI	0700	Bursa	#85627
+395007	Jaén	https://ismi.mpiwg-berlin.mpg.de/place/395007	ISMI	0700	Spain	#174730
+86356	Jaipur	https://ismi.mpiwg-berlin.mpg.de/place/86356	ISMI	0700	India	#174638
+86449	Jakarta (formerly Batavia)	https://ismi.mpiwg-berlin.mpg.de/place/86449	ISMI	0700	Indonesia	#173690
+271745	Jāmiʿ Naqīb al-Juyūš	https://ismi.mpiwg-berlin.mpg.de/place/271745	ISMI	0700		
+34602	Lār	https://ismi.mpiwg-berlin.mpg.de/place/34602	ISMI	0700		
+174621	Lebanon	https://ismi.mpiwg-berlin.mpg.de/place/174621	ISMI	0700		
+86776	Leiden	https://ismi.mpiwg-berlin.mpg.de/place/86776	ISMI	0700	Netherlands	#174707
+87228	Leipzig	https://ismi.mpiwg-berlin.mpg.de/place/87228	ISMI	0700	Germany	#174492
+178992	Libya	https://ismi.mpiwg-berlin.mpg.de/place/178992	ISMI	0700		
+86645	London	https://ismi.mpiwg-berlin.mpg.de/place/86645	ISMI	0700	UK	#174533
+88247	Los Angeles, CA	https://ismi.mpiwg-berlin.mpg.de/place/88247	ISMI	0700	USA	#173554
+86969	Lucknow	https://ismi.mpiwg-berlin.mpg.de/place/86969	ISMI	0700	India	#174638
+87628	Madras	https://ismi.mpiwg-berlin.mpg.de/place/87628	ISMI	0700	India	#174638
+438040	Madrasa Kāmiliyya	https://ismi.mpiwg-berlin.mpg.de/place/438040	ISMI	0700	Cairo	#85226
+22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy	https://ismi.mpiwg-berlin.mpg.de/place/22073	ISMI	0700	Cairo	#85226
+38142	Madrasah Šāh zādah Muḥammad Ḫān	https://ismi.mpiwg-berlin.mpg.de/place/38142	ISMI	0700	unknown country	#200567
+23268	Madrasaẗ Ilyās al-Mawlỳ ibn Ramaḍān	https://ismi.mpiwg-berlin.mpg.de/place/23268	ISMI	0700		
+23251	Madrasaẗ Šayḫ Muḥammad Afandī	https://ismi.mpiwg-berlin.mpg.de/place/23251	ISMI	0700		
+86912	Madrid	https://ismi.mpiwg-berlin.mpg.de/place/86912	ISMI	0700	Spain	#174730
+478778	Maġrib	https://ismi.mpiwg-berlin.mpg.de/place/478778	ISMI	0700	North Africa	#93622
+86446	Mahachqala	https://ismi.mpiwg-berlin.mpg.de/place/86446	ISMI	0700	Russia	#174659
+87719	Makhachqala	https://ismi.mpiwg-berlin.mpg.de/place/87719	ISMI	0700	Russia	#174659
+140728	Malaga	https://ismi.mpiwg-berlin.mpg.de/place/140728	ISMI	0700	Spain	#174730
+85376	Malatya	https://ismi.mpiwg-berlin.mpg.de/place/85376	ISMI	0700	Turkey	#174510
+87080	Manchester	https://ismi.mpiwg-berlin.mpg.de/place/87080	ISMI	0700	UK	#174533
+87295	Manisa	https://ismi.mpiwg-berlin.mpg.de/place/87295	ISMI	0700	Turkey	#174510
+85354	Marāgha	https://ismi.mpiwg-berlin.mpg.de/place/85354	ISMI	0700		
+85558	Marāgha/Baghdad*	https://ismi.mpiwg-berlin.mpg.de/place/85558	ISMI	0700		
+441899	Maraş (Kahramanmaraş)	https://ismi.mpiwg-berlin.mpg.de/place/441899	ISMI	0700	Turkey	#174510
+312831	Mardin	https://ismi.mpiwg-berlin.mpg.de/place/312831	ISMI	0700	Turkey	#174510
+85336	Marrakech (Morocco)	https://ismi.mpiwg-berlin.mpg.de/place/85336	ISMI	0700		
+153834	Marw	https://ismi.mpiwg-berlin.mpg.de/place/153834	ISMI	0700	Turkmenistan	#178885
+390282	Marwarrüḏ	https://ismi.mpiwg-berlin.mpg.de/place/390282	ISMI	0700	Afghanistan	#179798
+86575	Mar`ashi	https://ismi.mpiwg-berlin.mpg.de/place/86575	ISMI	0700		
+87957	Mashhad	https://ismi.mpiwg-berlin.mpg.de/place/87957	ISMI	0700	Iran	#174469
+87301	Konya	https://ismi.mpiwg-berlin.mpg.de/place/87301	ISMI	0700	Turkey	#174510
+93604	Kufa	https://ismi.mpiwg-berlin.mpg.de/place/93604	ISMI	0700	Iraq	#173298
+525086	Kütahya	https://ismi.mpiwg-berlin.mpg.de/place/525086	ISMI	0700	Turkey	#174510
+440170	Kuwait	https://ismi.mpiwg-berlin.mpg.de/place/440170	ISMI	0700		
+440173	Kuwait City	https://ismi.mpiwg-berlin.mpg.de/place/440173	ISMI	0700	Kuwait	#440170
+443486	Ladik	https://ismi.mpiwg-berlin.mpg.de/place/443486	ISMI	0700	Turkey	#174510
+87930	Lahore	https://ismi.mpiwg-berlin.mpg.de/place/87930	ISMI	0700	Pakistan	#179735
+442709	Māwaẗ	https://ismi.mpiwg-berlin.mpg.de/place/442709	ISMI	0700	Sulaymaniyah	#442705
+498926	Mazandaran	https://ismi.mpiwg-berlin.mpg.de/place/498926	ISMI	0700	Iran	#174469
+127632	Mecca	https://ismi.mpiwg-berlin.mpg.de/place/127632	ISMI	0700	Saudi Arabia	#179081
+87879	Medina	https://ismi.mpiwg-berlin.mpg.de/place/87879	ISMI	0700	Saudi Arabia	#179081
+426724	Mehdia	https://ismi.mpiwg-berlin.mpg.de/place/426724	ISMI	0700	Tunisia	#173557
+318030	Mersin/Tarsus	https://ismi.mpiwg-berlin.mpg.de/place/318030	ISMI	0700	Turkey	#174510
+485679	Merv	https://ismi.mpiwg-berlin.mpg.de/place/485679	ISMI	0700	Turkmenistan	#178885
+87404	Milan	https://ismi.mpiwg-berlin.mpg.de/place/87404	ISMI	0700	Italy	#173763
+69524	Mocha	https://ismi.mpiwg-berlin.mpg.de/place/69524	ISMI	0700	Yemen	#178900
+87483	Montpelier	https://ismi.mpiwg-berlin.mpg.de/place/87483	ISMI	0700	USA	#173554
+88035	Montreal	https://ismi.mpiwg-berlin.mpg.de/place/88035	ISMI	0700	Canada	#179459
+173531	Morocco	https://ismi.mpiwg-berlin.mpg.de/place/173531	ISMI	0700		
+86758	Moscow	https://ismi.mpiwg-berlin.mpg.de/place/86758	ISMI	0700	Russia	#174659
+85483	Mosul	https://ismi.mpiwg-berlin.mpg.de/place/85483	ISMI	0700	Iraq	#173298
+86422	Mysore	https://ismi.mpiwg-berlin.mpg.de/place/86422	ISMI	0700	India	#174638
+87804	Najaf	https://ismi.mpiwg-berlin.mpg.de/place/87804	ISMI	0700	Iraq	#173298
+445345	Nakhchivan	https://ismi.mpiwg-berlin.mpg.de/place/445345	ISMI	0700	Azerbaijan	#178920
+310373	Nasā	https://ismi.mpiwg-berlin.mpg.de/place/310373	ISMI	0700	Turkmenistan	#178885
+428715	Nasaf	https://ismi.mpiwg-berlin.mpg.de/place/428715	ISMI	0700		
+87234	Navsari	https://ismi.mpiwg-berlin.mpg.de/place/87234	ISMI	0700	India	#174638
+530136	Mukalla	https://ismi.mpiwg-berlin.mpg.de/place/530136	ISMI	0700	Yemen	#178900
+87556	Mumbai	https://ismi.mpiwg-berlin.mpg.de/place/87556	ISMI	0700	India	#174638
+87231	Munich	https://ismi.mpiwg-berlin.mpg.de/place/87231	ISMI	0700	Germany	#174492
+87347	Muradabad, India	https://ismi.mpiwg-berlin.mpg.de/place/87347	ISMI	0700		
+431843	Murcia	https://ismi.mpiwg-berlin.mpg.de/place/431843	ISMI	0700	Spain	#174730
+93622	North Africa	https://ismi.mpiwg-berlin.mpg.de/place/93622	ISMI	0700		
+350648	Nūr Aḥmadiyya	https://ismi.mpiwg-berlin.mpg.de/place/350648	ISMI	0700	ʿAkkā	#350573
+174707	Netherlands	https://ismi.mpiwg-berlin.mpg.de/place/174707	ISMI	0700		
+88323	New Haven, CT	https://ismi.mpiwg-berlin.mpg.de/place/88323	ISMI	0700	USA	#173554
+87609	New York	https://ismi.mpiwg-berlin.mpg.de/place/87609	ISMI	0700	USA	#173554
+86603	Niğde	https://ismi.mpiwg-berlin.mpg.de/place/86603	ISMI	0700	Turkey	#174510
+178897	Nigeria	https://ismi.mpiwg-berlin.mpg.de/place/178897	ISMI	0700		
+482817	Niksar	https://ismi.mpiwg-berlin.mpg.de/place/482817	ISMI	0700	Anatolia	#482813
+85301	Nīshābūr	https://ismi.mpiwg-berlin.mpg.de/place/85301	ISMI	0700		
+134677	Nisibis	https://ismi.mpiwg-berlin.mpg.de/place/134677	ISMI	0700	Syria	#174694
+43390	Niẓāmiyya	https://ismi.mpiwg-berlin.mpg.de/place/43390	ISMI	0700	Baghdad	#167760
+87742	Odessa	https://ismi.mpiwg-berlin.mpg.de/place/87742	ISMI	0700		
+156139	Oran	https://ismi.mpiwg-berlin.mpg.de/place/156139	ISMI	0700	Algeria	#173275
+443952	Osmancık	https://ismi.mpiwg-berlin.mpg.de/place/443952	ISMI	0700	Çorum	#86378
+517299	Otlukbeli	https://ismi.mpiwg-berlin.mpg.de/place/517299	ISMI	0700	Erzincan	#87114
+86816	Oxford	https://ismi.mpiwg-berlin.mpg.de/place/86816	ISMI	0700	UK	#174533
+179735	Pakistan	https://ismi.mpiwg-berlin.mpg.de/place/179735	ISMI	0700		
+276374	Palermo	https://ismi.mpiwg-berlin.mpg.de/place/276374	ISMI	0700	Italy	#173763
+179483	Palestine/Israel	https://ismi.mpiwg-berlin.mpg.de/place/179483	ISMI	0700		
+86667	Paris	https://ismi.mpiwg-berlin.mpg.de/place/86667	ISMI	0700	France	#174775
+87844	Patiala (Kapurthala)	https://ismi.mpiwg-berlin.mpg.de/place/87844	ISMI	0700	India	#174638
+86909	Patna	https://ismi.mpiwg-berlin.mpg.de/place/86909	ISMI	0700	India	#174638
+88340	Peshawar	https://ismi.mpiwg-berlin.mpg.de/place/88340	ISMI	0700	Pakistan	#179735
+44417	Philadelphia, PA	https://ismi.mpiwg-berlin.mpg.de/place/44417	ISMI	0700	USA	#173554
+449379	Plovdiv (Filibe)	https://ismi.mpiwg-berlin.mpg.de/place/449379	ISMI	0700	Bulgaria	#449376
+86846	Princeton	https://ismi.mpiwg-berlin.mpg.de/place/86846	ISMI	0700	USA	#173554
+153698	Qabadiyan (or Qubadiyan modern Nosiri Khusrav in SE Tajikistan)	https://ismi.mpiwg-berlin.mpg.de/place/153698	ISMI	0700	Tajikistan	#179518
+493134	Qatar	https://ismi.mpiwg-berlin.mpg.de/place/493134	ISMI	0700		
+174008	Qayrawan	https://ismi.mpiwg-berlin.mpg.de/place/174008	ISMI	0700	Tunisia	#173557
+463432	Qazwīn	https://ismi.mpiwg-berlin.mpg.de/place/463432	ISMI	0700	Iran	#174469
+167982	Qāʾin	https://ismi.mpiwg-berlin.mpg.de/place/167982	ISMI	0700	Qūhistān	#168047
+319018	Qift	https://ismi.mpiwg-berlin.mpg.de/place/319018	ISMI	0700	Egypt	#173189
+326959	Qinnasrin	https://ismi.mpiwg-berlin.mpg.de/place/326959	ISMI	0700	Syria	#174694
+168047	Qūhistān	https://ismi.mpiwg-berlin.mpg.de/place/168047	ISMI	0700	Iran	#174469
+457991	Qum	https://ismi.mpiwg-berlin.mpg.de/place/457991	ISMI	0700	Iran	#174469
+86749	Rabat	https://ismi.mpiwg-berlin.mpg.de/place/86749	ISMI	0700	Morocco	#173531
+86252	Rajab	https://ismi.mpiwg-berlin.mpg.de/place/86252	ISMI	0700	Iraq	#173298
+86730	Rampur	https://ismi.mpiwg-berlin.mpg.de/place/86730	ISMI	0700	India	#174638
+363352	Raqqa	https://ismi.mpiwg-berlin.mpg.de/place/363352	ISMI	0700		
+88250	Rasht	https://ismi.mpiwg-berlin.mpg.de/place/88250	ISMI	0700	Iran	#174469
+87984	Rayy	https://ismi.mpiwg-berlin.mpg.de/place/87984	ISMI	0700	Iran	#174469
+85672	Rayy (Iran)	https://ismi.mpiwg-berlin.mpg.de/place/85672	ISMI	0700		
+87533	Rome	https://ismi.mpiwg-berlin.mpg.de/place/87533	ISMI	0700	Italy	#173763
+174659	Russia	https://ismi.mpiwg-berlin.mpg.de/place/174659	ISMI	0700		
+108354	Salamanca (Spain)	https://ismi.mpiwg-berlin.mpg.de/place/108354	ISMI	0700	Spain	#174730
+179683	Salé	https://ismi.mpiwg-berlin.mpg.de/place/179683	ISMI	0700	Morocco	#173531
+362860	Samarqand	https://ismi.mpiwg-berlin.mpg.de/place/362860	ISMI	0700	Uzbekistan	#173272
+329068	Samarra	https://ismi.mpiwg-berlin.mpg.de/place/329068	ISMI	0700	Iraq	#173298
+502402	Samsun	https://ismi.mpiwg-berlin.mpg.de/place/502402	ISMI	0700	Turkey	#174510
+163900	San Lorenzo de El Escorial	https://ismi.mpiwg-berlin.mpg.de/place/163900	ISMI	0700	Spain	#174730
+87660	Sana`a	https://ismi.mpiwg-berlin.mpg.de/place/87660	ISMI	0700	Yemen	#178900
+85151	Saragossa (Spain)	https://ismi.mpiwg-berlin.mpg.de/place/85151	ISMI	0700		
+320173	Sarai (Saraj or Saray)	https://ismi.mpiwg-berlin.mpg.de/place/320173	ISMI	0700	Sarai (Saraj or Saray)	#320173
+87807	Sarajevo	https://ismi.mpiwg-berlin.mpg.de/place/87807	ISMI	0700	Bosnia/Herzegovina	#179005
+331126	Sarakhs	https://ismi.mpiwg-berlin.mpg.de/place/331126	ISMI	0700	Iran	#174469
+313825	Serakhs	https://ismi.mpiwg-berlin.mpg.de/place/313825	ISMI	0700	Turkmenistan	#178885
+140114	Seville	https://ismi.mpiwg-berlin.mpg.de/place/140114	ISMI	0700	Spain	#174730
+119509	Sfax (Tunisia)	https://ismi.mpiwg-berlin.mpg.de/place/119509	ISMI	0700	Tunisia	#173557
+433318	Shahrazur	https://ismi.mpiwg-berlin.mpg.de/place/433318	ISMI	0700	Iraq	#173298
+86746	Shibin al-Qum	https://ismi.mpiwg-berlin.mpg.de/place/86746	ISMI	0700	Egypt	#173189
+455703	Shikohabad	https://ismi.mpiwg-berlin.mpg.de/place/455703	ISMI	0700	India	#174638
+85653	Shiraz	https://ismi.mpiwg-berlin.mpg.de/place/85653	ISMI	0700	Iran	#174469
+446245	Shirvān‎	https://ismi.mpiwg-berlin.mpg.de/place/446245	ISMI	0700	Azerbaijan	#178920
+4404	Shirwān, Shamākhi	https://ismi.mpiwg-berlin.mpg.de/place/4404	ISMI	0700	Azerbaijan	#178920
+141246	Sicily	https://ismi.mpiwg-berlin.mpg.de/place/141246	ISMI	0700	Italy	#173763
+350578	Sidon	https://ismi.mpiwg-berlin.mpg.de/place/350578	ISMI	0700	Lebanon	#174621
+376768	Sijistan	https://ismi.mpiwg-berlin.mpg.de/place/376768	ISMI	0700		
+360314	Siraf	https://ismi.mpiwg-berlin.mpg.de/place/360314	ISMI	0700	Iran	#174469
+85537	Sīwās (NE Turkey)	https://ismi.mpiwg-berlin.mpg.de/place/85537	ISMI	0700		
+173935	Slovakia	https://ismi.mpiwg-berlin.mpg.de/place/173935	ISMI	0700		
+174730	Spain	https://ismi.mpiwg-berlin.mpg.de/place/174730	ISMI	0700		
+85534	Sartakht	https://ismi.mpiwg-berlin.mpg.de/place/85534	ISMI	0700		
+456861	Satarāh	https://ismi.mpiwg-berlin.mpg.de/place/456861	ISMI	0700	India	#174638
+179081	Saudi Arabia	https://ismi.mpiwg-berlin.mpg.de/place/179081	ISMI	0700		
+393060	St Andrews, Fife, Scotland	https://ismi.mpiwg-berlin.mpg.de/place/393060	ISMI	0700	UK	#174533
+87260	St. Petersburg	https://ismi.mpiwg-berlin.mpg.de/place/87260	ISMI	0700	Russia	#174659
+74460	Stockholm	https://ismi.mpiwg-berlin.mpg.de/place/74460	ISMI	0700		
+86689	Strasbourg	https://ismi.mpiwg-berlin.mpg.de/place/86689	ISMI	0700	France	#174775
+437147	Suhraward	https://ismi.mpiwg-berlin.mpg.de/place/437147	ISMI	0700		
+442705	Sulaymaniyah	https://ismi.mpiwg-berlin.mpg.de/place/442705	ISMI	0700	Iraq	#173298
+374813	Sumaysat	https://ismi.mpiwg-berlin.mpg.de/place/374813	ISMI	0700	Syria	#174694
+178937	Sweden	https://ismi.mpiwg-berlin.mpg.de/place/178937	ISMI	0700		
+174694	Syria	https://ismi.mpiwg-berlin.mpg.de/place/174694	ISMI	0700		
+314816	Tabaristan	https://ismi.mpiwg-berlin.mpg.de/place/314816	ISMI	0700	Iran	#174469
+484892	Tabrīz	https://ismi.mpiwg-berlin.mpg.de/place/484892	ISMI	0700	Iran	#174469
+412619	Taft	https://ismi.mpiwg-berlin.mpg.de/place/412619	ISMI	0700	Yazd	#87675
+276430	Segovia	https://ismi.mpiwg-berlin.mpg.de/place/276430	ISMI	0700	Spain	#174730
+179518	Tajikistan	https://ismi.mpiwg-berlin.mpg.de/place/179518	ISMI	0700		
+142459	Takrit	https://ismi.mpiwg-berlin.mpg.de/place/142459	ISMI	0700	Iraq	#173298
+85640	Taku	https://ismi.mpiwg-berlin.mpg.de/place/85640	ISMI	0700		
+473519	Tazeghedra	https://ismi.mpiwg-berlin.mpg.de/place/473519	ISMI	0700	Morocco	#173531
+87569	Tbilisi	https://ismi.mpiwg-berlin.mpg.de/place/87569	ISMI	0700	Georgia	#179183
+86384	Tehran	https://ismi.mpiwg-berlin.mpg.de/place/86384	ISMI	0700	Iran	#174469
+85113	Terjān	https://ismi.mpiwg-berlin.mpg.de/place/85113	ISMI	0700		
+348362	Test City	https://ismi.mpiwg-berlin.mpg.de/place/348362	ISMI	0700		
+86874	Tetuan	https://ismi.mpiwg-berlin.mpg.de/place/86874	ISMI	0700	Morocco	#173531
+87437	Tangier	https://ismi.mpiwg-berlin.mpg.de/place/87437	ISMI	0700	Morocco	#173531
+86233	Tarim, Yemen	https://ismi.mpiwg-berlin.mpg.de/place/86233	ISMI	0700	Yemen	#178900
+359019	Tarsus	https://ismi.mpiwg-berlin.mpg.de/place/359019	ISMI	0700		
+86548	Tashkent	https://ismi.mpiwg-berlin.mpg.de/place/86548	ISMI	0700	Uzbekistan	#173272
+25277	Tiflis (Tbilisi)	https://ismi.mpiwg-berlin.mpg.de/place/25277	ISMI	0700	Georgia	#179183
+321561	Tlemcen	https://ismi.mpiwg-berlin.mpg.de/place/321561	ISMI	0700	Algeria	#173275
+443439	Tokat	https://ismi.mpiwg-berlin.mpg.de/place/443439	ISMI	0700	Turkey	#174510
+140646	Toledo	https://ismi.mpiwg-berlin.mpg.de/place/140646	ISMI	0700	Spain	#174730
+86779	Tonk	https://ismi.mpiwg-berlin.mpg.de/place/86779	ISMI	0700		
+38689	Toronto	https://ismi.mpiwg-berlin.mpg.de/place/38689	ISMI	0700	Canada	#179459
+108386	Tortosa (Catalonia)	https://ismi.mpiwg-berlin.mpg.de/place/108386	ISMI	0700	Spain	#174730
+19074	Trebizond (Trabzon)	https://ismi.mpiwg-berlin.mpg.de/place/19074	ISMI	0700		
+86507	Tripoli	https://ismi.mpiwg-berlin.mpg.de/place/86507	ISMI	0700	Libya	#178992
+86533	Tübingen	https://ismi.mpiwg-berlin.mpg.de/place/86533	ISMI	0700	Germany	#174492
+86632	Tunis	https://ismi.mpiwg-berlin.mpg.de/place/86632	ISMI	0700	Tunisia	#173557
+173557	Tunisia	https://ismi.mpiwg-berlin.mpg.de/place/173557	ISMI	0700		
+86305	Turin	https://ismi.mpiwg-berlin.mpg.de/place/86305	ISMI	0700	Italy	#173763
+174510	Turkey	https://ismi.mpiwg-berlin.mpg.de/place/174510	ISMI	0700		
+178885	Turkmenistan	https://ismi.mpiwg-berlin.mpg.de/place/178885	ISMI	0700		
+85545	Ṭūs	https://ismi.mpiwg-berlin.mpg.de/place/85545	ISMI	0700		
+87257	Ufa	https://ismi.mpiwg-berlin.mpg.de/place/87257	ISMI	0700	Russia	#174659
+174533	UK	https://ismi.mpiwg-berlin.mpg.de/place/174533	ISMI	0700		
+173857	Ukraine	https://ismi.mpiwg-berlin.mpg.de/place/173857	ISMI	0700		
+350677	UNKNOWN	https://ismi.mpiwg-berlin.mpg.de/place/350677	ISMI	0700		
+179446	unknown city is part of Canada	https://ismi.mpiwg-berlin.mpg.de/place/179446	ISMI	0700	Canada	#179459
+177105	unknown city is part of Germany	https://ismi.mpiwg-berlin.mpg.de/place/177105	ISMI	0700	Germany	#174492
+173343	unknown city is part of Iran	https://ismi.mpiwg-berlin.mpg.de/place/173343	ISMI	0700	Iran	#174469
+179801	unknown city is part of Iraq	https://ismi.mpiwg-berlin.mpg.de/place/179801	ISMI	0700	Iraq	#173298
+176454	unknown city is part of Morocco	https://ismi.mpiwg-berlin.mpg.de/place/176454	ISMI	0700	Morocco	#173531
+200570	unknown city is part of unknown country	https://ismi.mpiwg-berlin.mpg.de/place/200570	ISMI	0700	unknown country	#200567
+200567	unknown country	https://ismi.mpiwg-berlin.mpg.de/place/200567	ISMI	0700		
+155747	Upal	https://ismi.mpiwg-berlin.mpg.de/place/155747	ISMI	0700		
+86266	Uppsala	https://ismi.mpiwg-berlin.mpg.de/place/86266	ISMI	0700	Sweden	#178937
+173554	USA	https://ismi.mpiwg-berlin.mpg.de/place/173554	ISMI	0700		
+447130	Uskudar	https://ismi.mpiwg-berlin.mpg.de/place/447130	ISMI	0700	Istanbul	#85148
+173272	Uzbekistan	https://ismi.mpiwg-berlin.mpg.de/place/173272	ISMI	0700		
+142599	Valencia	https://ismi.mpiwg-berlin.mpg.de/place/142599	ISMI	0700	Spain	#174730
+38383	Vatican City	https://ismi.mpiwg-berlin.mpg.de/place/38383	ISMI	0700	Vatican City State	#43921
+43921	Vatican City State	https://ismi.mpiwg-berlin.mpg.de/place/43921	ISMI	0700		
+501761	Yedikule	https://ismi.mpiwg-berlin.mpg.de/place/501761	ISMI	0700	Istanbul	#85148
+178900	Yemen	https://ismi.mpiwg-berlin.mpg.de/place/178900	ISMI	0700		
+87640	Yerevan	https://ismi.mpiwg-berlin.mpg.de/place/87640	ISMI	0700	Armenia	#173852
+87882	Yozgat	https://ismi.mpiwg-berlin.mpg.de/place/87882	ISMI	0700	Turkey	#174510
+87199	Zabid	https://ismi.mpiwg-berlin.mpg.de/place/87199	ISMI	0700		
+483787	Zabid	https://ismi.mpiwg-berlin.mpg.de/place/483787	ISMI	0700	Yemen	#178900
+498785	Ẓāhiriyya Juwāniyya madrasa	https://ismi.mpiwg-berlin.mpg.de/place/498785	ISMI	0700	Damascus	#85658
+108247	Zahra (suburb of Cordova)	https://ismi.mpiwg-berlin.mpg.de/place/108247	ISMI	0700	Spain	#174730
+458112	Zanjān	https://ismi.mpiwg-berlin.mpg.de/place/458112	ISMI	0700	Iran	#174469
+142614	Zaragoza	https://ismi.mpiwg-berlin.mpg.de/place/142614	ISMI	0700	Spain	#174730
+87037	Vienna	https://ismi.mpiwg-berlin.mpg.de/place/87037	ISMI	0700	Austria	#173483
+436967	Wādyāš	https://ismi.mpiwg-berlin.mpg.de/place/436967	ISMI	0700	Spain	#174730
+142516	Wann (Khuzistan)	https://ismi.mpiwg-berlin.mpg.de/place/142516	ISMI	0700	Iran	#174469
+87833	Washington D.C.	https://ismi.mpiwg-berlin.mpg.de/place/87833	ISMI	0700	USA	#173554
+458696	Wāsiṭ	https://ismi.mpiwg-berlin.mpg.de/place/458696	ISMI	0700	Iraq	#173298
+141626	Wāsiṭa (south of Cordoba)	https://ismi.mpiwg-berlin.mpg.de/place/141626	ISMI	0700	Spain	#174730
+164884	Wrocław	https://ismi.mpiwg-berlin.mpg.de/place/164884	ISMI	0700		
+153749	Yamgan (or Yomgan in NE Afghanistan)	https://ismi.mpiwg-berlin.mpg.de/place/153749	ISMI	0700	Afghanistan	#179798
+87675	Yazd	https://ismi.mpiwg-berlin.mpg.de/place/87675	ISMI	0700	Iran	#174469
+350573	ʿAkkā	https://ismi.mpiwg-berlin.mpg.de/place/350573	ISMI	0700	Palestine/Israel	#179483
+431559	ʿAyn Zarba	https://ismi.mpiwg-berlin.mpg.de/place/431559	ISMI	0700		
