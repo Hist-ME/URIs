@@ -1,418 +1,398 @@
-uri	description	id	type	parent_name	parent_type	parent_id
-https://ismi.mpiwg-berlin.mpg.de/place/85243	Aden	85243	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85589	Adrianopel	85589	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179798	Afghanistan	179798	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85213	Afshana, near Bukhārā (Uzbekistan)	85213	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87434	Afyon	87434	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/330886	Agarfa, Bale	330886	city	Ethiopia	country	330883
-https://ismi.mpiwg-berlin.mpg.de/place/88263	Adana	88263	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/87895	Ahmadabad	87895	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/24358	Aḥmadiyya	24358	madrasa	Aleppo	city	85486
-https://ismi.mpiwg-berlin.mpg.de/place/529683	Ahmedabad	529683	null	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/361847	Ahwaz	361847	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87782	Akbarabad	87782	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/86833	Akşehir	86833	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/123652	al-Madrasaẗ al-Šāmiyyaẗ	123652	madrasa	Damascus	city	85658
-https://ismi.mpiwg-berlin.mpg.de/place/22121	al-Jazīratān	22121	city_district	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85486	Aleppo	85486	city	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/87102	Alexandria	87102	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/173275	Algeria	173275	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87820	Algiers	87820	city	Algeria	country	173275
-https://ismi.mpiwg-berlin.mpg.de/place/86794	Aligarh	86794	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/490235	Almeria	490235	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/525362	Amasya	525362	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/86472	Amsterdam	86472	city	Netherlands	country	174707
-https://ismi.mpiwg-berlin.mpg.de/place/390537	Amul	390537	city	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/482813	Anatolia	482813	region	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/93261	Andalusia	93261	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87724	Ankara	87724	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/85621	Ankara (Enguriye)	85621	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/44343	Ann Arbor, MI	44343	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/462175	Antakya	462175	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/411067	Antalya	411067	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/480382	Ardabil	480382	city	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/173852	Armenia	173852	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/325114	Arrajān	325114	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87019	Ashqabad	87019	city	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/354268	Astija	354268	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/434061	Aswan	434061	null	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/486754	Asyūt	486754	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/173483	Austria	173483	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/178920	Azerbaijan	178920	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/2066	Azhar	2066	madrasa	Cairo	city	85226
-https://ismi.mpiwg-berlin.mpg.de/place/87149	Baalbek	87149	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/394897	Badajoz	394897	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/438196	Baeza	438196	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/167760	Baghdad	167760	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/437004	Bahrain	437004	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87420	Bakchesaray	87420	city	Ukraine	country	173857
-https://ismi.mpiwg-berlin.mpg.de/place/87016	Baku	87016	city	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/434389	Balad (Iraq)	434389	city_district	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/86680	Balıkesir	86680	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/153791	Balkh	153791	city	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/179186	Bangladesh	179186	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/40827	Bankipore	40827	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/442398	Barda (Barḏaʿaẗ)	442398	city	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/86545	Barudi	86545	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/93607	Baṣra	93607	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/422190	Bayhaq	422190	null	Khurāsān	city_district	310384
-https://ismi.mpiwg-berlin.mpg.de/place/86325	Beirut	86325	city	Lebanon	country	174621
-https://ismi.mpiwg-berlin.mpg.de/place/179327	Belgium	179327	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87247	Berlin	87247	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/447960	Birgi	447960	null	İzmir	city	49174
-https://ismi.mpiwg-berlin.mpg.de/place/86475	Birmingham, U.K.	86475	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/168025	Alamūt	168025	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/88220	Bologna	88220	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/431413	Bombay	431413	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/179005	Bosnia/Herzegovina	179005	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88049	Boston	88049	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/25201	Bourron	25201	city	France	country	174775
-https://ismi.mpiwg-berlin.mpg.de/place/86686	Bratislava	86686	city	Slovakia	country	173935
-https://ismi.mpiwg-berlin.mpg.de/place/88007	Brussels	88007	city	Belgium	country	179327
-https://ismi.mpiwg-berlin.mpg.de/place/88038	Budapest	88038	city	Hungary	country	178964
-https://ismi.mpiwg-berlin.mpg.de/place/87068	Bukhara	87068	city	Uzbekistan	country	173272
-https://ismi.mpiwg-berlin.mpg.de/place/449376	Bulgaria	449376	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88226	Burdur	88226	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/85658	Damascus	85658	city	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/87313	Damietta	87313	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/85627	Bursa	85627	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/152291	Būzjān	152291	city_district	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85226	Cairo	85226	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/86381	Calcutta	86381	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/86439	Cambridge, MA	86439	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/86828	Cambridge, UK	86828	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/179459	Canada	179459	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/414387	Carmona	414387	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/93084	Central Asia	93084	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/119665	Ceuta (northern Morocco)	119665	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/85210	Constantinople	85210	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87876	Copenhagen	87876	city	Denmark	country	179170
-https://ismi.mpiwg-berlin.mpg.de/place/85178	Cordova (Spain)	85178	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86378	Çorum	86378	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/338465	Cremona	338465	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/87971	Fez	87971	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/441543	Deccan	441543	region	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/87127	Denia (Spain)	87127	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179170	Denmark	179170	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88072	Detroit	88072	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/86551	Dhaka	86551	city	Bangladesh	country	179186
-https://ismi.mpiwg-berlin.mpg.de/place/479550	Dhamār	479550	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/450324	Dīnawar	450324	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87384	Diyarbakir	87384	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/493137	Doha	493137	city	Qatar	country	493134
-https://ismi.mpiwg-berlin.mpg.de/place/87480	Dresden	87480	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/86683	Dublin	86683	city	Ireland	country	179659
-https://ismi.mpiwg-berlin.mpg.de/place/87927	Dushanbe	87927	city	Tajikistan	country	179518
-https://ismi.mpiwg-berlin.mpg.de/place/356027	Écija	356027	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/328715	Edessa	328715	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87546	Edinburgh, Scotland	87546	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/85246	Edirne	85246	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/173189	Egypt	173189	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/119513	Elche (Andalusia)	119513	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/437015	Erbil	437015	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/24616	Erfurt	24616	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/87114	Erzincan	87114	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/270897	Erzurum	270897	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/330883	Ethiopia	330883	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/422251	Farab	422251	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/333575	Farghāna	333575	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179766	Fās	179766	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/441547	Fatḥ-Nakr	441547	city_district	Deccan	region	441543
-https://ismi.mpiwg-berlin.mpg.de/place/142708	Giza	142708	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/86946	Glasgow	86946	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/179423	Golkanda	179423	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87176	Gotha	87176	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/87757	Florence	87757	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/174775	France	174775	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/529096	Galata	529096	null	Istanbul	city	85148
-https://ismi.mpiwg-berlin.mpg.de/place/140190	Ġandagān (near Shiraz)	140190	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/447260	Gaziantep (Ayntāb)	447260	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/525410	Gelibolu	525410	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179183	Georgia	179183	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174492	Germany	174492	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/153829	Ghazna	153829	city	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/85304	Gīlān (Iran)	85304	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87304	Giresun	87304	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/1129	Göttingen	1129	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/88223	Granada	88223	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/71938	Greece	71938	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/436281	Guadix	436281	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/312817	Gülistan (Guliston)	312817	city	Uzbekistan	country	173272
-https://ismi.mpiwg-berlin.mpg.de/place/327648	Gundeshapur [Gundēšāpūr] (Fars)	327648	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/85367	Gurganj	85367	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86943	Hamadan	86943	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/311328	Ḥamāh	311328	city	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/87597	Hamburg	87597	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/347936	Harran	347936	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/374418	Ḫujand	374418	city	Tajikistan	country	179518
-https://ismi.mpiwg-berlin.mpg.de/place/86434	Heidelberg	86434	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/71934	Heraklion (Iraklion, Candia, Qandiya; in Crete)	71934	city	Greece	country	71938
-https://ismi.mpiwg-berlin.mpg.de/place/374934	Herat	374934	null	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/154074	Ḫilāṭ [Aḫlāṭ]	154074	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/178964	Hungary	178964	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88276	Hyderabad	88276	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/174638	India	174638	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/173690	Indonesia	173690	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174469	Iran	174469	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/173298	Iraq	173298	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179659	Ireland	179659	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87474	Isfahan	87474	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/384589	Isfarain	384589	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/356327	Iṣṭaḫr	356327	null	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/85148	Istanbul	85148	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/173763	Italy	173763	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/382383	Jawhar	382383	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/450367	Jayyān (Jaén)	450367	city	Andalusia	country	93261
-https://ismi.mpiwg-berlin.mpg.de/place/87387	Jerusalem	87387	city	Palestine/Israel	country	179483
-https://ismi.mpiwg-berlin.mpg.de/place/86701	Jibla	86701	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/85370	Jurjān	85370	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86618	Kabul	86618	city	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/87440	Kaduna	87440	city	Nigeria	country	178897
-https://ismi.mpiwg-berlin.mpg.de/place/87727	Kairouan	87727	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87040	Kairouan (Qayrawān)	87040	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/33055	Kapūrt’halah, India	33055	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/381807	Karaj	381807	null	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/87511	Karbala	87511	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/488271	Kashan	488271	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/155387	Kashghar	155387	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87594	Kastamonu	87594	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/155041	Kaṯ	155041	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88310	Kayseri	88310	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/382381	Kazakhstan	382381	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86288	Kazan	86288	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/177048	Kazimiya	177048	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/86520	Kazimiya	86520	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87173	Khar'kov	87173	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/310384	Khurāsān	310384	city_district	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/325429	Khuttal	325429	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/25264	Khuzistan	25264	country	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/310048	Khwārizm	310048	country	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/87477	Kiev	87477	city	Ukraine	country	173857
-https://ismi.mpiwg-berlin.mpg.de/place/87152	Kiliç	87152	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/443803	Kilis	443803	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/380989	Kirman	380989	null	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/49174	İzmir	49174	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/447733	Iznik	447733	city_district	Bursa	city	85627
-https://ismi.mpiwg-berlin.mpg.de/place/395007	Jaén	395007	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/86356	Jaipur	86356	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/86449	Jakarta (formerly Batavia)	86449	city	Indonesia	country	173690
-https://ismi.mpiwg-berlin.mpg.de/place/271745	Jāmiʿ Naqīb al-Juyūš	271745	madrasa	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/34602	Lār	34602	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174621	Lebanon	174621	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86776	Leiden	86776	city	Netherlands	country	174707
-https://ismi.mpiwg-berlin.mpg.de/place/87228	Leipzig	87228	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/178992	Libya	178992	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86645	London	86645	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/88247	Los Angeles, CA	88247	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/86969	Lucknow	86969	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/87628	Madras	87628	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/438040	Madrasa Kāmiliyya	438040	madrasa	Cairo	city	85226
-https://ismi.mpiwg-berlin.mpg.de/place/22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy	22073	city	Cairo	city	85226
-https://ismi.mpiwg-berlin.mpg.de/place/38142	Madrasah Šāh zādah Muḥammad Ḫān	38142	madrasa	unknown country	country	200567
-https://ismi.mpiwg-berlin.mpg.de/place/23268	Madrasaẗ Ilyās al-Mawlỳ ibn Ramaḍān	23268	madrasa	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/23251	Madrasaẗ Šayḫ Muḥammad Afandī	23251	madrasa	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86912	Madrid	86912	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/478778	Maġrib	478778	region	North Africa	country	93622
-https://ismi.mpiwg-berlin.mpg.de/place/86446	Mahachqala	86446	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/87719	Makhachqala	87719	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/140728	Malaga	140728	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/85376	Malatya	85376	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/87080	Manchester	87080	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/87295	Manisa	87295	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/85354	Marāgha	85354	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85558	Marāgha/Baghdad*	85558	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/441899	Maraş (Kahramanmaraş)	441899	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/312831	Mardin	312831	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/85336	Marrakech (Morocco)	85336	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/153834	Marw	153834	city	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/390282	Marwarrüḏ	390282	null	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/86575	Mar`ashi	86575	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87957	Mashhad	87957	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/87301	Konya	87301	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/93604	Kufa	93604	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/525086	Kütahya	525086	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/440170	Kuwait	440170	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/440173	Kuwait City	440173	city	Kuwait	country	440170
-https://ismi.mpiwg-berlin.mpg.de/place/443486	Ladik	443486	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/87930	Lahore	87930	city	Pakistan	country	179735
-https://ismi.mpiwg-berlin.mpg.de/place/442709	Māwaẗ	442709	city_district	Sulaymaniyah	city	442705
-https://ismi.mpiwg-berlin.mpg.de/place/498926	Mazandaran	498926	region	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/127632	Mecca	127632	city	Saudi Arabia	country	179081
-https://ismi.mpiwg-berlin.mpg.de/place/87879	Medina	87879	city	Saudi Arabia	country	179081
-https://ismi.mpiwg-berlin.mpg.de/place/426724	Mehdia	426724	null	Tunisia	country	173557
-https://ismi.mpiwg-berlin.mpg.de/place/318030	Mersin/Tarsus	318030	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/485679	Merv	485679	city	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/87404	Milan	87404	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/69524	Mocha	69524	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/87483	Montpelier	87483	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/88035	Montreal	88035	city	Canada	country	179459
-https://ismi.mpiwg-berlin.mpg.de/place/173531	Morocco	173531	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86758	Moscow	86758	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/85483	Mosul	85483	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/86422	Mysore	86422	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/87804	Najaf	87804	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/445345	Nakhchivan	445345	region	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/310373	Nasā	310373	city_district	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/428715	Nasaf	428715	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87234	Navsari	87234	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/530136	Mukalla	530136	null	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/87556	Mumbai	87556	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/87231	Munich	87231	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/87347	Muradabad, India	87347	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/431843	Murcia	431843	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/93622	North Africa	93622	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/350648	Nūr Aḥmadiyya	350648	madrasa	ʿAkkā	city_district	350573
-https://ismi.mpiwg-berlin.mpg.de/place/174707	Netherlands	174707	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88323	New Haven, CT	88323	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/87609	New York	87609	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/86603	Niğde	86603	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/178897	Nigeria	178897	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/482817	Niksar	482817	city	Anatolia	region	482813
-https://ismi.mpiwg-berlin.mpg.de/place/85301	Nīshābūr	85301	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/134677	Nisibis	134677	city	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/43390	Niẓāmiyya	43390	madrasa	Baghdad	city	167760
-https://ismi.mpiwg-berlin.mpg.de/place/87742	Odessa	87742	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/156139	Oran	156139	city	Algeria	country	173275
-https://ismi.mpiwg-berlin.mpg.de/place/443952	Osmancık	443952	city_district	Çorum	city	86378
-https://ismi.mpiwg-berlin.mpg.de/place/517299	Otlukbeli	517299	city_district	Erzincan	city	87114
-https://ismi.mpiwg-berlin.mpg.de/place/86816	Oxford	86816	city	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/179735	Pakistan	179735	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/276374	Palermo	276374	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/179483	Palestine/Israel	179483	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86667	Paris	86667	city	France	country	174775
-https://ismi.mpiwg-berlin.mpg.de/place/87844	Patiala (Kapurthala)	87844	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/86909	Patna	86909	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/88340	Peshawar	88340	city	Pakistan	country	179735
-https://ismi.mpiwg-berlin.mpg.de/place/44417	Philadelphia, PA	44417	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/449379	Plovdiv (Filibe)	449379	city	Bulgaria	country	449376
-https://ismi.mpiwg-berlin.mpg.de/place/86846	Princeton	86846	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/153698	Qabadiyan (or Qubadiyan modern Nosiri Khusrav in SE Tajikistan)	153698	city	Tajikistan	country	179518
-https://ismi.mpiwg-berlin.mpg.de/place/493134	Qatar	493134	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174008	Qayrawan	174008	city	Tunisia	country	173557
-https://ismi.mpiwg-berlin.mpg.de/place/463432	Qazwīn	463432	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/167982	Qāʾin	167982	city	Qūhistān	country	168047
-https://ismi.mpiwg-berlin.mpg.de/place/319018	Qift	319018	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/326959	Qinnasrin	326959	city	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/168047	Qūhistān	168047	country	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/457991	Qum	457991	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/86749	Rabat	86749	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/86252	Rajab	86252	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/86730	Rampur	86730	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/363352	Raqqa	363352	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/88250	Rasht	88250	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/87984	Rayy	87984	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/85672	Rayy (Iran)	85672	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87533	Rome	87533	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/174659	Russia	174659	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/108354	Salamanca (Spain)	108354	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/179683	Salé	179683	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/362860	Samarqand	362860	city	Uzbekistan	country	173272
-https://ismi.mpiwg-berlin.mpg.de/place/329068	Samarra	329068	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/502402	Samsun	502402	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/163900	San Lorenzo de El Escorial	163900	city_district	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/87660	Sana`a	87660	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/85151	Saragossa (Spain)	85151	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/320173	Sarai (Saraj or Saray)	320173	country	Sarai (Saraj or Saray)	country	320173
-https://ismi.mpiwg-berlin.mpg.de/place/87807	Sarajevo	87807	city	Bosnia/Herzegovina	country	179005
-https://ismi.mpiwg-berlin.mpg.de/place/331126	Sarakhs	331126	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/313825	Serakhs	313825	city	Turkmenistan	country	178885
-https://ismi.mpiwg-berlin.mpg.de/place/140114	Seville	140114	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/119509	Sfax (Tunisia)	119509	city	Tunisia	country	173557
-https://ismi.mpiwg-berlin.mpg.de/place/433318	Shahrazur	433318	null	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/86746	Shibin al-Qum	86746	city	Egypt	country	173189
-https://ismi.mpiwg-berlin.mpg.de/place/455703	Shikohabad	455703	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/85653	Shiraz	85653	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/446245	Shirvān‎	446245	null	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/4404	Shirwān, Shamākhi	4404	city	Azerbaijan	country	178920
-https://ismi.mpiwg-berlin.mpg.de/place/141246	Sicily	141246	country	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/350578	Sidon	350578	city_district	Lebanon	country	174621
-https://ismi.mpiwg-berlin.mpg.de/place/376768	Sijistan	376768	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/360314	Siraf	360314	null	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/85537	Sīwās (NE Turkey)	85537	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/173935	Slovakia	173935	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174730	Spain	174730	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85534	Sartakht	85534	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/456861	Satarāh	456861	city	India	country	174638
-https://ismi.mpiwg-berlin.mpg.de/place/179081	Saudi Arabia	179081	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/393060	St Andrews, Fife, Scotland	393060	city_district	UK	country	174533
-https://ismi.mpiwg-berlin.mpg.de/place/87260	St. Petersburg	87260	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/74460	Stockholm	74460	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86689	Strasbourg	86689	city	France	country	174775
-https://ismi.mpiwg-berlin.mpg.de/place/437147	Suhraward	437147	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/442705	Sulaymaniyah	442705	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/374813	Sumaysat	374813	null	Syria	country	174694
-https://ismi.mpiwg-berlin.mpg.de/place/178937	Sweden	178937	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/174694	Syria	174694	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/314816	Tabaristan	314816	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/484892	Tabrīz	484892	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/412619	Taft	412619	null	Yazd	city	87675
-https://ismi.mpiwg-berlin.mpg.de/place/276430	Segovia	276430	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/179518	Tajikistan	179518	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/142459	Takrit	142459	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/85640	Taku	85640	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/473519	Tazeghedra	473519	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/87569	Tbilisi	87569	city	Georgia	country	179183
-https://ismi.mpiwg-berlin.mpg.de/place/86384	Tehran	86384	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/85113	Terjān	85113	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/348362	Test City	348362	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86874	Tetuan	86874	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/87437	Tangier	87437	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/86233	Tarim, Yemen	86233	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/359019	Tarsus	359019	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86548	Tashkent	86548	city	Uzbekistan	country	173272
-https://ismi.mpiwg-berlin.mpg.de/place/25277	Tiflis (Tbilisi)	25277	city	Georgia	country	179183
-https://ismi.mpiwg-berlin.mpg.de/place/321561	Tlemcen	321561	city	Algeria	country	173275
-https://ismi.mpiwg-berlin.mpg.de/place/443439	Tokat	443439	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/140646	Toledo	140646	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/86779	Tonk	86779	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/38689	Toronto	38689	city	Canada	country	179459
-https://ismi.mpiwg-berlin.mpg.de/place/108386	Tortosa (Catalonia)	108386	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/19074	Trebizond (Trabzon)	19074	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86507	Tripoli	86507	city	Libya	country	178992
-https://ismi.mpiwg-berlin.mpg.de/place/86533	Tübingen	86533	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/86632	Tunis	86632	city	Tunisia	country	173557
-https://ismi.mpiwg-berlin.mpg.de/place/173557	Tunisia	173557	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86305	Turin	86305	city	Italy	country	173763
-https://ismi.mpiwg-berlin.mpg.de/place/174510	Turkey	174510	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/178885	Turkmenistan	178885	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/85545	Ṭūs	85545	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87257	Ufa	87257	city	Russia	country	174659
-https://ismi.mpiwg-berlin.mpg.de/place/174533	UK	174533	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/173857	Ukraine	173857	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/350677	UNKNOWN	350677	null	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/179446	unknown city is part of Canada	179446	city	Canada	country	179459
-https://ismi.mpiwg-berlin.mpg.de/place/177105	unknown city is part of Germany	177105	city	Germany	country	174492
-https://ismi.mpiwg-berlin.mpg.de/place/173343	unknown city is part of Iran	173343	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/179801	unknown city is part of Iraq	179801	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/176454	unknown city is part of Morocco	176454	city	Morocco	country	173531
-https://ismi.mpiwg-berlin.mpg.de/place/200570	unknown city is part of unknown country	200570	city	unknown country	country	200567
-https://ismi.mpiwg-berlin.mpg.de/place/200567	unknown country	200567	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/155747	Upal	155747	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/86266	Uppsala	86266	city	Sweden	country	178937
-https://ismi.mpiwg-berlin.mpg.de/place/173554	USA	173554	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/447130	Uskudar	447130	city_district	Istanbul	city	85148
-https://ismi.mpiwg-berlin.mpg.de/place/173272	Uzbekistan	173272	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/142599	Valencia	142599	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/38383	Vatican City	38383	city	Vatican City State	country	43921
-https://ismi.mpiwg-berlin.mpg.de/place/43921	Vatican City State	43921	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/501761	Yedikule	501761	city_district	Istanbul	city	85148
-https://ismi.mpiwg-berlin.mpg.de/place/178900	Yemen	178900	country	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/87640	Yerevan	87640	city	Armenia	country	173852
-https://ismi.mpiwg-berlin.mpg.de/place/87882	Yozgat	87882	city	Turkey	country	174510
-https://ismi.mpiwg-berlin.mpg.de/place/87199	Zabid	87199	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/483787	Zabid	483787	city	Yemen	country	178900
-https://ismi.mpiwg-berlin.mpg.de/place/498785	Ẓāhiriyya Juwāniyya madrasa	498785	madrasa	Damascus	city	85658
-https://ismi.mpiwg-berlin.mpg.de/place/108247	Zahra (suburb of Cordova)	108247	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/458112	Zanjān	458112	city_district	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/142614	Zaragoza	142614	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/87037	Vienna	87037	city	Austria	country	173483
-https://ismi.mpiwg-berlin.mpg.de/place/436967	Wādyāš	436967	null	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/142516	Wann (Khuzistan)	142516	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/87833	Washington D.C.	87833	city	USA	country	173554
-https://ismi.mpiwg-berlin.mpg.de/place/458696	Wāsiṭ	458696	city	Iraq	country	173298
-https://ismi.mpiwg-berlin.mpg.de/place/141626	Wāsiṭa (south of Cordoba)	141626	city	Spain	country	174730
-https://ismi.mpiwg-berlin.mpg.de/place/164884	Wrocław	164884	city	null	null	null
-https://ismi.mpiwg-berlin.mpg.de/place/153749	Yamgan (or Yomgan in NE Afghanistan)	153749	city	Afghanistan	country	179798
-https://ismi.mpiwg-berlin.mpg.de/place/87675	Yazd	87675	city	Iran	country	174469
-https://ismi.mpiwg-berlin.mpg.de/place/350573	ʿAkkā	350573	city_district	Palestine/Israel	country	179483
-https://ismi.mpiwg-berlin.mpg.de/place/431559	ʿAyn Zarba	431559	city	null	null	null
+uri	description	id	type	parent_name	parent_id	parent_type
+https://ismi.mpiwg-berlin.mpg.de/place/88263	Adana	88263	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/85243	Aden	85243	city			
+https://ismi.mpiwg-berlin.mpg.de/place/85589	Adrianopel	85589	city			
+https://ismi.mpiwg-berlin.mpg.de/place/179798	Afghanistan	179798	country			
+https://ismi.mpiwg-berlin.mpg.de/place/85213	Afshana, near Bukhārā (Uzbekistan)	85213	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87434	Afyon	87434	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/330886	Agarfa, Bale	330886	city	Ethiopia	330883	country
+https://ismi.mpiwg-berlin.mpg.de/place/87895	Ahmadabad	87895	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/24358	Aḥmadiyya	24358	madrasa	Aleppo	85486	city
+https://ismi.mpiwg-berlin.mpg.de/place/529683	Ahmedabad	529683		India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/361847	Ahwaz	361847				
+https://ismi.mpiwg-berlin.mpg.de/place/87782	Akbarabad	87782	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/123652	al-Madrasaẗ al-Šāmiyyaẗ	123652	madrasa	Damascus	85658	city
+https://ismi.mpiwg-berlin.mpg.de/place/168025	Alamūt	168025	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85486	Aleppo	85486	city	Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/87102	Alexandria	87102	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/173275	Algeria	173275	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87820	Algiers	87820	city	Algeria	173275	country
+https://ismi.mpiwg-berlin.mpg.de/place/86794	Aligarh	86794	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/490235	Almeria	490235	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/525362	Amasya	525362	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/86472	Amsterdam	86472	city	Netherlands	174707	country
+https://ismi.mpiwg-berlin.mpg.de/place/390537	Amul	390537	city	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/482813	Anatolia	482813	region	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/93261	Andalusia	93261	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87724	Ankara	87724	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/85621	Ankara (Enguriye)	85621	city			
+https://ismi.mpiwg-berlin.mpg.de/place/44343	Ann Arbor, MI	44343	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/462175	Antakya	462175	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/411067	Antalya	411067	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/480382	Ardabil	480382	city	Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/173852	Armenia	173852	country			
+https://ismi.mpiwg-berlin.mpg.de/place/325114	Arrajān	325114	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87019	Ashqabad	87019	city	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/354268	Astija	354268	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/434061	Aswan	434061		Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/486754	Asyūt	486754	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/173483	Austria	173483	country			
+https://ismi.mpiwg-berlin.mpg.de/place/178920	Azerbaijan	178920	country			
+https://ismi.mpiwg-berlin.mpg.de/place/2066	Azhar	2066	madrasa	Cairo	85226	city
+https://ismi.mpiwg-berlin.mpg.de/place/87149	Baalbek	87149	city			
+https://ismi.mpiwg-berlin.mpg.de/place/394897	Badajoz	394897		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/540577	Badakhshan	540577		Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/438196	Baeza	438196		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/167760	Baghdad	167760	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/437004	Bahrain	437004				
+https://ismi.mpiwg-berlin.mpg.de/place/87420	Bakchesaray	87420	city	Ukraine	173857	country
+https://ismi.mpiwg-berlin.mpg.de/place/87016	Baku	87016	city	Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/434389	Balad (Iraq)	434389	city_district	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/86680	Balıkesir	86680	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/153791	Balkh	153791	city	Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/179186	Bangladesh	179186	country			
+https://ismi.mpiwg-berlin.mpg.de/place/40827	Bankipore	40827	city			
+https://ismi.mpiwg-berlin.mpg.de/place/442398	Barda (Barḏaʿaẗ)	442398	city	Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/93607	Baṣra	93607	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/422190	Bayhaq	422190		Khurāsān	310384	city_district
+https://ismi.mpiwg-berlin.mpg.de/place/86325	Beirut	86325	city	Lebanon	174621	country
+https://ismi.mpiwg-berlin.mpg.de/place/179327	Belgium	179327	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87247	Berlin	87247	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/447960	Birgi	447960		İzmir	49174	city
+https://ismi.mpiwg-berlin.mpg.de/place/86475	Birmingham, U.K.	86475	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/88220	Bologna	88220	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/431413	Bombay	431413	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/179005	Bosnia/Herzegovina	179005	country			
+https://ismi.mpiwg-berlin.mpg.de/place/88049	Boston	88049	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/25201	Bourron	25201	city	France	174775	country
+https://ismi.mpiwg-berlin.mpg.de/place/86686	Bratislava	86686	city	Slovakia	173935	country
+https://ismi.mpiwg-berlin.mpg.de/place/88007	Brussels	88007	city	Belgium	179327	country
+https://ismi.mpiwg-berlin.mpg.de/place/88038	Budapest	88038	city	Hungary	178964	country
+https://ismi.mpiwg-berlin.mpg.de/place/87068	Bukhara	87068	city	Uzbekistan	173272	country
+https://ismi.mpiwg-berlin.mpg.de/place/449376	Bulgaria	449376	country			
+https://ismi.mpiwg-berlin.mpg.de/place/88226	Burdur	88226	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/85627	Bursa	85627	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/152291	Būzjān	152291	city_district			
+https://ismi.mpiwg-berlin.mpg.de/place/85226	Cairo	85226	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/86381	Calcutta	86381	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/86439	Cambridge, MA	86439	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/86828	Cambridge, UK	86828	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/179459	Canada	179459	country			
+https://ismi.mpiwg-berlin.mpg.de/place/414387	Carmona	414387		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/93084	Central Asia	93084	country			
+https://ismi.mpiwg-berlin.mpg.de/place/119665	Ceuta (northern Morocco)	119665	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/85210	Constantinople	85210	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87876	Copenhagen	87876	city	Denmark	179170	country
+https://ismi.mpiwg-berlin.mpg.de/place/85178	Cordova (Spain)	85178	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86378	Çorum	86378	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/338465	Cremona	338465	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/85658	Damascus	85658	city	Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/87313	Damietta	87313	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/441543	Deccan	441543	region	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/87127	Denia (Spain)	87127	city			
+https://ismi.mpiwg-berlin.mpg.de/place/179170	Denmark	179170	country			
+https://ismi.mpiwg-berlin.mpg.de/place/88072	Detroit	88072	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/86551	Dhaka	86551	city	Bangladesh	179186	country
+https://ismi.mpiwg-berlin.mpg.de/place/479550	Dhamār	479550	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/450324	Dīnawar	450324	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87384	Diyarbakir	87384	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/493137	Doha	493137	city	Qatar	493134	country
+https://ismi.mpiwg-berlin.mpg.de/place/87480	Dresden	87480	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/86683	Dublin	86683	city	Ireland	179659	country
+https://ismi.mpiwg-berlin.mpg.de/place/87927	Dushanbe	87927	city	Tajikistan	179518	country
+https://ismi.mpiwg-berlin.mpg.de/place/356027	Écija	356027		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/328715	Edessa	328715	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87546	Edinburgh, Scotland	87546	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/85246	Edirne	85246	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/173189	Egypt	173189	country			
+https://ismi.mpiwg-berlin.mpg.de/place/119513	Elche (Andalusia)	119513	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/437015	Erbil	437015				
+https://ismi.mpiwg-berlin.mpg.de/place/24616	Erfurt	24616	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/87114	Erzincan	87114	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/270897	Erzurum	270897	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/330883	Ethiopia	330883	country			
+https://ismi.mpiwg-berlin.mpg.de/place/422251	Farab	422251				
+https://ismi.mpiwg-berlin.mpg.de/place/333575	Farghāna	333575	city			
+https://ismi.mpiwg-berlin.mpg.de/place/179766	Fās	179766	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/441547	Fatḥ-Nakr	441547	city_district	Deccan	441543	region
+https://ismi.mpiwg-berlin.mpg.de/place/87971	Fez	87971	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87757	Florence	87757	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/174775	France	174775	country			
+https://ismi.mpiwg-berlin.mpg.de/place/529096	Galata	529096		Istanbul	85148	city
+https://ismi.mpiwg-berlin.mpg.de/place/140190	Ġandagān (near Shiraz)	140190	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/447260	Gaziantep (Ayntāb)	447260	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/525410	Gelibolu	525410	city			
+https://ismi.mpiwg-berlin.mpg.de/place/179183	Georgia	179183	country			
+https://ismi.mpiwg-berlin.mpg.de/place/174492	Germany	174492	country			
+https://ismi.mpiwg-berlin.mpg.de/place/153829	Ghazna	153829	city	Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/85304	Gīlān (Iran)	85304	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87304	Giresun	87304	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/142708	Giza	142708	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/86946	Glasgow	86946	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/179423	Golkanda	179423	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87176	Gotha	87176	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/1129	Göttingen	1129	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/88223	Granada	88223	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/71938	Greece	71938	country			
+https://ismi.mpiwg-berlin.mpg.de/place/436281	Guadix	436281		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/312817	Gülistan (Guliston)	312817	city	Uzbekistan	173272	country
+https://ismi.mpiwg-berlin.mpg.de/place/327648	Gundeshapur [Gundēšāpūr] (Fars)	327648	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85367	Gurganj	85367	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86943	Hamadan	86943	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/311328	Ḥamāh	311328	city	Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/87597	Hamburg	87597	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/347936	Harran	347936	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/86434	Heidelberg	86434	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/71934	Heraklion (Iraklion, Candia, Qandiya; in Crete)	71934	city	Greece	71938	country
+https://ismi.mpiwg-berlin.mpg.de/place/374934	Herat	374934		Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/154074	Ḫilāṭ [Aḫlāṭ]	154074	city			
+https://ismi.mpiwg-berlin.mpg.de/place/374418	Ḫujand	374418	city	Tajikistan	179518	country
+https://ismi.mpiwg-berlin.mpg.de/place/178964	Hungary	178964	country			
+https://ismi.mpiwg-berlin.mpg.de/place/88276	Hyderabad	88276	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/174638	India	174638	country			
+https://ismi.mpiwg-berlin.mpg.de/place/173690	Indonesia	173690	country			
+https://ismi.mpiwg-berlin.mpg.de/place/174469	Iran	174469	country			
+https://ismi.mpiwg-berlin.mpg.de/place/173298	Iraq	173298	country			
+https://ismi.mpiwg-berlin.mpg.de/place/179659	Ireland	179659	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87474	Isfahan	87474	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/384589	Isfarain	384589	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/356327	Iṣṭaḫr	356327		Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85148	Istanbul	85148	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/173763	Italy	173763	country			
+https://ismi.mpiwg-berlin.mpg.de/place/49174	İzmir	49174	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/447733	Iznik	447733	city_district	Bursa	85627	city
+https://ismi.mpiwg-berlin.mpg.de/place/395007	Jaén	395007		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/86356	Jaipur	86356	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/86449	Jakarta (formerly Batavia)	86449	city	Indonesia	173690	country
+https://ismi.mpiwg-berlin.mpg.de/place/271745	Jāmiʿ Naqīb al-Juyūš	271745	madrasa			
+https://ismi.mpiwg-berlin.mpg.de/place/382383	Jawhar	382383	city			
+https://ismi.mpiwg-berlin.mpg.de/place/450367	Jayyān (Jaén)	450367	city	Andalusia	93261	country
+https://ismi.mpiwg-berlin.mpg.de/place/87387	Jerusalem	87387	city	Palestine/Israel	179483	country
+https://ismi.mpiwg-berlin.mpg.de/place/86701	Jibla	86701	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/85370	Jurjān	85370	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86618	Kabul	86618	city	Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/87440	Kaduna	87440	city	Nigeria	178897	country
+https://ismi.mpiwg-berlin.mpg.de/place/87040	Kairouan (Qayrawān)	87040	city			
+https://ismi.mpiwg-berlin.mpg.de/place/33055	Kapūrt’halah, India	33055	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/381807	Karaj	381807		Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/488271	Kashan	488271	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/155387	Kashghar	155387	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87594	Kastamonu	87594	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/155041	Kaṯ	155041	city			
+https://ismi.mpiwg-berlin.mpg.de/place/88310	Kayseri	88310	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/86288	Kazan	86288	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/177048	Kazimiya	177048	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/310384	Khurāsān	310384	city_district	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/325429	Khuttal	325429	city			
+https://ismi.mpiwg-berlin.mpg.de/place/25264	Khuzistan	25264	country	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/310048	Khwārizm	310048	country	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/87477	Kiev	87477	city	Ukraine	173857	country
+https://ismi.mpiwg-berlin.mpg.de/place/87152	Kiliç	87152	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/443803	Kilis	443803	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/380989	Kirman	380989		Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/87301	Konya	87301	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/93604	Kufa	93604	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/525086	Kütahya	525086	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/440170	Kuwait	440170	country			
+https://ismi.mpiwg-berlin.mpg.de/place/440173	Kuwait City	440173	city	Kuwait	440170	country
+https://ismi.mpiwg-berlin.mpg.de/place/443486	Ladik	443486	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/87930	Lahore	87930	city	Pakistan	179735	country
+https://ismi.mpiwg-berlin.mpg.de/place/34602	Lār	34602	city			
+https://ismi.mpiwg-berlin.mpg.de/place/174621	Lebanon	174621	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86776	Leiden	86776	city	Netherlands	174707	country
+https://ismi.mpiwg-berlin.mpg.de/place/87228	Leipzig	87228	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/178992	Libya	178992	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86645	London	86645	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/88247	Los Angeles, CA	88247	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/86969	Lucknow	86969	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/87628	Madras	87628	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/438040	Madrasa Kāmiliyya	438040	madrasa	Cairo	85226	city
+https://ismi.mpiwg-berlin.mpg.de/place/22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy	22073	city	Cairo	85226	city
+https://ismi.mpiwg-berlin.mpg.de/place/38142	Madrasah Šāh zādah Muḥammad Ḫān	38142	madrasa	unknown country	200567	country
+https://ismi.mpiwg-berlin.mpg.de/place/23251	Madrasaẗ Šayḫ Muḥammad Afandī	23251	madrasa			
+https://ismi.mpiwg-berlin.mpg.de/place/86912	Madrid	86912	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/478778	Maġrib	478778	region	North Africa	93622	country
+https://ismi.mpiwg-berlin.mpg.de/place/86446	Mahachqala	86446	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/87719	Makhachqala	87719	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/140728	Malaga	140728	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/85376	Malatya	85376	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/87080	Manchester	87080	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/87295	Manisa	87295	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/85354	Marāgha	85354	city			
+https://ismi.mpiwg-berlin.mpg.de/place/85558	Marāgha; Baghdad*	85558	city			
+https://ismi.mpiwg-berlin.mpg.de/place/441899	Maraş (Kahramanmaraş)	441899	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/312831	Mardin	312831	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/85336	Marrakech (Morocco)	85336	city			
+https://ismi.mpiwg-berlin.mpg.de/place/153834	Marw	153834	city	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/390282	Marwarrüḏ	390282		Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/87957	Mashhad	87957	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/442709	Māwaẗ	442709	city_district	Sulaymaniyah	442705	city
+https://ismi.mpiwg-berlin.mpg.de/place/498926	Mazandaran	498926	region	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/127632	Mecca	127632	city	Saudi Arabia	179081	country
+https://ismi.mpiwg-berlin.mpg.de/place/87879	Medina	87879	city	Saudi Arabia	179081	country
+https://ismi.mpiwg-berlin.mpg.de/place/426724	Mehdia	426724		Tunisia	173557	country
+https://ismi.mpiwg-berlin.mpg.de/place/318030	Mersin/Tarsus	318030	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/485679	Merv	485679	city	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/87404	Milan	87404	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/69524	Mocha	69524	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/87483	Montpelier	87483	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/88035	Montreal	88035	city	Canada	179459	country
+https://ismi.mpiwg-berlin.mpg.de/place/173531	Morocco	173531	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86758	Moscow	86758	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/85483	Mosul	85483	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/530136	Mukalla	530136		Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/87556	Mumbai	87556	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/87231	Munich	87231	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/87347	Muradabad, India	87347	city			
+https://ismi.mpiwg-berlin.mpg.de/place/431843	Murcia	431843		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/86422	Mysore	86422	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/87804	Najaf	87804	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/445345	Nakhchivan	445345	region	Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/310373	Nasā	310373	city_district	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/428715	Nasaf	428715				
+https://ismi.mpiwg-berlin.mpg.de/place/87234	Navsari	87234	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/174707	Netherlands	174707	country			
+https://ismi.mpiwg-berlin.mpg.de/place/540703	New Delhi	540703		India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/88323	New Haven, CT	88323	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/87609	New York	87609	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/86603	Niğde	86603	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/178897	Nigeria	178897	country			
+https://ismi.mpiwg-berlin.mpg.de/place/482817	Niksar	482817	city	Anatolia	482813	region
+https://ismi.mpiwg-berlin.mpg.de/place/85301	Nīshābūr	85301	city			
+https://ismi.mpiwg-berlin.mpg.de/place/134677	Nisibis	134677	city	Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/43390	Niẓāmiyya	43390	madrasa	Baghdad	167760	city
+https://ismi.mpiwg-berlin.mpg.de/place/93622	North Africa	93622	country			
+https://ismi.mpiwg-berlin.mpg.de/place/350648	Nūr Aḥmadiyya	350648	madrasa	ʿAkkā	350573	city_district
+https://ismi.mpiwg-berlin.mpg.de/place/156139	Oran	156139	city	Algeria	173275	country
+https://ismi.mpiwg-berlin.mpg.de/place/443952	Osmancık	443952	city_district	Çorum	86378	city
+https://ismi.mpiwg-berlin.mpg.de/place/517299	Otlukbeli	517299	city_district	Erzincan	87114	city
+https://ismi.mpiwg-berlin.mpg.de/place/86816	Oxford	86816	city	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/179735	Pakistan	179735	country			
+https://ismi.mpiwg-berlin.mpg.de/place/276374	Palermo	276374	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/179483	Palestine/Israel	179483	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86667	Paris	86667	city	France	174775	country
+https://ismi.mpiwg-berlin.mpg.de/place/87844	Patiala (Kapurthala)	87844	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/86909	Patna	86909	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/88340	Peshawar	88340	city	Pakistan	179735	country
+https://ismi.mpiwg-berlin.mpg.de/place/44417	Philadelphia, PA	44417	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/449379	Plovdiv (Filibe)	449379	city	Bulgaria	449376	country
+https://ismi.mpiwg-berlin.mpg.de/place/86846	Princeton	86846	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/153698	Qabadiyan (or Qubadiyan; modern Nosiri Khusrav in SE Tajikistan)	153698	city	Tajikistan	179518	country
+https://ismi.mpiwg-berlin.mpg.de/place/493134	Qatar	493134	country			
+https://ismi.mpiwg-berlin.mpg.de/place/174008	Qayrawan	174008	city	Tunisia	173557	country
+https://ismi.mpiwg-berlin.mpg.de/place/463432	Qazwīn	463432	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/167982	Qāʾin	167982	city	Qūhistān	168047	country
+https://ismi.mpiwg-berlin.mpg.de/place/319018	Qift	319018	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/326959	Qinnasrin	326959	city	Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/168047	Qūhistān	168047	country	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/457991	Qum	457991	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/86749	Rabat	86749	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/86252	Rajab	86252	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/86730	Rampur	86730	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/363352	Raqqa	363352				
+https://ismi.mpiwg-berlin.mpg.de/place/88250	Rasht	88250	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/87984	Rayy	87984	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85672	Rayy (Iran)	85672	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87533	Rome	87533	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/174659	Russia	174659	country			
+https://ismi.mpiwg-berlin.mpg.de/place/108354	Salamanca (Spain)	108354	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/179683	Salé	179683	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/362860	Samarqand	362860	city	Uzbekistan	173272	country
+https://ismi.mpiwg-berlin.mpg.de/place/329068	Samarra	329068	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/502402	Samsun	502402	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/163900	San Lorenzo de El Escorial	163900	city_district	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/87660	Sana`a	87660	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/85151	Saragossa (Spain)	85151	city			
+https://ismi.mpiwg-berlin.mpg.de/place/320173	Sarai (Saraj or Saray)	320173	country	Sarai (Saraj or Saray)	320173	country
+https://ismi.mpiwg-berlin.mpg.de/place/87807	Sarajevo	87807	city	Bosnia/Herzegovina	179005	country
+https://ismi.mpiwg-berlin.mpg.de/place/331126	Sarakhs	331126	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85534	Sartakht	85534	city			
+https://ismi.mpiwg-berlin.mpg.de/place/456861	Satarāh	456861	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/179081	Saudi Arabia	179081	country			
+https://ismi.mpiwg-berlin.mpg.de/place/276430	Segovia	276430	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/313825	Serakhs	313825	city	Turkmenistan	178885	country
+https://ismi.mpiwg-berlin.mpg.de/place/140114	Seville	140114	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/119509	Sfax (Tunisia)	119509	city	Tunisia	173557	country
+https://ismi.mpiwg-berlin.mpg.de/place/433318	Shahrazur	433318		Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/86746	Shibin al-Qum	86746	city	Egypt	173189	country
+https://ismi.mpiwg-berlin.mpg.de/place/455703	Shikohabad	455703	city	India	174638	country
+https://ismi.mpiwg-berlin.mpg.de/place/85653	Shiraz	85653	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/446245	Shirvān‎	446245		Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/4404	Shirwān, Shamākhi	4404	city	Azerbaijan	178920	country
+https://ismi.mpiwg-berlin.mpg.de/place/141246	Sicily	141246	country	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/350578	Sidon	350578	city_district	Lebanon	174621	country
+https://ismi.mpiwg-berlin.mpg.de/place/376768	Sijistan	376768				
+https://ismi.mpiwg-berlin.mpg.de/place/360314	Siraf	360314		Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/85537	Sīwās (NE Turkey)	85537	city			
+https://ismi.mpiwg-berlin.mpg.de/place/173935	Slovakia	173935	country			
+https://ismi.mpiwg-berlin.mpg.de/place/174730	Spain	174730	country			
+https://ismi.mpiwg-berlin.mpg.de/place/393060	St Andrews, Fife, Scotland	393060	city_district	UK	174533	country
+https://ismi.mpiwg-berlin.mpg.de/place/87260	St. Petersburg	87260	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/74460	Stockholm	74460	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86689	Strasbourg	86689	city	France	174775	country
+https://ismi.mpiwg-berlin.mpg.de/place/437147	Suhraward	437147				
+https://ismi.mpiwg-berlin.mpg.de/place/442705	Sulaymaniyah	442705	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/374813	Sumaysat	374813		Syria	174694	country
+https://ismi.mpiwg-berlin.mpg.de/place/178937	Sweden	178937	country			
+https://ismi.mpiwg-berlin.mpg.de/place/174694	Syria	174694	country			
+https://ismi.mpiwg-berlin.mpg.de/place/314816	Tabaristan	314816	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/484892	Tabrīz	484892	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/412619	Taft	412619		Yazd	87675	city
+https://ismi.mpiwg-berlin.mpg.de/place/179518	Tajikistan	179518	country			
+https://ismi.mpiwg-berlin.mpg.de/place/142459	Takrit	142459	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/85640	Taku	85640	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87437	Tangier	87437	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/86233	Tarim, Yemen	86233	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/359019	Tarsus	359019	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86548	Tashkent	86548	city	Uzbekistan	173272	country
+https://ismi.mpiwg-berlin.mpg.de/place/473519	Tazeghedra	473519	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/87569	Tbilisi	87569	city	Georgia	179183	country
+https://ismi.mpiwg-berlin.mpg.de/place/86384	Tehran	86384	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/86874	Tetuan	86874	city	Morocco	173531	country
+https://ismi.mpiwg-berlin.mpg.de/place/25277	Tiflis (Tbilisi)	25277	city	Georgia	179183	country
+https://ismi.mpiwg-berlin.mpg.de/place/321561	Tlemcen	321561	city	Algeria	173275	country
+https://ismi.mpiwg-berlin.mpg.de/place/443439	Tokat	443439	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/140646	Toledo	140646	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/38689	Toronto	38689	city	Canada	179459	country
+https://ismi.mpiwg-berlin.mpg.de/place/108386	Tortosa (Catalonia)	108386	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/19074	Trebizond (Trabzon)	19074	city			
+https://ismi.mpiwg-berlin.mpg.de/place/86507	Tripoli	86507	city	Libya	178992	country
+https://ismi.mpiwg-berlin.mpg.de/place/86533	Tübingen	86533	city	Germany	174492	country
+https://ismi.mpiwg-berlin.mpg.de/place/86632	Tunis	86632	city	Tunisia	173557	country
+https://ismi.mpiwg-berlin.mpg.de/place/173557	Tunisia	173557	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86305	Turin	86305	city	Italy	173763	country
+https://ismi.mpiwg-berlin.mpg.de/place/174510	Turkey	174510	country			
+https://ismi.mpiwg-berlin.mpg.de/place/178885	Turkmenistan	178885	country			
+https://ismi.mpiwg-berlin.mpg.de/place/85545	Ṭūs	85545	city			
+https://ismi.mpiwg-berlin.mpg.de/place/87257	Ufa	87257	city	Russia	174659	country
+https://ismi.mpiwg-berlin.mpg.de/place/174533	UK	174533	country			
+https://ismi.mpiwg-berlin.mpg.de/place/173857	Ukraine	173857	country			
+https://ismi.mpiwg-berlin.mpg.de/place/350677	UNKNOWN	350677				
+https://ismi.mpiwg-berlin.mpg.de/place/200567	unknown country	200567	country			
+https://ismi.mpiwg-berlin.mpg.de/place/86266	Uppsala	86266	city	Sweden	178937	country
+https://ismi.mpiwg-berlin.mpg.de/place/173554	USA	173554	country			
+https://ismi.mpiwg-berlin.mpg.de/place/447130	Uskudar	447130	city_district	Istanbul	85148	city
+https://ismi.mpiwg-berlin.mpg.de/place/173272	Uzbekistan	173272	country			
+https://ismi.mpiwg-berlin.mpg.de/place/142599	Valencia	142599	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/38383	Vatican City	38383	city	Vatican City State	43921	country
+https://ismi.mpiwg-berlin.mpg.de/place/43921	Vatican City State	43921	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87037	Vienna	87037	city	Austria	173483	country
+https://ismi.mpiwg-berlin.mpg.de/place/436967	Wādyāš	436967		Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/142516	Wann (Khuzistan)	142516	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/87833	Washington D.C.	87833	city	USA	173554	country
+https://ismi.mpiwg-berlin.mpg.de/place/458696	Wāsiṭ	458696	city	Iraq	173298	country
+https://ismi.mpiwg-berlin.mpg.de/place/141626	Wāsiṭa (south of Cordoba)	141626	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/164884	Wrocław	164884	city			
+https://ismi.mpiwg-berlin.mpg.de/place/153749	Yamgan (or Yomgan; in NE Afghanistan)	153749	city	Afghanistan	179798	country
+https://ismi.mpiwg-berlin.mpg.de/place/87675	Yazd	87675	city	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/501761	Yedikule	501761	city_district	Istanbul	85148	city
+https://ismi.mpiwg-berlin.mpg.de/place/178900	Yemen	178900	country			
+https://ismi.mpiwg-berlin.mpg.de/place/87640	Yerevan	87640	city	Armenia	173852	country
+https://ismi.mpiwg-berlin.mpg.de/place/87882	Yozgat	87882	city	Turkey	174510	country
+https://ismi.mpiwg-berlin.mpg.de/place/483787	Zabid	483787	city	Yemen	178900	country
+https://ismi.mpiwg-berlin.mpg.de/place/498785	Ẓāhiriyya Juwāniyya madrasa	498785	madrasa	Damascus	85658	city
+https://ismi.mpiwg-berlin.mpg.de/place/108247	Zahra (suburb of Cordova)	108247	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/458112	Zanjān	458112	city_district	Iran	174469	country
+https://ismi.mpiwg-berlin.mpg.de/place/142614	Zaragoza	142614	city	Spain	174730	country
+https://ismi.mpiwg-berlin.mpg.de/place/350573	ʿAkkā	350573	city_district	Palestine/Israel	179483	country
+https://ismi.mpiwg-berlin.mpg.de/place/431559	ʿAyn Zarba	431559	city			
