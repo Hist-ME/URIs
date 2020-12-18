@@ -1,7 +1,7 @@
 # Usaybia.net Non-aligned Place URIs
 These are places that have not yet been successfully aligned with external authorities. 
 
-Jump to [Source Project](#source-project) | [Version](#version) | [File Format](#file-format) | [Fields](#fields) | [Warnings/Quirks](#warnings/quirks)
+Jump to [Source Project](#source-project) | [Version](#version) | [File Format](#file-format) | [Fields](#fields) | [Warnings/Quirks](#warningsquirks)
 
 ## Source Project
 ### [The Communities of Knowledge (Usaybia.net Project)](https://usaybia.net)
