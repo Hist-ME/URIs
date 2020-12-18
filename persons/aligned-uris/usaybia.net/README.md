@@ -1,7 +1,7 @@
 # Usaybia.net Aligned Person URIs
 | [Source Project ↓](#source-project) | [Version ↓](#version) | [External Authorities ↓](#external-authorities) | [Quirks ↓](#quirks) |
 | --- | --- | --- | --- |
-| [The Communities of Knowledge (Usaybia.net Project)](https://usaybia.net) | v0.4-beta | [Encyclopædia Iranica](https://iranicaonline.org); [Encyclopedia of Islam, Second Edition](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2); [Encyclopedia of Islam, THREE](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3); [Onomasticon Arabicum](onomasticon.irht.cnrs.fr); [Standford Encyclopedia of Philosophy](https://plato.stanford.edu); syriaca.org; viaf.org; wikipedia.org | non-comprehensive; preliminary |
+| [The Communities of Knowledge (Usaybia.net Project)](https://usaybia.net) | v0.4-beta | [Encyclopædia Iranica](https://iranicaonline.org); [Encyclopedia of Islam, Second Edition](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2); [Encyclopedia of Islam, THREE](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3); [Onomasticon Arabicum](onomasticon.irht.cnrs.fr); [Standford Encyclopedia of Philosophy](https://plato.stanford.edu); [Syriac Biographical Dictionary (Syriaca.org)](http://syriaca.org/persons); [viaf.org](https://viaf.org); [wikipedia.org](https://wikipedia.org) | non-comprehensive; preliminary |
 
 ## Source Project
 ### [The Communities of Knowledge (Usaybia.net Project)](https://usaybia.net)
@@ -27,9 +27,9 @@ We have attempted to match URIs to the following authorities:
 | [Encyclopedia of Islam, THREE](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3) | reference articles for persons by DOI URL | is the primary entity described by |
 | [Onomasticon Arabicum](onomasticon.irht.cnrs.fr) | person attestations with stable URLs | is the primary entity described by |
 | [Standford Encyclopedia of Philosophy](https://plato.stanford.edu) | reference articles for persons by URL | is the primary entity described by | 
-| syriaca.org  | person URIs, usually for authors | is probably the same as |
-| viaf.org  | person URIs, usually for authors | is probably the same as |
-| wikipedia.org | reference articles for persons by URL | is the primary entity described by |
+| [Syriac Biographical Dictionary (Syriaca.org)](https://syriaca.org/persons)  | person URIs, usually for authors | is probably the same as |
+| [viaf.org](https://viaf.org)  | person URIs, usually for authors | is probably the same as |
+| [wikipedia.org](https://wikipedia.org) | reference articles for persons by URL | is the primary entity described by |
 
 ## Quirks
  - At this point, most of the persons we have aligned with external authorities are those who have biographical entries in Ibn Abī Uṣaybiʿa's _Uyūn al-anbāʾ_. 
