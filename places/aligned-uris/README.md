@@ -5,7 +5,7 @@ Jump to [Source Project](#source-project) | [Version](#version) | [File Format](
 
 ## Source Project
 ### [http://data.geo-kima.org/](http://data.geo-kima.org/)
-Based mainly on the authority files of the National Library of Israel, with addition of attested Hebrew variants from the Library cataogue as well as from annotated sources. The data is currently mostly print-era data, but slowly earlier attestations and variants are also integrated. The data is available at the Kima website both through a user interface,  through an API and also on Recogito's annotation platform. An open refine plugin for reconciliation is available  [here](https://github.com/embaral/KIMA-reconciliation). 
+Kima historical gazetteer is based mainly on the authority files of the National Library of Israel, which records over 27000 places with their English and Hebrew preferred names, as well as additional variants. With addition of attested Hebrew variants from the Library cataogue as well as from annotated sources. The data is currently mostly print-era data, but slowly earlier attestations and variants are also integrated. The data is available at the Kima website both through a user interface,  through an API and also on Recogito's annotation platform. An open refine plugin for reconciliation is available [here](https://github.com/embaral/KIMA-reconciliation). 
 
 ## Version
 ### [version number]
@@ -28,7 +28,22 @@ Here is how we use the LP-TSV fields.
 | title_source |  |
 | title_uri | |
 
-The records which are aligned only with VIAF records do not yet have coordinates are available as tsv with
+The records which are aligned only with VIAF records do not yet have coordinates are available as tsv with the following fields:
+
+### Fields
+Here is how we use the LP-TSV fields.
+| field | description |
+| --- | --- |
+| id |  |
+| title |  |
+| description |  |
+| variants |  |
+| types |  |
+| matches |  |
+| start |  |
+| title_source |  |
+| title_uri | |
+Finally, alignments of KIMA with Usaybie
 
 
 ## Warnings/Quirks
