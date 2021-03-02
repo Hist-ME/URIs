@@ -1,11 +1,11 @@
-# [KIMA] aligned Place URIs
+# KIMA aligned Place URIs
 Place that have been successfully aligned with external authorities. 
 
 Jump to [Source Project](#source-project) | [Version](#version) | [File Format](#file-format) | [Fields](#fields) | [Warnings/Quirks](#warningsquirks)
 
 ## Source Project
-### [[KIMA]](http://data.geo-kima.org/)
-Based mainly on the authority files of the National Library of Israel, with addition of attested Hebrew variants from the Library cataogue as well as from annotated sources. The data is currently mostly print-era data, but slowly earlier attestations and variants are also integrated. The data is available at the Kima website both through a user interface,  through an API and also on Recogito's annotation platform. An open refine plugin for reconciliation is available  [here:](https://github.com/embaral/KIMA-reconciliation). 
+### [http://data.geo-kima.org/](http://data.geo-kima.org/)
+Based mainly on the authority files of the National Library of Israel, with addition of attested Hebrew variants from the Library cataogue as well as from annotated sources. The data is currently mostly print-era data, but slowly earlier attestations and variants are also integrated. The data is available at the Kima website both through a user interface,  through an API and also on Recogito's annotation platform. An open refine plugin for reconciliation is available  [here](https://github.com/embaral/KIMA-reconciliation). 
 
 ## Version
 ### [version number]
