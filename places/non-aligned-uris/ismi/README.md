@@ -10,6 +10,10 @@ These are places from the ISMI database of manuscripts. These places are in some
 
 ## Version
 
+### 0.5
+
+Updated list containing only places with references and a short description of the kind of references the database contains to the place.
+
 ### 0.0.1
 
 Very first version of place list.
@@ -20,24 +24,16 @@ Very first version of place list.
 
 | field | description |
 | --- | --- |
-| uri | URI in ISMI database web frontend |
-| description | place name in ISMI database |
-| id | ISMI database ID |
-| type | ISMI place type |
-| parent_name | name of parent place in ISMI db |
-| parent_id | ID of parent place in ISMI db |
-| parent_type | type of parent place in ISMI db |
-
-### ismi-places-lp.tsv
-
-Linked Places TSV (LP-TSV) v0.2 format (see [LP-TSV documentation](https://github.com/LinkedPasts/linked-places/blob/master/tsv_0.2.md))
-
-| field | description |
-| --- | --- |
-| id | ISMI database ID |
+| id  | ISMI database ID |
 | title | place name in ISMI database |
-| title_uri | URI in ISMI database web frontend |
-| title_source | "ISMI" |
-| start | dummy attestation date (700CE) |
+| variants | other names for this place in ISMI database |
+| types  | ISMI place type |
+| title_source  | URI in ISMI database web frontend |
+| title_uri  | URI in ISMI database web frontend |
+| parent_name | name of parent place in ISMI db |
+| parent_id  | id of parent place in ISMI db |
+| start | dummy start date (800CE) |
+| attestation_year | dummy attestation date (2016CE) |
+| description | compact description of the relations to this place in the ISMI db |
 
 Also see [the general README](https://github.com/Hist-ME/URIs/blob/master/README.md) for this repo.

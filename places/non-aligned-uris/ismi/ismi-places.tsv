@@ -1,398 +1,390 @@
-uri	description	id	type	parent_name	parent_id	parent_type
-https://ismi.mpiwg-berlin.mpg.de/place/88263	Adana	88263	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85243	Aden	85243	city			
-https://ismi.mpiwg-berlin.mpg.de/place/85589	Adrianopel	85589	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179798	Afghanistan	179798	country			
-https://ismi.mpiwg-berlin.mpg.de/place/85213	Afshana, near Bukhārā (Uzbekistan)	85213	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87434	Afyon	87434	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/330886	Agarfa, Bale	330886	city	Ethiopia	330883	country
-https://ismi.mpiwg-berlin.mpg.de/place/87895	Ahmadabad	87895	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/24358	Aḥmadiyya	24358	madrasa	Aleppo	85486	city
-https://ismi.mpiwg-berlin.mpg.de/place/529683	Ahmedabad	529683		India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/361847	Ahwaz	361847				
-https://ismi.mpiwg-berlin.mpg.de/place/87782	Akbarabad	87782	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/123652	al-Madrasaẗ al-Šāmiyyaẗ	123652	madrasa	Damascus	85658	city
-https://ismi.mpiwg-berlin.mpg.de/place/168025	Alamūt	168025	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85486	Aleppo	85486	city	Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87102	Alexandria	87102	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/173275	Algeria	173275	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87820	Algiers	87820	city	Algeria	173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/86794	Aligarh	86794	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/490235	Almeria	490235	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/525362	Amasya	525362	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/86472	Amsterdam	86472	city	Netherlands	174707	country
-https://ismi.mpiwg-berlin.mpg.de/place/390537	Amul	390537	city	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/482813	Anatolia	482813	region	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/93261	Andalusia	93261	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87724	Ankara	87724	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85621	Ankara (Enguriye)	85621	city			
-https://ismi.mpiwg-berlin.mpg.de/place/44343	Ann Arbor, MI	44343	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/462175	Antakya	462175	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/411067	Antalya	411067	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/480382	Ardabil	480382	city	Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/173852	Armenia	173852	country			
-https://ismi.mpiwg-berlin.mpg.de/place/325114	Arrajān	325114	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87019	Ashqabad	87019	city	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/354268	Astija	354268	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/434061	Aswan	434061		Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/486754	Asyūt	486754	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/173483	Austria	173483	country			
-https://ismi.mpiwg-berlin.mpg.de/place/178920	Azerbaijan	178920	country			
-https://ismi.mpiwg-berlin.mpg.de/place/2066	Azhar	2066	madrasa	Cairo	85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/87149	Baalbek	87149	city			
-https://ismi.mpiwg-berlin.mpg.de/place/394897	Badajoz	394897		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/540577	Badakhshan	540577		Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/438196	Baeza	438196		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/167760	Baghdad	167760	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/437004	Bahrain	437004				
-https://ismi.mpiwg-berlin.mpg.de/place/87420	Bakchesaray	87420	city	Ukraine	173857	country
-https://ismi.mpiwg-berlin.mpg.de/place/87016	Baku	87016	city	Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/434389	Balad (Iraq)	434389	city_district	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86680	Balıkesir	86680	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/153791	Balkh	153791	city	Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/179186	Bangladesh	179186	country			
-https://ismi.mpiwg-berlin.mpg.de/place/40827	Bankipore	40827	city			
-https://ismi.mpiwg-berlin.mpg.de/place/442398	Barda (Barḏaʿaẗ)	442398	city	Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/93607	Baṣra	93607	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/422190	Bayhaq	422190		Khurāsān	310384	city_district
-https://ismi.mpiwg-berlin.mpg.de/place/86325	Beirut	86325	city	Lebanon	174621	country
-https://ismi.mpiwg-berlin.mpg.de/place/179327	Belgium	179327	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87247	Berlin	87247	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/447960	Birgi	447960		İzmir	49174	city
-https://ismi.mpiwg-berlin.mpg.de/place/86475	Birmingham, U.K.	86475	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/88220	Bologna	88220	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/431413	Bombay	431413	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/179005	Bosnia/Herzegovina	179005	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88049	Boston	88049	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/25201	Bourron	25201	city	France	174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/86686	Bratislava	86686	city	Slovakia	173935	country
-https://ismi.mpiwg-berlin.mpg.de/place/88007	Brussels	88007	city	Belgium	179327	country
-https://ismi.mpiwg-berlin.mpg.de/place/88038	Budapest	88038	city	Hungary	178964	country
-https://ismi.mpiwg-berlin.mpg.de/place/87068	Bukhara	87068	city	Uzbekistan	173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/449376	Bulgaria	449376	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88226	Burdur	88226	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85627	Bursa	85627	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/152291	Būzjān	152291	city_district			
-https://ismi.mpiwg-berlin.mpg.de/place/85226	Cairo	85226	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/86381	Calcutta	86381	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86439	Cambridge, MA	86439	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86828	Cambridge, UK	86828	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179459	Canada	179459	country			
-https://ismi.mpiwg-berlin.mpg.de/place/414387	Carmona	414387		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/93084	Central Asia	93084	country			
-https://ismi.mpiwg-berlin.mpg.de/place/119665	Ceuta (northern Morocco)	119665	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/85210	Constantinople	85210	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87876	Copenhagen	87876	city	Denmark	179170	country
-https://ismi.mpiwg-berlin.mpg.de/place/85178	Cordova (Spain)	85178	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86378	Çorum	86378	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/338465	Cremona	338465	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/85658	Damascus	85658	city	Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87313	Damietta	87313	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/441543	Deccan	441543	region	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87127	Denia (Spain)	87127	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179170	Denmark	179170	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88072	Detroit	88072	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86551	Dhaka	86551	city	Bangladesh	179186	country
-https://ismi.mpiwg-berlin.mpg.de/place/479550	Dhamār	479550	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/450324	Dīnawar	450324	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87384	Diyarbakir	87384	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/493137	Doha	493137	city	Qatar	493134	country
-https://ismi.mpiwg-berlin.mpg.de/place/87480	Dresden	87480	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/86683	Dublin	86683	city	Ireland	179659	country
-https://ismi.mpiwg-berlin.mpg.de/place/87927	Dushanbe	87927	city	Tajikistan	179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/356027	Écija	356027		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/328715	Edessa	328715	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87546	Edinburgh, Scotland	87546	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/85246	Edirne	85246	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/173189	Egypt	173189	country			
-https://ismi.mpiwg-berlin.mpg.de/place/119513	Elche (Andalusia)	119513	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/437015	Erbil	437015				
-https://ismi.mpiwg-berlin.mpg.de/place/24616	Erfurt	24616	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/87114	Erzincan	87114	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/270897	Erzurum	270897	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/330883	Ethiopia	330883	country			
-https://ismi.mpiwg-berlin.mpg.de/place/422251	Farab	422251				
-https://ismi.mpiwg-berlin.mpg.de/place/333575	Farghāna	333575	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179766	Fās	179766	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/441547	Fatḥ-Nakr	441547	city_district	Deccan	441543	region
-https://ismi.mpiwg-berlin.mpg.de/place/87971	Fez	87971	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87757	Florence	87757	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174775	France	174775	country			
-https://ismi.mpiwg-berlin.mpg.de/place/529096	Galata	529096		Istanbul	85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/140190	Ġandagān (near Shiraz)	140190	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/447260	Gaziantep (Ayntāb)	447260	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/525410	Gelibolu	525410	city			
-https://ismi.mpiwg-berlin.mpg.de/place/179183	Georgia	179183	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174492	Germany	174492	country			
-https://ismi.mpiwg-berlin.mpg.de/place/153829	Ghazna	153829	city	Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/85304	Gīlān (Iran)	85304	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87304	Giresun	87304	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/142708	Giza	142708	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/86946	Glasgow	86946	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179423	Golkanda	179423	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87176	Gotha	87176	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/1129	Göttingen	1129	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/88223	Granada	88223	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/71938	Greece	71938	country			
-https://ismi.mpiwg-berlin.mpg.de/place/436281	Guadix	436281		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/312817	Gülistan (Guliston)	312817	city	Uzbekistan	173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/327648	Gundeshapur [Gundēšāpūr] (Fars)	327648	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85367	Gurganj	85367	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86943	Hamadan	86943	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/311328	Ḥamāh	311328	city	Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/87597	Hamburg	87597	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/347936	Harran	347936	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/86434	Heidelberg	86434	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/71934	Heraklion (Iraklion, Candia, Qandiya; in Crete)	71934	city	Greece	71938	country
-https://ismi.mpiwg-berlin.mpg.de/place/374934	Herat	374934		Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/154074	Ḫilāṭ [Aḫlāṭ]	154074	city			
-https://ismi.mpiwg-berlin.mpg.de/place/374418	Ḫujand	374418	city	Tajikistan	179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/178964	Hungary	178964	country			
-https://ismi.mpiwg-berlin.mpg.de/place/88276	Hyderabad	88276	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/174638	India	174638	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173690	Indonesia	173690	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174469	Iran	174469	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173298	Iraq	173298	country			
-https://ismi.mpiwg-berlin.mpg.de/place/179659	Ireland	179659	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87474	Isfahan	87474	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/384589	Isfarain	384589	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/356327	Iṣṭaḫr	356327		Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85148	Istanbul	85148	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/173763	Italy	173763	country			
-https://ismi.mpiwg-berlin.mpg.de/place/49174	İzmir	49174	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/447733	Iznik	447733	city_district	Bursa	85627	city
-https://ismi.mpiwg-berlin.mpg.de/place/395007	Jaén	395007		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/86356	Jaipur	86356	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86449	Jakarta (formerly Batavia)	86449	city	Indonesia	173690	country
-https://ismi.mpiwg-berlin.mpg.de/place/271745	Jāmiʿ Naqīb al-Juyūš	271745	madrasa			
-https://ismi.mpiwg-berlin.mpg.de/place/382383	Jawhar	382383	city			
-https://ismi.mpiwg-berlin.mpg.de/place/450367	Jayyān (Jaén)	450367	city	Andalusia	93261	country
-https://ismi.mpiwg-berlin.mpg.de/place/87387	Jerusalem	87387	city	Palestine/Israel	179483	country
-https://ismi.mpiwg-berlin.mpg.de/place/86701	Jibla	86701	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/85370	Jurjān	85370	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86618	Kabul	86618	city	Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/87440	Kaduna	87440	city	Nigeria	178897	country
-https://ismi.mpiwg-berlin.mpg.de/place/87040	Kairouan (Qayrawān)	87040	city			
-https://ismi.mpiwg-berlin.mpg.de/place/33055	Kapūrt’halah, India	33055	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/381807	Karaj	381807		Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/488271	Kashan	488271	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/155387	Kashghar	155387	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87594	Kastamonu	87594	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/155041	Kaṯ	155041	city			
-https://ismi.mpiwg-berlin.mpg.de/place/88310	Kayseri	88310	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/86288	Kazan	86288	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/177048	Kazimiya	177048	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/310384	Khurāsān	310384	city_district	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/325429	Khuttal	325429	city			
-https://ismi.mpiwg-berlin.mpg.de/place/25264	Khuzistan	25264	country	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/310048	Khwārizm	310048	country	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/87477	Kiev	87477	city	Ukraine	173857	country
-https://ismi.mpiwg-berlin.mpg.de/place/87152	Kiliç	87152	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/443803	Kilis	443803	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/380989	Kirman	380989		Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87301	Konya	87301	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/93604	Kufa	93604	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/525086	Kütahya	525086	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/440170	Kuwait	440170	country			
-https://ismi.mpiwg-berlin.mpg.de/place/440173	Kuwait City	440173	city	Kuwait	440170	country
-https://ismi.mpiwg-berlin.mpg.de/place/443486	Ladik	443486	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87930	Lahore	87930	city	Pakistan	179735	country
-https://ismi.mpiwg-berlin.mpg.de/place/34602	Lār	34602	city			
-https://ismi.mpiwg-berlin.mpg.de/place/174621	Lebanon	174621	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86776	Leiden	86776	city	Netherlands	174707	country
-https://ismi.mpiwg-berlin.mpg.de/place/87228	Leipzig	87228	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/178992	Libya	178992	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86645	London	86645	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/88247	Los Angeles, CA	88247	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86969	Lucknow	86969	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87628	Madras	87628	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/438040	Madrasa Kāmiliyya	438040	madrasa	Cairo	85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy	22073	city	Cairo	85226	city
-https://ismi.mpiwg-berlin.mpg.de/place/38142	Madrasah Šāh zādah Muḥammad Ḫān	38142	madrasa	unknown country	200567	country
-https://ismi.mpiwg-berlin.mpg.de/place/23251	Madrasaẗ Šayḫ Muḥammad Afandī	23251	madrasa			
-https://ismi.mpiwg-berlin.mpg.de/place/86912	Madrid	86912	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/478778	Maġrib	478778	region	North Africa	93622	country
-https://ismi.mpiwg-berlin.mpg.de/place/86446	Mahachqala	86446	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/87719	Makhachqala	87719	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/140728	Malaga	140728	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/85376	Malatya	85376	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/87080	Manchester	87080	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/87295	Manisa	87295	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85354	Marāgha	85354	city			
-https://ismi.mpiwg-berlin.mpg.de/place/85558	Marāgha; Baghdad*	85558	city			
-https://ismi.mpiwg-berlin.mpg.de/place/441899	Maraş (Kahramanmaraş)	441899	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/312831	Mardin	312831	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/85336	Marrakech (Morocco)	85336	city			
-https://ismi.mpiwg-berlin.mpg.de/place/153834	Marw	153834	city	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/390282	Marwarrüḏ	390282		Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/87957	Mashhad	87957	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/442709	Māwaẗ	442709	city_district	Sulaymaniyah	442705	city
-https://ismi.mpiwg-berlin.mpg.de/place/498926	Mazandaran	498926	region	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/127632	Mecca	127632	city	Saudi Arabia	179081	country
-https://ismi.mpiwg-berlin.mpg.de/place/87879	Medina	87879	city	Saudi Arabia	179081	country
-https://ismi.mpiwg-berlin.mpg.de/place/426724	Mehdia	426724		Tunisia	173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/318030	Mersin/Tarsus	318030	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/485679	Merv	485679	city	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/87404	Milan	87404	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/69524	Mocha	69524	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/87483	Montpelier	87483	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/88035	Montreal	88035	city	Canada	179459	country
-https://ismi.mpiwg-berlin.mpg.de/place/173531	Morocco	173531	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86758	Moscow	86758	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/85483	Mosul	85483	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/530136	Mukalla	530136		Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/87556	Mumbai	87556	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87231	Munich	87231	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/87347	Muradabad, India	87347	city			
-https://ismi.mpiwg-berlin.mpg.de/place/431843	Murcia	431843		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/86422	Mysore	86422	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/87804	Najaf	87804	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/445345	Nakhchivan	445345	region	Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/310373	Nasā	310373	city_district	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/428715	Nasaf	428715				
-https://ismi.mpiwg-berlin.mpg.de/place/87234	Navsari	87234	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/174707	Netherlands	174707	country			
-https://ismi.mpiwg-berlin.mpg.de/place/540703	New Delhi	540703		India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/88323	New Haven, CT	88323	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/87609	New York	87609	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/86603	Niğde	86603	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/178897	Nigeria	178897	country			
-https://ismi.mpiwg-berlin.mpg.de/place/482817	Niksar	482817	city	Anatolia	482813	region
-https://ismi.mpiwg-berlin.mpg.de/place/85301	Nīshābūr	85301	city			
-https://ismi.mpiwg-berlin.mpg.de/place/134677	Nisibis	134677	city	Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/43390	Niẓāmiyya	43390	madrasa	Baghdad	167760	city
-https://ismi.mpiwg-berlin.mpg.de/place/93622	North Africa	93622	country			
-https://ismi.mpiwg-berlin.mpg.de/place/350648	Nūr Aḥmadiyya	350648	madrasa	ʿAkkā	350573	city_district
-https://ismi.mpiwg-berlin.mpg.de/place/156139	Oran	156139	city	Algeria	173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/443952	Osmancık	443952	city_district	Çorum	86378	city
-https://ismi.mpiwg-berlin.mpg.de/place/517299	Otlukbeli	517299	city_district	Erzincan	87114	city
-https://ismi.mpiwg-berlin.mpg.de/place/86816	Oxford	86816	city	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/179735	Pakistan	179735	country			
-https://ismi.mpiwg-berlin.mpg.de/place/276374	Palermo	276374	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/179483	Palestine/Israel	179483	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86667	Paris	86667	city	France	174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/87844	Patiala (Kapurthala)	87844	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/86909	Patna	86909	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/88340	Peshawar	88340	city	Pakistan	179735	country
-https://ismi.mpiwg-berlin.mpg.de/place/44417	Philadelphia, PA	44417	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/449379	Plovdiv (Filibe)	449379	city	Bulgaria	449376	country
-https://ismi.mpiwg-berlin.mpg.de/place/86846	Princeton	86846	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/153698	Qabadiyan (or Qubadiyan; modern Nosiri Khusrav in SE Tajikistan)	153698	city	Tajikistan	179518	country
-https://ismi.mpiwg-berlin.mpg.de/place/493134	Qatar	493134	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174008	Qayrawan	174008	city	Tunisia	173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/463432	Qazwīn	463432	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/167982	Qāʾin	167982	city	Qūhistān	168047	country
-https://ismi.mpiwg-berlin.mpg.de/place/319018	Qift	319018	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/326959	Qinnasrin	326959	city	Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/168047	Qūhistān	168047	country	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/457991	Qum	457991	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/86749	Rabat	86749	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/86252	Rajab	86252	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86730	Rampur	86730	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/363352	Raqqa	363352				
-https://ismi.mpiwg-berlin.mpg.de/place/88250	Rasht	88250	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87984	Rayy	87984	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85672	Rayy (Iran)	85672	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87533	Rome	87533	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174659	Russia	174659	country			
-https://ismi.mpiwg-berlin.mpg.de/place/108354	Salamanca (Spain)	108354	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/179683	Salé	179683	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/362860	Samarqand	362860	city	Uzbekistan	173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/329068	Samarra	329068	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/502402	Samsun	502402	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/163900	San Lorenzo de El Escorial	163900	city_district	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/87660	Sana`a	87660	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/85151	Saragossa (Spain)	85151	city			
-https://ismi.mpiwg-berlin.mpg.de/place/320173	Sarai (Saraj or Saray)	320173	country	Sarai (Saraj or Saray)	320173	country
-https://ismi.mpiwg-berlin.mpg.de/place/87807	Sarajevo	87807	city	Bosnia/Herzegovina	179005	country
-https://ismi.mpiwg-berlin.mpg.de/place/331126	Sarakhs	331126	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85534	Sartakht	85534	city			
-https://ismi.mpiwg-berlin.mpg.de/place/456861	Satarāh	456861	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/179081	Saudi Arabia	179081	country			
-https://ismi.mpiwg-berlin.mpg.de/place/276430	Segovia	276430	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/313825	Serakhs	313825	city	Turkmenistan	178885	country
-https://ismi.mpiwg-berlin.mpg.de/place/140114	Seville	140114	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/119509	Sfax (Tunisia)	119509	city	Tunisia	173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/433318	Shahrazur	433318		Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/86746	Shibin al-Qum	86746	city	Egypt	173189	country
-https://ismi.mpiwg-berlin.mpg.de/place/455703	Shikohabad	455703	city	India	174638	country
-https://ismi.mpiwg-berlin.mpg.de/place/85653	Shiraz	85653	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/446245	Shirvān‎	446245		Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/4404	Shirwān, Shamākhi	4404	city	Azerbaijan	178920	country
-https://ismi.mpiwg-berlin.mpg.de/place/141246	Sicily	141246	country	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/350578	Sidon	350578	city_district	Lebanon	174621	country
-https://ismi.mpiwg-berlin.mpg.de/place/376768	Sijistan	376768				
-https://ismi.mpiwg-berlin.mpg.de/place/360314	Siraf	360314		Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/85537	Sīwās (NE Turkey)	85537	city			
-https://ismi.mpiwg-berlin.mpg.de/place/173935	Slovakia	173935	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174730	Spain	174730	country			
-https://ismi.mpiwg-berlin.mpg.de/place/393060	St Andrews, Fife, Scotland	393060	city_district	UK	174533	country
-https://ismi.mpiwg-berlin.mpg.de/place/87260	St. Petersburg	87260	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/74460	Stockholm	74460	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86689	Strasbourg	86689	city	France	174775	country
-https://ismi.mpiwg-berlin.mpg.de/place/437147	Suhraward	437147				
-https://ismi.mpiwg-berlin.mpg.de/place/442705	Sulaymaniyah	442705	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/374813	Sumaysat	374813		Syria	174694	country
-https://ismi.mpiwg-berlin.mpg.de/place/178937	Sweden	178937	country			
-https://ismi.mpiwg-berlin.mpg.de/place/174694	Syria	174694	country			
-https://ismi.mpiwg-berlin.mpg.de/place/314816	Tabaristan	314816	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/484892	Tabrīz	484892	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/412619	Taft	412619		Yazd	87675	city
-https://ismi.mpiwg-berlin.mpg.de/place/179518	Tajikistan	179518	country			
-https://ismi.mpiwg-berlin.mpg.de/place/142459	Takrit	142459	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/85640	Taku	85640	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87437	Tangier	87437	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/86233	Tarim, Yemen	86233	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/359019	Tarsus	359019	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86548	Tashkent	86548	city	Uzbekistan	173272	country
-https://ismi.mpiwg-berlin.mpg.de/place/473519	Tazeghedra	473519	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/87569	Tbilisi	87569	city	Georgia	179183	country
-https://ismi.mpiwg-berlin.mpg.de/place/86384	Tehran	86384	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/86874	Tetuan	86874	city	Morocco	173531	country
-https://ismi.mpiwg-berlin.mpg.de/place/25277	Tiflis (Tbilisi)	25277	city	Georgia	179183	country
-https://ismi.mpiwg-berlin.mpg.de/place/321561	Tlemcen	321561	city	Algeria	173275	country
-https://ismi.mpiwg-berlin.mpg.de/place/443439	Tokat	443439	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/140646	Toledo	140646	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/38689	Toronto	38689	city	Canada	179459	country
-https://ismi.mpiwg-berlin.mpg.de/place/108386	Tortosa (Catalonia)	108386	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/19074	Trebizond (Trabzon)	19074	city			
-https://ismi.mpiwg-berlin.mpg.de/place/86507	Tripoli	86507	city	Libya	178992	country
-https://ismi.mpiwg-berlin.mpg.de/place/86533	Tübingen	86533	city	Germany	174492	country
-https://ismi.mpiwg-berlin.mpg.de/place/86632	Tunis	86632	city	Tunisia	173557	country
-https://ismi.mpiwg-berlin.mpg.de/place/173557	Tunisia	173557	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86305	Turin	86305	city	Italy	173763	country
-https://ismi.mpiwg-berlin.mpg.de/place/174510	Turkey	174510	country			
-https://ismi.mpiwg-berlin.mpg.de/place/178885	Turkmenistan	178885	country			
-https://ismi.mpiwg-berlin.mpg.de/place/85545	Ṭūs	85545	city			
-https://ismi.mpiwg-berlin.mpg.de/place/87257	Ufa	87257	city	Russia	174659	country
-https://ismi.mpiwg-berlin.mpg.de/place/174533	UK	174533	country			
-https://ismi.mpiwg-berlin.mpg.de/place/173857	Ukraine	173857	country			
-https://ismi.mpiwg-berlin.mpg.de/place/350677	UNKNOWN	350677				
-https://ismi.mpiwg-berlin.mpg.de/place/200567	unknown country	200567	country			
-https://ismi.mpiwg-berlin.mpg.de/place/86266	Uppsala	86266	city	Sweden	178937	country
-https://ismi.mpiwg-berlin.mpg.de/place/173554	USA	173554	country			
-https://ismi.mpiwg-berlin.mpg.de/place/447130	Uskudar	447130	city_district	Istanbul	85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/173272	Uzbekistan	173272	country			
-https://ismi.mpiwg-berlin.mpg.de/place/142599	Valencia	142599	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/38383	Vatican City	38383	city	Vatican City State	43921	country
-https://ismi.mpiwg-berlin.mpg.de/place/43921	Vatican City State	43921	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87037	Vienna	87037	city	Austria	173483	country
-https://ismi.mpiwg-berlin.mpg.de/place/436967	Wādyāš	436967		Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/142516	Wann (Khuzistan)	142516	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/87833	Washington D.C.	87833	city	USA	173554	country
-https://ismi.mpiwg-berlin.mpg.de/place/458696	Wāsiṭ	458696	city	Iraq	173298	country
-https://ismi.mpiwg-berlin.mpg.de/place/141626	Wāsiṭa (south of Cordoba)	141626	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/164884	Wrocław	164884	city			
-https://ismi.mpiwg-berlin.mpg.de/place/153749	Yamgan (or Yomgan; in NE Afghanistan)	153749	city	Afghanistan	179798	country
-https://ismi.mpiwg-berlin.mpg.de/place/87675	Yazd	87675	city	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/501761	Yedikule	501761	city_district	Istanbul	85148	city
-https://ismi.mpiwg-berlin.mpg.de/place/178900	Yemen	178900	country			
-https://ismi.mpiwg-berlin.mpg.de/place/87640	Yerevan	87640	city	Armenia	173852	country
-https://ismi.mpiwg-berlin.mpg.de/place/87882	Yozgat	87882	city	Turkey	174510	country
-https://ismi.mpiwg-berlin.mpg.de/place/483787	Zabid	483787	city	Yemen	178900	country
-https://ismi.mpiwg-berlin.mpg.de/place/498785	Ẓāhiriyya Juwāniyya madrasa	498785	madrasa	Damascus	85658	city
-https://ismi.mpiwg-berlin.mpg.de/place/108247	Zahra (suburb of Cordova)	108247	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/458112	Zanjān	458112	city_district	Iran	174469	country
-https://ismi.mpiwg-berlin.mpg.de/place/142614	Zaragoza	142614	city	Spain	174730	country
-https://ismi.mpiwg-berlin.mpg.de/place/350573	ʿAkkā	350573	city_district	Palestine/Israel	179483	country
-https://ismi.mpiwg-berlin.mpg.de/place/431559	ʿAyn Zarba	431559	city			
+id	title	variants	types	title_source	title_uri	parent_name	parent_id	start	attestation_year	description
+1129	Göttingen		city	http://ismi.mpiwg-berlin.mpg.de/place/1129	http://ismi.mpiwg-berlin.mpg.de/place/1129	Germany	#174492	0800	2006	[PLACE[25277] is_part_of,PLACE[87569] is_part_of]
+2066	Azhar		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/2066	http://ismi.mpiwg-berlin.mpg.de/place/2066	Cairo	#85226	0800	2006	[PERSON[272829] died_in,PLACE[88038] is_part_of]
+4404	Shirwān	Shirwān, Shamākhi	city	http://ismi.mpiwg-berlin.mpg.de/place/4404	http://ismi.mpiwg-berlin.mpg.de/place/4404	Azerbaijan	#178920	0800	2006	[PERSON[66472] lived_in,PERSON[66472] was_born_in]
+19074	Trebizond	Trebizond (Trabzon)	city	http://ismi.mpiwg-berlin.mpg.de/place/19074	http://ismi.mpiwg-berlin.mpg.de/place/19074			0800	2006	[REPOSITORY[502406] is_in]
+22073	Madrasa of Sultan al-Malik al-Ashraf Barsbāy		city	http://ismi.mpiwg-berlin.mpg.de/place/22073	http://ismi.mpiwg-berlin.mpg.de/place/22073	Cairo	#85226	0800	2006	[REPOSITORY[177913] is_in,REPOSITORY[89001] is_in,REPOSITORY[371619] is_in]
+23251	Madrasaẗ Šayḫ Muḥammad Afandī		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/23251	http://ismi.mpiwg-berlin.mpg.de/place/23251			0800	2006	[PERSON[207381] lived_in,PERSON[207381] died_in,PERSON[101309] lived_in,PERSON[102917] lived_in,PERSON[163925] lived_in,PERSON[101079] lived_in,PERSON[183284] lived_in,PERSON[103275] lived_in,PERSON[101218] lived_in,PERSON[100078] lived_in]
+24616	Erfurt		city	http://ismi.mpiwg-berlin.mpg.de/place/24616	http://ismi.mpiwg-berlin.mpg.de/place/24616	Germany	#174492	0800	2006	[REPOSITORY[135012] is_in]
+25201	Bourron		city	http://ismi.mpiwg-berlin.mpg.de/place/25201	http://ismi.mpiwg-berlin.mpg.de/place/25201	France	#174775	0800	2006	[PERSON[453473] lived_in]
+25264	Khuzistan		country	http://ismi.mpiwg-berlin.mpg.de/place/25264	http://ismi.mpiwg-berlin.mpg.de/place/25264	Iran	#174469	0800	2006	[REPOSITORY[72397] is_in,REPOSITORY[204982] is_in]
+25277	Tiflis	Tiflis (Tbilisi)	city	http://ismi.mpiwg-berlin.mpg.de/place/25277	http://ismi.mpiwg-berlin.mpg.de/place/25277	Georgia	#179183	0800	2006	[PERSON[105546] lived_in,PERSON[46669] lived_in,PERSON[353185] was_born_in,PLACE[374813] is_part_of,PERSON[21049] lived_in,PERSON[10695] lived_in,PLACE[326959] is_part_of,PLACE[134677] is_part_of,PERSON[205698] lived_in,PLACE[311328] is_part_of,PERSON[21770] lived_in,TEXT[352849] was_created_in,PLACE[85658] is_part_of,PERSON[352838] was_born_in,PERSON[485001] lived_in,PLACE[85486] is_part_of,PERSON[209693] lived_in,PERSON[44222] lived_in,PERSON[183747] lived_in,PERSON[73568] lived_in,PERSON[53630] lived_in,PERSON[99414] lived_in]
+33055	Kapūrt’halah	Kapūrt’halah, India	city	http://ismi.mpiwg-berlin.mpg.de/place/33055	http://ismi.mpiwg-berlin.mpg.de/place/33055	India	#174638	0800	2006	[REPOSITORY[201106] is_in,REPOSITORY[291143] is_in,REPOSITORY[89030] is_in,REPOSITORY[89833] is_in]
+34602	Lār		city	http://ismi.mpiwg-berlin.mpg.de/place/34602	http://ismi.mpiwg-berlin.mpg.de/place/34602			0800	2006	[REPOSITORY[197566] is_in,REPOSITORY[371563] is_in,REPOSITORY[89285] is_in,REPOSITORY[88601] is_in,REPOSITORY[88410] is_in,REPOSITORY[89375] is_in,REPOSITORY[89526] is_in,REPOSITORY[88532] is_in,REPOSITORY[89046] is_in,REPOSITORY[89659] is_in,REPOSITORY[89661] is_in,REPOSITORY[182799] is_in,REPOSITORY[88894] is_in,REPOSITORY[89148] is_in,REPOSITORY[88562] is_in,REPOSITORY[292216] is_in,REPOSITORY[88350] is_in,REPOSITORY[464002] is_in]
+38142	Madrasah Šāh zādah Muḥammad Ḫān		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/38142	http://ismi.mpiwg-berlin.mpg.de/place/38142	unknown country	#200567	0800	2006	[REPOSITORY[88385] is_in]
+38383	Vatican City		city	http://ismi.mpiwg-berlin.mpg.de/place/38383	http://ismi.mpiwg-berlin.mpg.de/place/38383	Vatican City State	#43921	0800	2006	[WITNESS[388586] was_copied_in,PLACE[517299] is_part_of,PERSON[44253] lived_in]
+38689	Toronto		city	http://ismi.mpiwg-berlin.mpg.de/place/38689	http://ismi.mpiwg-berlin.mpg.de/place/38689	Canada	#179459	0800	2006	[PERSON[98608] lived_in,PERSON[98608] died_in]
+40827	Bankipore		city	http://ismi.mpiwg-berlin.mpg.de/place/40827	http://ismi.mpiwg-berlin.mpg.de/place/40827			0800	2006	[PERSON[43385] lived_in,PERSON[43385] was_born_in]
+43390	Niẓāmiyya		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/43390	http://ismi.mpiwg-berlin.mpg.de/place/43390	Baghdad	#167760	0800	2006	[WITNESS[528459] was_copied_in]
+43921	Vatican City State		country	http://ismi.mpiwg-berlin.mpg.de/place/43921	http://ismi.mpiwg-berlin.mpg.de/place/43921			0800	2006	[PERSON[206722] lived_in,PLACE[86874] is_part_of,PLACE[473519] is_part_of,PLACE[87437] is_part_of,PERSON[396677] was_born_in,PLACE[179683] is_part_of,PERSON[14502] lived_in,PLACE[86749] is_part_of,PLACE[179766] is_part_of,PERSON[28064] died_in,PERSON[85888] lived_in,PERSON[61001] lived_in,PERSON[33479] lived_in,PERSON[33479] died_in]
+44343	Ann Arbor	Ann Arbor, MI	city	http://ismi.mpiwg-berlin.mpg.de/place/44343	http://ismi.mpiwg-berlin.mpg.de/place/44343	USA	#173554	0800	2006	[REPOSITORY[72874] is_in,REPOSITORY[206572] is_in,REPOSITORY[89028] is_in,REPOSITORY[88679] is_in,REPOSITORY[544657] is_in]
+44417	Philadelphia	Philadelphia, PA	city	http://ismi.mpiwg-berlin.mpg.de/place/44417	http://ismi.mpiwg-berlin.mpg.de/place/44417	USA	#173554	0800	2006	[PERSON[27729] lived_in,REPOSITORY[89690] is_in,REPOSITORY[176457] is_in,PERSON[39923] lived_in,PERSON[39923] died_in]
+49174	İzmir		city	http://ismi.mpiwg-berlin.mpg.de/place/49174	http://ismi.mpiwg-berlin.mpg.de/place/49174	Turkey	#174510	0800	2006	[REPOSITORY[112840] is_in,PERSON[76792] lived_in,PERSON[35369] lived_in,PERSON[29372] lived_in,PERSON[29372] was_born_in,PERSON[76981] lived_in,PERSON[53301] lived_in,PERSON[53428] lived_in,PERSON[77544] lived_in,PERSON[60526] lived_in,PERSON[96609] lived_in,PERSON[96609] was_born_in,PERSON[58576] lived_in,PERSON[72419] lived_in,PERSON[72419] was_born_in,PERSON[56529] lived_in,PERSON[60353] lived_in]
+69524	Mocha		city	http://ismi.mpiwg-berlin.mpg.de/place/69524	http://ismi.mpiwg-berlin.mpg.de/place/69524	Yemen	#178900	0800	2006	[PLACE[86533] is_part_of,PLACE[87231] is_part_of,PLACE[87228] is_part_of,PLACE[86434] is_part_of,PLACE[87597] is_part_of,PLACE[1129] is_part_of,PLACE[87176] is_part_of,PLACE[24616] is_part_of,PLACE[87480] is_part_of,PLACE[87247] is_part_of]
+71934	Heraklion	Heraklion (Iraklion, Candia, Qandiya; in Crete)	city	http://ismi.mpiwg-berlin.mpg.de/place/71934	http://ismi.mpiwg-berlin.mpg.de/place/71934	Greece	#71938	0800	2006	[REPOSITORY[102198] is_in,REPOSITORY[173751] is_in,REPOSITORY[90070] is_in]
+71938	Greece		country	http://ismi.mpiwg-berlin.mpg.de/place/71938	http://ismi.mpiwg-berlin.mpg.de/place/71938			0800	2006	[PERSON[65600] lived_in]
+74460	Stockholm		city	http://ismi.mpiwg-berlin.mpg.de/place/74460	http://ismi.mpiwg-berlin.mpg.de/place/74460			0800	2006	[PLACE[87477] is_part_of,PLACE[87420] is_part_of]
+85148	Istanbul		city	http://ismi.mpiwg-berlin.mpg.de/place/85148	http://ismi.mpiwg-berlin.mpg.de/place/85148	Turkey	#174510	0800	2006	[REPOSITORY[136578] is_in]
+85151	Saragossa	Saragossa (Spain)	city	http://ismi.mpiwg-berlin.mpg.de/place/85151	http://ismi.mpiwg-berlin.mpg.de/place/85151			0800	2006	[PERSON[57269] lived_in,PERSON[63874] lived_in,PERSON[63874] was_born_in]
+85178	Cordova	Cordova (Spain)	city	http://ismi.mpiwg-berlin.mpg.de/place/85178	http://ismi.mpiwg-berlin.mpg.de/place/85178			0800	2006	[WITNESS[23432] was_copied_in]
+85210	Constantinople		city	http://ismi.mpiwg-berlin.mpg.de/place/85210	http://ismi.mpiwg-berlin.mpg.de/place/85210			0800	2006	[PERSON[184524] lived_in]
+85213	Afshana	Afshana, near Bukhārā (Uzbekistan)	city	http://ismi.mpiwg-berlin.mpg.de/place/85213	http://ismi.mpiwg-berlin.mpg.de/place/85213			0800	2006	[REPOSITORY[447776] is_in,REPOSITORY[201456] is_in]
+85226	Cairo		city	http://ismi.mpiwg-berlin.mpg.de/place/85226	http://ismi.mpiwg-berlin.mpg.de/place/85226	Egypt	#173189	0800	2006	[REPOSITORY[199455] is_in]
+85243	Aden		city	http://ismi.mpiwg-berlin.mpg.de/place/85243	http://ismi.mpiwg-berlin.mpg.de/place/85243			0800	2006	[PERSON[25066] lived_in,PERSON[25066] died_in,PERSON[7627] lived_in,PERSON[7627] died_in,PERSON[7627] was_born_in,PERSON[27255] lived_in,PERSON[27255] died_in,PERSON[544511] lived_in]
+85246	Edirne		city	http://ismi.mpiwg-berlin.mpg.de/place/85246	http://ismi.mpiwg-berlin.mpg.de/place/85246	Turkey	#174510	0800	2006	[PERSON[25305] lived_in,PERSON[63097] lived_in]
+85301	Nīshābūr		city	http://ismi.mpiwg-berlin.mpg.de/place/85301	http://ismi.mpiwg-berlin.mpg.de/place/85301			0800	2006	[REPOSITORY[479554] is_in]
+85304	Gīlān	Gīlān (Iran)	city	http://ismi.mpiwg-berlin.mpg.de/place/85304	http://ismi.mpiwg-berlin.mpg.de/place/85304			0800	2006	[WITNESS[443939] was_copied_in]
+85336	Marrakech	Marrakech (Morocco)	city	http://ismi.mpiwg-berlin.mpg.de/place/85336	http://ismi.mpiwg-berlin.mpg.de/place/85336			0800	2006	[REPOSITORY[330890] is_in]
+85354	Marāgha		city	http://ismi.mpiwg-berlin.mpg.de/place/85354	http://ismi.mpiwg-berlin.mpg.de/place/85354			0800	2006	[PLACE[313825] is_part_of,PLACE[310373] is_part_of,PLACE[485679] is_part_of,PLACE[153834] is_part_of,PLACE[310048] is_part_of,PLACE[310384] is_part_of,PLACE[87019] is_part_of,PLACE[390537] is_part_of]
+85367	Gurganj		city	http://ismi.mpiwg-berlin.mpg.de/place/85367	http://ismi.mpiwg-berlin.mpg.de/place/85367			0800	2006	[PLACE[153749] is_part_of,PLACE[390282] is_part_of,PLACE[86618] is_part_of,PLACE[374934] is_part_of,PLACE[153829] is_part_of,PLACE[153791] is_part_of,PLACE[540577] is_part_of]
+85370	Jurjān		city	http://ismi.mpiwg-berlin.mpg.de/place/85370	http://ismi.mpiwg-berlin.mpg.de/place/85370			0800	2006	[PERSON[103691] lived_in,PERSON[100358] lived_in]
+85376	Malatya		city	http://ismi.mpiwg-berlin.mpg.de/place/85376	http://ismi.mpiwg-berlin.mpg.de/place/85376	Turkey	#174510	0800	2006	[PERSON[473507] died_in]
+85483	Mosul		city	http://ismi.mpiwg-berlin.mpg.de/place/85483	http://ismi.mpiwg-berlin.mpg.de/place/85483	Iraq	#173298	0800	2006	[REPOSITORY[89393] is_in]
+85486	Aleppo		city	http://ismi.mpiwg-berlin.mpg.de/place/85486	http://ismi.mpiwg-berlin.mpg.de/place/85486	Syria	#174694	0800	2006	[REPOSITORY[340059] is_in,REPOSITORY[200310] is_in,REPOSITORY[311489] is_in]
+85534	Sartakht		city	http://ismi.mpiwg-berlin.mpg.de/place/85534	http://ismi.mpiwg-berlin.mpg.de/place/85534			0800	2006	[REPOSITORY[89756] is_in]
+85537	Sīwās	Sīwās (NE Turkey)	city	http://ismi.mpiwg-berlin.mpg.de/place/85537	http://ismi.mpiwg-berlin.mpg.de/place/85537			0800	2006	[PERSON[310360] lived_in,PERSON[455] lived_in,PERSON[30782] lived_in,PERSON[31398] lived_in,PERSON[1960] lived_in,PLACE[422190] is_part_of,PERSON[99756] lived_in,PERSON[103749] lived_in,PERSON[102819] lived_in,PERSON[102819] was_born_in,PERSON[60526] lived_in,PERSON[60526] was_born_in,PERSON[66583] lived_in,PERSON[103691] lived_in,PERSON[101414] lived_in,PERSON[279189] was_born_in,PERSON[297726] lived_in]
+85545	Ṭūs		city	http://ismi.mpiwg-berlin.mpg.de/place/85545	http://ismi.mpiwg-berlin.mpg.de/place/85545			0800	2006	[PERSON[36400] lived_in,PERSON[36400] was_born_in,PERSON[102125] lived_in,WITNESS[100247] was_copied_in,PERSON[56849] lived_in,PERSON[101790] lived_in,PERSON[101790] died_in,PERSON[203955] was_born_in,PERSON[64456] lived_in,PERSON[64456] died_in,PERSON[64456] was_born_in,PERSON[42529] lived_in,PERSON[42529] was_born_in,PERSON[63956] lived_in,PERSON[74997] lived_in,PERSON[305045] was_born_in,PERSON[60778] lived_in,PERSON[184899] lived_in,PERSON[99840] lived_in,PERSON[99840] was_born_in,PERSON[77981] lived_in,PERSON[56290] lived_in,PERSON[56290] was_born_in]
+85558	Marāgha	Marāgha; Baghdad*	city	http://ismi.mpiwg-berlin.mpg.de/place/85558	http://ismi.mpiwg-berlin.mpg.de/place/85558			0800	2006	[REPOSITORY[447564] is_in,PLACE[442709] is_part_of]
+85589	Adrianopel		city	http://ismi.mpiwg-berlin.mpg.de/place/85589	http://ismi.mpiwg-berlin.mpg.de/place/85589			0800	2006	[REPOSITORY[526144] is_in,PERSON[184234] lived_in,PERSON[448389] lived_in,REPOSITORY[128303] is_in,WITNESS[526317] was_copied_in,REPOSITORY[517617] is_in,PERSON[517534] died_in,PERSON[544244] lived_in,PERSON[184669] lived_in,PERSON[184669] died_in,PERSON[184669] was_born_in]
+85621	Ankara	Ankara (Enguriye)	city	http://ismi.mpiwg-berlin.mpg.de/place/85621	http://ismi.mpiwg-berlin.mpg.de/place/85621			0800	2006	[REPOSITORY[88778] is_in]
+85627	Bursa		city	http://ismi.mpiwg-berlin.mpg.de/place/85627	http://ismi.mpiwg-berlin.mpg.de/place/85627	Turkey	#174510	0800	2006	[REPOSITORY[89015] is_in]
+85640	Taku		city	http://ismi.mpiwg-berlin.mpg.de/place/85640	http://ismi.mpiwg-berlin.mpg.de/place/85640			0800	2006	[PLACE[86689] is_part_of,PLACE[86667] is_part_of,PLACE[25201] is_part_of]
+85653	Shiraz		city	http://ismi.mpiwg-berlin.mpg.de/place/85653	http://ismi.mpiwg-berlin.mpg.de/place/85653	Iran	#174469	0800	2006	[PLACE[86305] is_part_of,PLACE[141246] is_part_of,PLACE[87533] is_part_of,PLACE[276374] is_part_of,PLACE[87404] is_part_of,PLACE[87757] is_part_of,PLACE[88220] is_part_of,PLACE[338465] is_part_of]
+85658	Damascus		city	http://ismi.mpiwg-berlin.mpg.de/place/85658	http://ismi.mpiwg-berlin.mpg.de/place/85658	Syria	#174694	0800	2006	[WITNESS[455698] was_copied_in]
+85672	Rayy	Rayy (Iran)	city	http://ismi.mpiwg-berlin.mpg.de/place/85672	http://ismi.mpiwg-berlin.mpg.de/place/85672			0800	2006	[REPOSITORY[111597] is_in,REPOSITORY[293461] is_in,REPOSITORY[105501] is_in,REPOSITORY[518660] is_in,REPOSITORY[409742] is_in,REPOSITORY[433766] is_in]
+86233	Tarim, Yemen		city	http://ismi.mpiwg-berlin.mpg.de/place/86233	http://ismi.mpiwg-berlin.mpg.de/place/86233	Yemen	#178900	0800	2006	[PERSON[49702] lived_in,PERSON[199377] lived_in,PERSON[104293] lived_in,PERSON[56849] lived_in,PERSON[100705] lived_in,PERSON[184851] lived_in,PERSON[184851] was_born_in,PERSON[105997] lived_in,PERSON[105997] was_born_in,PERSON[63097] lived_in,PERSON[104188] lived_in,PERSON[161362] lived_in,PERSON[59832] lived_in,PERSON[59832] died_in,PERSON[103275] lived_in,PERSON[100228] lived_in,PERSON[74095] lived_in,PERSON[74095] was_born_in,PERSON[104684] lived_in,PERSON[63597] lived_in,PERSON[63597] was_born_in,PERSON[103651] lived_in]
+86266	Uppsala		city	http://ismi.mpiwg-berlin.mpg.de/place/86266	http://ismi.mpiwg-berlin.mpg.de/place/86266	Sweden	#178937	0800	2006	[PERSON[24993] lived_in,PERSON[24993] was_born_in]
+86288	Kazan		city	http://ismi.mpiwg-berlin.mpg.de/place/86288	http://ismi.mpiwg-berlin.mpg.de/place/86288	Russia	#174659	0800	2006	[PERSON[44752] was_born_in,WITNESS[447749] was_copied_in]
+86305	Turin		city	http://ismi.mpiwg-berlin.mpg.de/place/86305	http://ismi.mpiwg-berlin.mpg.de/place/86305	Italy	#173763	0800	2006	[REPOSITORY[73221] is_in,REPOSITORY[89117] is_in,REPOSITORY[88476] is_in]
+86325	Beirut		city	http://ismi.mpiwg-berlin.mpg.de/place/86325	http://ismi.mpiwg-berlin.mpg.de/place/86325	Lebanon	#174621	0800	2006	[PERSON[206029] lived_in,PERSON[68413] lived_in,PERSON[29514] lived_in,PERSON[36152] lived_in,PERSON[51615] lived_in,PERSON[46302] lived_in,PERSON[46302] was_born_in,PERSON[44868] lived_in,PERSON[44868] died_in,PERSON[44069] lived_in,PERSON[45964] lived_in,PERSON[45964] was_born_in,PERSON[36224] lived_in,PERSON[36224] was_born_in,PERSON[30835] lived_in,PERSON[32627] lived_in,PERSON[68669] lived_in]
+86356	Jaipur		city	http://ismi.mpiwg-berlin.mpg.de/place/86356	http://ismi.mpiwg-berlin.mpg.de/place/86356	India	#174638	0800	2006	[REPOSITORY[498244] is_in,REPOSITORY[89700] is_in]
+86378	Çorum		city	http://ismi.mpiwg-berlin.mpg.de/place/86378	http://ismi.mpiwg-berlin.mpg.de/place/86378	Turkey	#174510	0800	2006	[REPOSITORY[90028] is_in]
+86381	Calcutta		city	http://ismi.mpiwg-berlin.mpg.de/place/86381	http://ismi.mpiwg-berlin.mpg.de/place/86381	India	#174638	0800	2006	[PERSON[32892] lived_in,PERSON[32892] was_born_in,PERSON[69479] lived_in,PERSON[50003] lived_in,PERSON[69085] lived_in,PERSON[66472] lived_in,PERSON[28064] lived_in,PERSON[30125] lived_in,PERSON[34445] lived_in,PERSON[68817] lived_in,PERSON[32258] lived_in,PERSON[73761] lived_in,PERSON[27255] lived_in,PERSON[36984] lived_in,PERSON[35456] lived_in,PERSON[26651] lived_in,PERSON[27887] lived_in,PERSON[27887] died_in,PERSON[25290] lived_in,PERSON[77911] lived_in,PERSON[33479] lived_in,PERSON[46302] lived_in,PERSON[73314] lived_in,PERSON[71721] lived_in,PERSON[67609] lived_in,PERSON[71815] lived_in,PERSON[70050] lived_in,PERSON[70050] was_born_in,PERSON[77843] lived_in]
+86384	Tehran		city	http://ismi.mpiwg-berlin.mpg.de/place/86384	http://ismi.mpiwg-berlin.mpg.de/place/86384	Iran	#174469	0800	2006	[REPOSITORY[89391] is_in]
+86422	Mysore		city	http://ismi.mpiwg-berlin.mpg.de/place/86422	http://ismi.mpiwg-berlin.mpg.de/place/86422	India	#174638	0800	2006	[PLACE[482817] is_part_of,PERSON[482777] lived_in,PERSON[1960] lived_in]
+86434	Heidelberg		city	http://ismi.mpiwg-berlin.mpg.de/place/86434	http://ismi.mpiwg-berlin.mpg.de/place/86434	Germany	#174492	0800	2006	[REPOSITORY[88804] is_in,REPOSITORY[445541] is_in,REPOSITORY[88373] is_in]
+86439	Cambridge	Cambridge, MA	city	http://ismi.mpiwg-berlin.mpg.de/place/86439	http://ismi.mpiwg-berlin.mpg.de/place/86439	USA	#173554	0800	2006	[PERSON[502464] lived_in,PERSON[33130] died_in,PERSON[3863] lived_in,PERSON[4031] lived_in,REPOSITORY[44218] is_in,WITNESS[172307] was_copied_in,WITNESS[175783] was_copied_in,WITNESS[521146] was_copied_in,PERSON[455] lived_in,PERSON[18075] was_born_in,PERSON[28526] lived_in,PERSON[313442] lived_in,PERSON[313442] was_born_in,PERSON[23358] lived_in,PERSON[23358] died_in,TEXT[29724] was_created_in,WITNESS[34374] was_copied_in,PERSON[314068] lived_in,REPOSITORY[147863] is_in,PERSON[29637] lived_in]
+86446	Mahachqala		city	http://ismi.mpiwg-berlin.mpg.de/place/86446	http://ismi.mpiwg-berlin.mpg.de/place/86446	Russia	#174659	0800	2006	[PLACE[350578] is_part_of,PLACE[86325] is_part_of]
+86449	Jakarta	Jakarta (formerly Batavia)	city	http://ismi.mpiwg-berlin.mpg.de/place/86449	http://ismi.mpiwg-berlin.mpg.de/place/86449	Indonesia	#173690	0800	2006	[PERSON[68546] lived_in,PERSON[68546] was_born_in]
+86472	Amsterdam		city	http://ismi.mpiwg-berlin.mpg.de/place/86472	http://ismi.mpiwg-berlin.mpg.de/place/86472	Netherlands	#174707	0800	2006	[REPOSITORY[89359] is_in]
+86475	Birmingham	Birmingham, U.K.	city	http://ismi.mpiwg-berlin.mpg.de/place/86475	http://ismi.mpiwg-berlin.mpg.de/place/86475	UK	#174533	0800	2006	[REPOSITORY[89902] is_in]
+86507	Tripoli		city	http://ismi.mpiwg-berlin.mpg.de/place/86507	http://ismi.mpiwg-berlin.mpg.de/place/86507	Libya	#178992	0800	2006	[PERSON[11160] lived_in,PERSON[40635] lived_in,PERSON[38032] lived_in,PERSON[38032] was_born_in,PERSON[29771] lived_in]
+86533	Tübingen		city	http://ismi.mpiwg-berlin.mpg.de/place/86533	http://ismi.mpiwg-berlin.mpg.de/place/86533	Germany	#174492	0800	2006	[PERSON[37446] lived_in,PERSON[95133] lived_in,PERSON[53700] lived_in,PERSON[51615] lived_in,PERSON[104894] lived_in,PERSON[104894] was_born_in]
+86548	Tashkent		city	http://ismi.mpiwg-berlin.mpg.de/place/86548	http://ismi.mpiwg-berlin.mpg.de/place/86548	Uzbekistan	#173272	0800	2006	[PERSON[76981] lived_in,PERSON[76981] was_born_in]
+86551	Dhaka		city	http://ismi.mpiwg-berlin.mpg.de/place/86551	http://ismi.mpiwg-berlin.mpg.de/place/86551	Bangladesh	#179186	0800	2006	[REPOSITORY[88916] is_in]
+86603	Niğde		city	http://ismi.mpiwg-berlin.mpg.de/place/86603	http://ismi.mpiwg-berlin.mpg.de/place/86603	Turkey	#174510	0800	2006	[PERSON[482777] lived_in]
+86618	Kabul		city	http://ismi.mpiwg-berlin.mpg.de/place/86618	http://ismi.mpiwg-berlin.mpg.de/place/86618	Afghanistan	#179798	0800	2006	[PERSON[69277] lived_in,PERSON[57522] lived_in,PERSON[57522] was_born_in]
+86632	Tunis		city	http://ismi.mpiwg-berlin.mpg.de/place/86632	http://ismi.mpiwg-berlin.mpg.de/place/86632	Tunisia	#173557	0800	2006	[PERSON[414582] lived_in,PERSON[32258] lived_in,PERSON[32258] was_born_in,PERSON[68165] lived_in,PERSON[68165] died_in]
+86645	London		city	http://ismi.mpiwg-berlin.mpg.de/place/86645	http://ismi.mpiwg-berlin.mpg.de/place/86645	UK	#174533	0800	2006	[PERSON[14116] lived_in,PLACE[455703] is_part_of,PLACE[456861] is_part_of,PERSON[500556] lived_in,PLACE[86730] is_part_of,WITNESS[519779] was_copied_in,PLACE[86909] is_part_of,PLACE[87844] is_part_of,PLACE[540703] is_part_of,PLACE[87234] is_part_of,PLACE[86422] is_part_of,PLACE[87556] is_part_of,PERSON[137015] lived_in,PERSON[453473] lived_in,PERSON[453473] died_in,PERSON[150118] lived_in,PLACE[87628] is_part_of,PLACE[86969] is_part_of,PLACE[33055] is_part_of,PERSON[190887] lived_in,PERSON[3527] lived_in,PERSON[3527] died_in,PLACE[86356] is_part_of,PLACE[88276] is_part_of,PLACE[86381] is_part_of,PLACE[431413] is_part_of,PLACE[544017] is_part_of,PLACE[441543] is_part_of,PLACE[86794] is_part_of,PERSON[33908] lived_in,PLACE[529683] is_part_of,PLACE[87895] is_part_of,PERSON[70924] lived_in,PERSON[34677] lived_in]
+86667	Paris		city	http://ismi.mpiwg-berlin.mpg.de/place/86667	http://ismi.mpiwg-berlin.mpg.de/place/86667	France	#174775	0800	2006	[WITNESS[441889] was_copied_in]
+86680	Balıkesir		city	http://ismi.mpiwg-berlin.mpg.de/place/86680	http://ismi.mpiwg-berlin.mpg.de/place/86680	Turkey	#174510	0800	2006	[PERSON[502497] lived_in,WITNESS[520535] was_copied_in,WITNESS[158845] was_copied_in]
+86683	Dublin		city	http://ismi.mpiwg-berlin.mpg.de/place/86683	http://ismi.mpiwg-berlin.mpg.de/place/86683	Ireland	#179659	0800	2006	[PERSON[35493] lived_in]
+86686	Bratislava		city	http://ismi.mpiwg-berlin.mpg.de/place/86686	http://ismi.mpiwg-berlin.mpg.de/place/86686	Slovakia	#173935	0800	2006	[WITNESS[445356] was_copied_in]
+86689	Strasbourg		city	http://ismi.mpiwg-berlin.mpg.de/place/86689	http://ismi.mpiwg-berlin.mpg.de/place/86689	France	#174775	0800	2006	[PERSON[57830] lived_in]
+86701	Jibla		city	http://ismi.mpiwg-berlin.mpg.de/place/86701	http://ismi.mpiwg-berlin.mpg.de/place/86701	Yemen	#178900	0800	2006	[PLACE[86686] is_part_of]
+86730	Rampur		city	http://ismi.mpiwg-berlin.mpg.de/place/86730	http://ismi.mpiwg-berlin.mpg.de/place/86730	India	#174638	0800	2006	[PERSON[209245] lived_in,PERSON[13305] lived_in,PERSON[388352] lived_in,PERSON[448389] lived_in,PERSON[12547] lived_in,PERSON[3863] lived_in,PERSON[14116] lived_in,PERSON[449387] lived_in,PERSON[348855] lived_in,PERSON[350832] lived_in,PERSON[341972] lived_in,PERSON[13385] lived_in,PERSON[497194] lived_in,PERSON[449334] lived_in,PERSON[458390] lived_in,PERSON[20598] lived_in,PERSON[313442] lived_in,PERSON[23358] lived_in,PERSON[528222] lived_in,PERSON[517534] lived_in,PERSON[517569] lived_in,PERSON[456297] lived_in,PERSON[203739] lived_in,PERSON[493691] lived_in,PERSON[42295] lived_in,PERSON[14248] lived_in,PERSON[532444] lived_in,PERSON[197196] lived_in,PERSON[333210] lived_in,PERSON[51542] lived_in,PERSON[517593] lived_in,PERSON[517440] lived_in,PERSON[456381] lived_in,PERSON[5490] lived_in,PERSON[209245] died_in,PERSON[448389] died_in,PERSON[12547] died_in,PERSON[341972] died_in,PERSON[497194] died_in,PERSON[23906] died_in,PERSON[313442] died_in,PERSON[193981] died_in,PERSON[272858] died_in,PERSON[42295] died_in,PERSON[14248] died_in,PERSON[5490] died_in,PERSON[21146] died_in,PERSON[502123] died_in,PLACE[501761] is_part_of,PLACE[447130] is_part_of,PLACE[529096] is_part_of,REPOSITORY[206732] is_in,REPOSITORY[521059] is_in,REPOSITORY[89331] is_in,REPOSITORY[525283] is_in,REPOSITORY[40587] is_in,REPOSITORY[124473] is_in,REPOSITORY[89389] is_in,REPOSITORY[271004] is_in,REPOSITORY[89917] is_in,REPOSITORY[88792] is_in,REPOSITORY[524225] is_in,REPOSITORY[376503] is_in,REPOSITORY[517545] is_in,REPOSITORY[440430] is_in,REPOSITORY[528787] is_in,REPOSITORY[136727] is_in,REPOSITORY[89553] is_in,REPOSITORY[59678] is_in,REPOSITORY[359125] is_in,REPOSITORY[88744] is_in,REPOSITORY[528707] is_in,REPOSITORY[90034] is_in,PERSON[193981] was_born_in,PERSON[393848] was_born_in,TEXT[57863] was_created_in,TEXT[458397] was_created_in,TEXT[456434] was_created_in,TEXT[4126] was_created_in,TEXT[168304] was_created_in,TEXT[40596] was_created_in,TEXT[524380] was_created_in,WITNESS[544689] was_copied_in,WITNESS[520358] was_copied_in,WITNESS[454227] was_copied_in,WITNESS[388361] was_copied_in,WITNESS[388340] was_copied_in,WITNESS[442174] was_copied_in,WITNESS[442320] was_copied_in,WITNESS[441153] was_copied_in,WITNESS[443964] was_copied_in,WITNESS[441951] was_copied_in,WITNESS[43089] was_copied_in,WITNESS[176612] was_copied_in,WITNESS[526030] was_copied_in,WITNESS[527646] was_copied_in,WITNESS[523652] was_copied_in,WITNESS[457740] was_copied_in,WITNESS[47074] was_copied_in,WITNESS[528782] was_copied_in,WITNESS[544672] was_copied_in,WITNESS[528512] was_copied_in,WITNESS[172133] was_copied_in,WITNESS[449294] was_copied_in,WITNESS[524951] was_copied_in,WITNESS[544697] was_copied_in,WITNESS[525905] was_copied_in,WITNESS[24752] was_copied_in,WITNESS[388344] was_copied_in]
+86746	Shibin al-Qum		city	http://ismi.mpiwg-berlin.mpg.de/place/86746	http://ismi.mpiwg-berlin.mpg.de/place/86746	Egypt	#173189	0800	2006	[REPOSITORY[89859] is_in]
+86749	Rabat		city	http://ismi.mpiwg-berlin.mpg.de/place/86749	http://ismi.mpiwg-berlin.mpg.de/place/86749	Morocco	#173531	0800	2006	[REPOSITORY[89221] is_in]
+86758	Moscow		city	http://ismi.mpiwg-berlin.mpg.de/place/86758	http://ismi.mpiwg-berlin.mpg.de/place/86758	Russia	#174659	0800	2006	[REPOSITORY[69505] is_in]
+86776	Leiden		city	http://ismi.mpiwg-berlin.mpg.de/place/86776	http://ismi.mpiwg-berlin.mpg.de/place/86776	Netherlands	#174707	0800	2006	[PERSON[25838] lived_in,PERSON[25838] was_born_in]
+86794	Aligarh		city	http://ismi.mpiwg-berlin.mpg.de/place/86794	http://ismi.mpiwg-berlin.mpg.de/place/86794	India	#174638	0800	2006	[PLACE[478778] is_part_of,PERSON[11674] lived_in,PERSON[43236] lived_in,PERSON[104894] lived_in,PERSON[94618] lived_in]
+86816	Oxford		city	http://ismi.mpiwg-berlin.mpg.de/place/86816	http://ismi.mpiwg-berlin.mpg.de/place/86816	UK	#174533	0800	2006	[PERSON[460011] lived_in,PERSON[184458] lived_in,TEXT[142331] was_created_in,PERSON[10515] lived_in,WITNESS[169634] was_copied_in,PERSON[484654] lived_in,PERSON[485001] lived_in,REPOSITORY[77150] is_in,PERSON[36152] lived_in,PERSON[37184] lived_in]
+86828	Cambridge	Cambridge, UK	city	http://ismi.mpiwg-berlin.mpg.de/place/86828	http://ismi.mpiwg-berlin.mpg.de/place/86828	UK	#174533	0800	2006	[PERSON[25305] lived_in,PERSON[44590] lived_in]
+86846	Princeton		city	http://ismi.mpiwg-berlin.mpg.de/place/86846	http://ismi.mpiwg-berlin.mpg.de/place/86846	USA	#173554	0800	2006	[PERSON[199740] lived_in,PERSON[199740] died_in,PERSON[543853] lived_in,PLACE[458696] is_part_of,PLACE[142459] is_part_of,PLACE[442705] is_part_of,TEXT[126731] was_created_in,PLACE[433318] is_part_of,PLACE[329068] is_part_of,PLACE[86252] is_part_of,PLACE[87804] is_part_of,PLACE[85483] is_part_of,PLACE[93604] is_part_of,PLACE[177048] is_part_of,PERSON[73454] lived_in,PLACE[93607] is_part_of,PLACE[434389] is_part_of,PLACE[167760] is_part_of,PERSON[44222] lived_in,PERSON[47316] lived_in,PERSON[73568] lived_in,PERSON[81093] lived_in,PERSON[81093] was_born_in,PERSON[438972] lived_in]
+86874	Tetuan		city	http://ismi.mpiwg-berlin.mpg.de/place/86874	http://ismi.mpiwg-berlin.mpg.de/place/86874	Morocco	#173531	0800	2006	[PERSON[1645] lived_in,PERSON[1645] was_born_in]
+86909	Patna		city	http://ismi.mpiwg-berlin.mpg.de/place/86909	http://ismi.mpiwg-berlin.mpg.de/place/86909	India	#174638	0800	2006	[PLACE[350648] is_part_of,PERSON[350525] lived_in,PERSON[350634] lived_in]
+86912	Madrid		city	http://ismi.mpiwg-berlin.mpg.de/place/86912	http://ismi.mpiwg-berlin.mpg.de/place/86912	Spain	#174730	0800	2006	[TEXT[463568] was_created_in,WITNESS[498628] was_copied_in,TEXT[25635] was_created_in,PERSON[1645] lived_in,TEXT[464853] was_created_in,PERSON[51928] lived_in,PERSON[51928] was_born_in]
+86943	Hamadan		city	http://ismi.mpiwg-berlin.mpg.de/place/86943	http://ismi.mpiwg-berlin.mpg.de/place/86943	Iran	#174469	0800	2006	[PERSON[4031] was_born_in,WITNESS[443421] was_copied_in,WITNESS[208751] was_copied_in,PERSON[528222] lived_in,PERSON[528222] was_born_in]
+86946	Glasgow		city	http://ismi.mpiwg-berlin.mpg.de/place/86946	http://ismi.mpiwg-berlin.mpg.de/place/86946	UK	#174533	0800	2006	[REPOSITORY[534162] is_in,REPOSITORY[89744] is_in]
+86969	Lucknow		city	http://ismi.mpiwg-berlin.mpg.de/place/86969	http://ismi.mpiwg-berlin.mpg.de/place/86969	India	#174638	0800	2006	[PERSON[70924] lived_in,PERSON[70924] was_born_in]
+87016	Baku		city	http://ismi.mpiwg-berlin.mpg.de/place/87016	http://ismi.mpiwg-berlin.mpg.de/place/87016	Azerbaijan	#178920	0800	2006	[REPOSITORY[440976] is_in,REPOSITORY[49127] is_in,REPOSITORY[441290] is_in,PLACE[447960] is_part_of]
+87019	Ashqabad		city	http://ismi.mpiwg-berlin.mpg.de/place/87019	http://ismi.mpiwg-berlin.mpg.de/place/87019	Turkmenistan	#178885	0800	2006	[WITNESS[114866] was_copied_in]
+87037	Vienna		city	http://ismi.mpiwg-berlin.mpg.de/place/87037	http://ismi.mpiwg-berlin.mpg.de/place/87037	Austria	#173483	0800	2006	[WITNESS[167128] was_copied_in,WITNESS[441872] was_copied_in,WITNESS[174920] was_copied_in,WITNESS[295711] was_copied_in,WITNESS[447164] was_copied_in,REPOSITORY[270901] is_in]
+87040	Kairouan	Kairouan (Qayrawān)	city	http://ismi.mpiwg-berlin.mpg.de/place/87040	http://ismi.mpiwg-berlin.mpg.de/place/87040			0800	2006	[REPOSITORY[88838] is_in]
+87068	Bukhara		city	http://ismi.mpiwg-berlin.mpg.de/place/87068	http://ismi.mpiwg-berlin.mpg.de/place/87068	Uzbekistan	#173272	0800	2006	[REPOSITORY[502206] is_in,REPOSITORY[38696] is_in]
+87080	Manchester		city	http://ismi.mpiwg-berlin.mpg.de/place/87080	http://ismi.mpiwg-berlin.mpg.de/place/87080	UK	#174533	0800	2006	[REPOSITORY[179237] is_in,REPOSITORY[88826] is_in]
+87102	Alexandria		city	http://ismi.mpiwg-berlin.mpg.de/place/87102	http://ismi.mpiwg-berlin.mpg.de/place/87102	Egypt	#173189	0800	2006	[PERSON[74607] lived_in,PERSON[74607] was_born_in]
+87114	Erzincan		city	http://ismi.mpiwg-berlin.mpg.de/place/87114	http://ismi.mpiwg-berlin.mpg.de/place/87114	Turkey	#174510	0800	2006	[REPOSITORY[29011] is_in]
+87127	Denia	Denia (Spain)	city	http://ismi.mpiwg-berlin.mpg.de/place/87127	http://ismi.mpiwg-berlin.mpg.de/place/87127			0800	2006	[PLACE[86449] is_part_of]
+87149	Baalbek		city	http://ismi.mpiwg-berlin.mpg.de/place/87149	http://ismi.mpiwg-berlin.mpg.de/place/87149			0800	2006	[REPOSITORY[73135] is_in,TRANSFER_EVENT[347520] has_new_location,REPOSITORY[191159] is_in,REPOSITORY[88449] is_in,PERSON[347512] lived_in,REPOSITORY[88588] is_in,REPOSITORY[21926] is_in,REPOSITORY[57195] is_in,REPOSITORY[88116] is_in]
+87152	Kiliç		city	http://ismi.mpiwg-berlin.mpg.de/place/87152	http://ismi.mpiwg-berlin.mpg.de/place/87152	Turkey	#174510	0800	2006	[PLACE[87879] is_part_of,PLACE[127632] is_part_of]
+87176	Gotha		city	http://ismi.mpiwg-berlin.mpg.de/place/87176	http://ismi.mpiwg-berlin.mpg.de/place/87176	Germany	#174492	0800	2006	[PERSON[45388] lived_in,TEXT[128342] was_created_in,PERSON[544008] was_born_in,TEXT[107164] was_created_in,PERSON[70924] lived_in,PERSON[78877] lived_in,PERSON[78877] died_in,PERSON[66697] lived_in,PERSON[34677] lived_in,PERSON[53566] lived_in,PERSON[72419] lived_in]
+87228	Leipzig		city	http://ismi.mpiwg-berlin.mpg.de/place/87228	http://ismi.mpiwg-berlin.mpg.de/place/87228	Germany	#174492	0800	2006	[PERSON[338491] was_born_in]
+87231	Munich		city	http://ismi.mpiwg-berlin.mpg.de/place/87231	http://ismi.mpiwg-berlin.mpg.de/place/87231	Germany	#174492	0800	2006	[REPOSITORY[177036] is_in]
+87234	Navsari		city	http://ismi.mpiwg-berlin.mpg.de/place/87234	http://ismi.mpiwg-berlin.mpg.de/place/87234	India	#174638	0800	2006	[PERSON[184524] died_in]
+87247	Berlin		city	http://ismi.mpiwg-berlin.mpg.de/place/87247	http://ismi.mpiwg-berlin.mpg.de/place/87247	Germany	#174492	0800	2006	[REPOSITORY[59433] is_in,REPOSITORY[89688] is_in,REPOSITORY[16734] is_in,PERSON[3771] lived_in,PERSON[94618] lived_in,PERSON[94618] died_in,PERSON[544511] lived_in,PERSON[544511] was_born_in,PERSON[5019] was_born_in]
+87257	Ufa		city	http://ismi.mpiwg-berlin.mpg.de/place/87257	http://ismi.mpiwg-berlin.mpg.de/place/87257	Russia	#174659	0800	2006	[PERSON[62337] lived_in,PERSON[183429] lived_in,PERSON[27729] lived_in,PERSON[55063] lived_in,PERSON[57269] lived_in,PERSON[67370] lived_in,PERSON[99638] lived_in,PERSON[58222] lived_in,PERSON[52490] lived_in,PERSON[75736] lived_in,PERSON[67883] lived_in,PERSON[61374] lived_in,PERSON[59983] lived_in,PERSON[68113] lived_in,PERSON[58114] lived_in,PERSON[75321] lived_in,PERSON[61488] lived_in,PERSON[59144] lived_in,PERSON[97064] lived_in,PERSON[184760] lived_in,PERSON[26846] lived_in,PERSON[65898] lived_in,PERSON[97087] lived_in,PERSON[95348] lived_in,PERSON[73568] lived_in,PERSON[55335] lived_in,PERSON[72597] lived_in,PERSON[95199] lived_in,PERSON[27852] lived_in,PERSON[51615] lived_in,PERSON[27255] lived_in,PERSON[185994] lived_in,PERSON[98555] lived_in,PERSON[69633] lived_in,PERSON[69507] lived_in,PERSON[52300] lived_in,PERSON[51433] lived_in,PERSON[96221] lived_in,PERSON[27887] lived_in,PERSON[39301] lived_in,PERSON[50599] lived_in,PERSON[25290] lived_in,PERSON[75743] lived_in,PERSON[77911] lived_in,PERSON[394724] lived_in,PERSON[68165] lived_in,PERSON[55488] lived_in,PERSON[73314] lived_in,PERSON[73441] lived_in,PERSON[186186] lived_in,PERSON[61220] lived_in,PERSON[63874] lived_in,PERSON[43626] lived_in,PERSON[51839] lived_in,PERSON[29661] lived_in,PERSON[58156] lived_in,PERSON[195591] lived_in,PERSON[70050] lived_in,PERSON[65898] died_in,PERSON[50599] died_in,PERSON[25290] died_in,PERSON[55063] was_born_in,PERSON[99638] was_born_in,PERSON[75736] was_born_in,PERSON[68113] was_born_in,PERSON[184760] was_born_in,PERSON[65898] was_born_in,PERSON[51615] was_born_in,PERSON[27255] was_born_in,PERSON[96221] was_born_in,PERSON[29142] was_born_in,PERSON[27887] was_born_in,PERSON[68165] was_born_in,PERSON[51839] was_born_in,TEXT[109225] was_created_in]
+87260	St. Petersburg		city	http://ismi.mpiwg-berlin.mpg.de/place/87260	http://ismi.mpiwg-berlin.mpg.de/place/87260	Russia	#174659	0800	2006	[REPOSITORY[537936] is_in,REPOSITORY[436197] is_in,REPOSITORY[89309] is_in,REPOSITORY[197192] is_in,WITNESS[363049] was_copied_in]
+87295	Manisa		city	http://ismi.mpiwg-berlin.mpg.de/place/87295	http://ismi.mpiwg-berlin.mpg.de/place/87295	Turkey	#174510	0800	2006	[REPOSITORY[13739] is_in,REPOSITORY[46894] is_in]
+87301	Konya		city	http://ismi.mpiwg-berlin.mpg.de/place/87301	http://ismi.mpiwg-berlin.mpg.de/place/87301	Turkey	#174510	0800	2006	[REPOSITORY[132341] is_in]
+87304	Giresun		city	http://ismi.mpiwg-berlin.mpg.de/place/87304	http://ismi.mpiwg-berlin.mpg.de/place/87304	Turkey	#174510	0800	2006	[PLACE[87440] is_part_of]
+87313	Damietta		city	http://ismi.mpiwg-berlin.mpg.de/place/87313	http://ismi.mpiwg-berlin.mpg.de/place/87313	Egypt	#173189	0800	2006	[PLACE[86551] is_part_of]
+87347	Muradabad	Muradabad, India	city	http://ismi.mpiwg-berlin.mpg.de/place/87347	http://ismi.mpiwg-berlin.mpg.de/place/87347			0800	2006	[PLACE[200570] is_part_of,PLACE[38142] is_part_of]
+87384	Diyarbakir		city	http://ismi.mpiwg-berlin.mpg.de/place/87384	http://ismi.mpiwg-berlin.mpg.de/place/87384	Turkey	#174510	0800	2006	[PERSON[7370] lived_in,PERSON[456922] lived_in,PERSON[36716] lived_in,PERSON[36716] died_in,REPOSITORY[205865] is_in,WITNESS[16678] was_copied_in,WITNESS[441660] was_copied_in,WITNESS[441641] was_copied_in,WITNESS[442265] was_copied_in,PERSON[138536] died_in,PERSON[138536] lived_in,PERSON[348855] lived_in,TEXT[105162] was_created_in,PERSON[198303] was_born_in,PERSON[6277] lived_in,PERSON[6277] was_born_in,PERSON[56428] lived_in,PERSON[20466] was_born_in,REPOSITORY[18381] is_in,REPOSITORY[408912] is_in,TEXT[304350] was_created_in,TEXT[156065] was_created_in,PERSON[57656] lived_in,WITNESS[448934] was_copied_in,WITNESS[446685] was_copied_in,PERSON[183121] lived_in,PERSON[183121] died_in,PERSON[183121] was_born_in,PERSON[64456] lived_in,PERSON[76981] lived_in,WITNESS[497595] was_copied_in,WITNESS[22025] was_copied_in,PERSON[98009] lived_in,PERSON[33648] lived_in,PERSON[58576] lived_in,PERSON[72419] lived_in,PERSON[146260] was_born_in,PERSON[71481] lived_in]
+87387	Jerusalem		city	http://ismi.mpiwg-berlin.mpg.de/place/87387	http://ismi.mpiwg-berlin.mpg.de/place/87387	Palestine/Israel	#179483	0800	2006	[REPOSITORY[197787] is_in,REPOSITORY[90016] is_in]
+87404	Milan		city	http://ismi.mpiwg-berlin.mpg.de/place/87404	http://ismi.mpiwg-berlin.mpg.de/place/87404	Italy	#173763	0800	2006	[WITNESS[328686] was_copied_in,PERSON[4031] lived_in,WITNESS[443401] was_copied_in,WITNESS[25453] was_copied_in,PERSON[40635] lived_in,TEXT[94213] was_created_in]
+87420	Bakchesaray		city	http://ismi.mpiwg-berlin.mpg.de/place/87420	http://ismi.mpiwg-berlin.mpg.de/place/87420	Ukraine	#173857	0800	2006	[WITNESS[158029] was_copied_in,PERSON[154217] lived_in]
+87437	Tangier		city	http://ismi.mpiwg-berlin.mpg.de/place/87437	http://ismi.mpiwg-berlin.mpg.de/place/87437	Morocco	#173531	0800	2006	[REPOSITORY[72177] is_in]
+87440	Kaduna		city	http://ismi.mpiwg-berlin.mpg.de/place/87440	http://ismi.mpiwg-berlin.mpg.de/place/87440	Nigeria	#178897	0800	2006	[PERSON[24600] died_in]
+87474	Isfahan		city	http://ismi.mpiwg-berlin.mpg.de/place/87474	http://ismi.mpiwg-berlin.mpg.de/place/87474	Iran	#174469	0800	2006	[PLACE[86266] is_part_of]
+87477	Kiev		city	http://ismi.mpiwg-berlin.mpg.de/place/87477	http://ismi.mpiwg-berlin.mpg.de/place/87477	Ukraine	#173857	0800	2006	[REPOSITORY[414707] is_in,REPOSITORY[193364] is_in]
+87480	Dresden		city	http://ismi.mpiwg-berlin.mpg.de/place/87480	http://ismi.mpiwg-berlin.mpg.de/place/87480	Germany	#174492	0800	2006	[PERSON[7370] lived_in,PERSON[7370] was_born_in,TEXT[58806] was_created_in,TEXT[57647] was_created_in,PERSON[323028] lived_in,REPOSITORY[296028] is_in,PERSON[2827] lived_in,PERSON[2827] was_born_in]
+87483	Montpelier		city	http://ismi.mpiwg-berlin.mpg.de/place/87483	http://ismi.mpiwg-berlin.mpg.de/place/87483	USA	#173554	0800	2006	[STUDY_EVENT[350679] was_studied_in]
+87533	Rome		city	http://ismi.mpiwg-berlin.mpg.de/place/87533	http://ismi.mpiwg-berlin.mpg.de/place/87533	Italy	#173763	0800	2006	[REPOSITORY[525368] is_in]
+87546	Edinburgh, Scotland		city	http://ismi.mpiwg-berlin.mpg.de/place/87546	http://ismi.mpiwg-berlin.mpg.de/place/87546	UK	#174533	0800	2006	[PERSON[101790] lived_in,PERSON[101790] was_born_in]
+87556	Mumbai		city	http://ismi.mpiwg-berlin.mpg.de/place/87556	http://ismi.mpiwg-berlin.mpg.de/place/87556	India	#174638	0800	2006	[PLACE[38383] is_part_of]
+87569	Tbilisi		city	http://ismi.mpiwg-berlin.mpg.de/place/87569	http://ismi.mpiwg-berlin.mpg.de/place/87569	Georgia	#179183	0800	2006	[PLACE[86632] is_part_of,PLACE[119509] is_part_of,PLACE[174008] is_part_of,PLACE[426724] is_part_of]
+87594	Kastamonu		city	http://ismi.mpiwg-berlin.mpg.de/place/87594	http://ismi.mpiwg-berlin.mpg.de/place/87594	Turkey	#174510	0800	2006	[REPOSITORY[15203] is_in,WITNESS[442219] was_copied_in]
+87597	Hamburg		city	http://ismi.mpiwg-berlin.mpg.de/place/87597	http://ismi.mpiwg-berlin.mpg.de/place/87597	Germany	#174492	0800	2006	[REPOSITORY[89320] is_in]
+87609	New York		city	http://ismi.mpiwg-berlin.mpg.de/place/87609	http://ismi.mpiwg-berlin.mpg.de/place/87609	USA	#173554	0800	2006	[PERSON[184350] lived_in,PERSON[184350] was_born_in,PERSON[70537] lived_in,PERSON[183551] lived_in,PERSON[183551] was_born_in]
+87628	Madras		city	http://ismi.mpiwg-berlin.mpg.de/place/87628	http://ismi.mpiwg-berlin.mpg.de/place/87628	India	#174638	0800	2006	[PERSON[64875] lived_in,PERSON[64875] was_born_in]
+87640	Yerevan		city	http://ismi.mpiwg-berlin.mpg.de/place/87640	http://ismi.mpiwg-berlin.mpg.de/place/87640	Armenia	#173852	0800	2006	[PERSON[438972] was_born_in]
+87660	Sana`a		city	http://ismi.mpiwg-berlin.mpg.de/place/87660	http://ismi.mpiwg-berlin.mpg.de/place/87660	Yemen	#178900	0800	2006	[WITNESS[35165] was_copied_in]
+87675	Yazd		city	http://ismi.mpiwg-berlin.mpg.de/place/87675	http://ismi.mpiwg-berlin.mpg.de/place/87675	Iran	#174469	0800	2006	[PERSON[449387] lived_in]
+87719	Makhachqala		city	http://ismi.mpiwg-berlin.mpg.de/place/87719	http://ismi.mpiwg-berlin.mpg.de/place/87719	Russia	#174659	0800	2006	[PERSON[544008] lived_in]
+87724	Ankara		city	http://ismi.mpiwg-berlin.mpg.de/place/87724	http://ismi.mpiwg-berlin.mpg.de/place/87724	Turkey	#174510	0800	2006	[PERSON[65662] lived_in,PERSON[31536] lived_in]
+87757	Florence		city	http://ismi.mpiwg-berlin.mpg.de/place/87757	http://ismi.mpiwg-berlin.mpg.de/place/87757	Italy	#173763	0800	2006	[PERSON[20466] lived_in,TEXT[352913] was_created_in]
+87782	Akbarabad		city	http://ismi.mpiwg-berlin.mpg.de/place/87782	http://ismi.mpiwg-berlin.mpg.de/place/87782	Iran	#174469	0800	2006	[WITNESS[443814] was_copied_in]
+87804	Najaf		city	http://ismi.mpiwg-berlin.mpg.de/place/87804	http://ismi.mpiwg-berlin.mpg.de/place/87804	Iraq	#173298	0800	2006	[PLACE[153698] is_part_of,PLACE[374418] is_part_of,PLACE[87927] is_part_of]
+87807	Sarajevo		city	http://ismi.mpiwg-berlin.mpg.de/place/87807	http://ismi.mpiwg-berlin.mpg.de/place/87807	Bosnia/Herzegovina	#179005	0800	2006	[PLACE[320173] is_part_of,PERSON[320229] lived_in,PERSON[320229] died_in]
+87820	Algiers		city	http://ismi.mpiwg-berlin.mpg.de/place/87820	http://ismi.mpiwg-berlin.mpg.de/place/87820	Algeria	#173275	0800	2006	[PERSON[184458] lived_in,PERSON[184350] lived_in,PERSON[184350] died_in]
+87833	Washington D.C.		city	http://ismi.mpiwg-berlin.mpg.de/place/87833	http://ismi.mpiwg-berlin.mpg.de/place/87833	USA	#173554	0800	2006	[REPOSITORY[302142] is_in]
+87844	Patiala	Patiala (Kapurthala)	city	http://ismi.mpiwg-berlin.mpg.de/place/87844	http://ismi.mpiwg-berlin.mpg.de/place/87844	India	#174638	0800	2006	[TEXT[276367] was_created_in,TEXT[276413] was_created_in,TEXT[276403] was_created_in,PERSON[36485] lived_in]
+87876	Copenhagen		city	http://ismi.mpiwg-berlin.mpg.de/place/87876	http://ismi.mpiwg-berlin.mpg.de/place/87876	Denmark	#179170	0800	2006	[REPOSITORY[146904] is_in]
+87879	Medina		city	http://ismi.mpiwg-berlin.mpg.de/place/87879	http://ismi.mpiwg-berlin.mpg.de/place/87879	Saudi Arabia	#179081	0800	2006	[PERSON[18475] was_born_in,PERSON[105354] lived_in,PERSON[183159] lived_in,PERSON[183159] was_born_in,PERSON[352988] was_born_in,PERSON[15089] lived_in,PERSON[103428] lived_in,PERSON[103428] was_born_in]
+87882	Yozgat		city	http://ismi.mpiwg-berlin.mpg.de/place/87882	http://ismi.mpiwg-berlin.mpg.de/place/87882	Turkey	#174510	0800	2006	[PLACE[350573] is_part_of,PERSON[12547] lived_in,PLACE[87387] is_part_of]
+87895	Ahmadabad		city	http://ismi.mpiwg-berlin.mpg.de/place/87895	http://ismi.mpiwg-berlin.mpg.de/place/87895	India	#174638	0800	2006	[PERSON[67446] lived_in]
+87927	Dushanbe		city	http://ismi.mpiwg-berlin.mpg.de/place/87927	http://ismi.mpiwg-berlin.mpg.de/place/87927	Tajikistan	#179518	0800	2006	[PERSON[29865] lived_in,PERSON[32495] lived_in,PERSON[71721] lived_in]
+87930	Lahore		city	http://ismi.mpiwg-berlin.mpg.de/place/87930	http://ismi.mpiwg-berlin.mpg.de/place/87930	Pakistan	#179735	0800	2006	[TEXT[16101] was_created_in]
+87957	Mashhad		city	http://ismi.mpiwg-berlin.mpg.de/place/87957	http://ismi.mpiwg-berlin.mpg.de/place/87957	Iran	#174469	0800	2006	[REPOSITORY[157662] is_in,REPOSITORY[90032] is_in]
+87971	Fez		city	http://ismi.mpiwg-berlin.mpg.de/place/87971	http://ismi.mpiwg-berlin.mpg.de/place/87971			0800	2006	[PERSON[95976] lived_in,PERSON[95976] was_born_in,PERSON[16712] was_born_in]
+87984	Rayy		city	http://ismi.mpiwg-berlin.mpg.de/place/87984	http://ismi.mpiwg-berlin.mpg.de/place/87984	Iran	#174469	0800	2006	[REPOSITORY[80677] is_in,REPOSITORY[89219] is_in]
+88007	Brussels		city	http://ismi.mpiwg-berlin.mpg.de/place/88007	http://ismi.mpiwg-berlin.mpg.de/place/88007	Belgium	#179327	0800	2006	[REPOSITORY[199896] is_in,WITNESS[106419] was_copied_in,WITNESS[441173] was_copied_in,PERSON[349407] lived_in,REPOSITORY[434785] is_in,REPOSITORY[291362] is_in,REPOSITORY[89855] is_in,REPOSITORY[89119] is_in,REPOSITORY[90030] is_in,REPOSITORY[88392] is_in,REPOSITORY[292789] is_in,REPOSITORY[96916] is_in,TEXT[127476] was_created_in,TEXT[127624] was_created_in,REPOSITORY[89192] is_in,REPOSITORY[517372] is_in,PERSON[1960] lived_in,PERSON[1960] was_born_in,REPOSITORY[452303] is_in]
+88035	Montreal		city	http://ismi.mpiwg-berlin.mpg.de/place/88035	http://ismi.mpiwg-berlin.mpg.de/place/88035	Canada	#179459	0800	2006	[PERSON[37184] lived_in]
+88038	Budapest		city	http://ismi.mpiwg-berlin.mpg.de/place/88038	http://ismi.mpiwg-berlin.mpg.de/place/88038	Hungary	#178964	0800	2006	[PERSON[7509] lived_in,PERSON[7509] was_born_in,PERSON[38573] lived_in,REPOSITORY[173382] is_in,REPOSITORY[89494] is_in,PERSON[6912] lived_in,PERSON[489193] lived_in,PERSON[36869] lived_in,PERSON[36869] was_born_in,PERSON[29514] lived_in,PERSON[64974] lived_in,PERSON[37510] lived_in,PERSON[37791] lived_in,PERSON[37791] died_in,PERSON[26048] lived_in,PERSON[7264] lived_in,PERSON[76942] lived_in,PERSON[3771] was_born_in,PERSON[50544] lived_in,PERSON[29400] lived_in,PERSON[39923] lived_in,PERSON[40908] lived_in,PERSON[40908] died_in,PERSON[6112] lived_in,PERSON[31536] lived_in,PERSON[33402] lived_in,PERSON[33402] died_in,PERSON[33402] was_born_in]
+88072	Detroit		city	http://ismi.mpiwg-berlin.mpg.de/place/88072	http://ismi.mpiwg-berlin.mpg.de/place/88072	USA	#173554	0800	2006	[REPOSITORY[207347] is_in]
+88220	Bologna		city	http://ismi.mpiwg-berlin.mpg.de/place/88220	http://ismi.mpiwg-berlin.mpg.de/place/88220	Italy	#173763	0800	2006	[PERSON[17903] was_born_in,PERSON[65600] lived_in,PERSON[65365] lived_in]
+88223	Granada		city	http://ismi.mpiwg-berlin.mpg.de/place/88223	http://ismi.mpiwg-berlin.mpg.de/place/88223	Spain	#174730	0800	2006	[PLACE[493137] is_part_of]
+88247	Los Angeles	Los Angeles, CA	city	http://ismi.mpiwg-berlin.mpg.de/place/88247	http://ismi.mpiwg-berlin.mpg.de/place/88247	USA	#173554	0800	2006	[PERSON[10768] lived_in,PERSON[140814] lived_in,PERSON[353185] lived_in,PERSON[448389] lived_in,PERSON[24600] lived_in,PERSON[6995] lived_in,PERSON[14116] lived_in,PERSON[449387] lived_in,PERSON[49337] lived_in,PERSON[30468] lived_in,PERSON[48884] lived_in,PERSON[44253] lived_in,PERSON[13385] lived_in,PERSON[38246] lived_in,PERSON[27033] lived_in,PERSON[43385] lived_in,PERSON[14248] lived_in,PERSON[21770] lived_in,PERSON[37660] lived_in,PERSON[62466] lived_in,PERSON[15089] lived_in,PERSON[183200] lived_in,PERSON[104105] lived_in,PERSON[31233] lived_in,PERSON[45844] lived_in,PERSON[25718] lived_in,PERSON[43385] died_in,PERSON[104105] died_in,PERSON[31233] died_in,PLACE[24358] is_part_of,REPOSITORY[89093] is_in,REPOSITORY[397857] is_in,REPOSITORY[205821] is_in,REPOSITORY[89522] is_in,REPOSITORY[179096] is_in,REPOSITORY[88166] is_in,REPOSITORY[88568] is_in,REPOSITORY[88105] is_in,REPOSITORY[167103] is_in,PERSON[321302] was_born_in,PERSON[303674] was_born_in,PERSON[14248] was_born_in,PERSON[37660] was_born_in,PERSON[18930] was_born_in,PERSON[45844] was_born_in,TEXT[319143] was_created_in,WITNESS[180082] was_copied_in,WITNESS[36872] was_copied_in,WITNESS[528398] was_copied_in,WITNESS[299414] was_copied_in,WITNESS[172814] was_copied_in,STUDY_EVENT[506541] was_studied_in]
+88250	Rasht		city	http://ismi.mpiwg-berlin.mpg.de/place/88250	http://ismi.mpiwg-berlin.mpg.de/place/88250	Iran	#174469	0800	2006	[REPOSITORY[88918] is_in,PERSON[448389] lived_in,PERSON[9476] lived_in,PERSON[9476] died_in,PERSON[183558] lived_in,PERSON[183558] was_born_in,PERSON[44253] lived_in,PERSON[27033] lived_in,REPOSITORY[88530] is_in,REPOSITORY[205070] is_in,PERSON[43385] lived_in]
+88263	Adana		city	http://ismi.mpiwg-berlin.mpg.de/place/88263	http://ismi.mpiwg-berlin.mpg.de/place/88263	Turkey	#174510	0800	2006	[PERSON[199827] lived_in]
+88276	Hyderabad		city	http://ismi.mpiwg-berlin.mpg.de/place/88276	http://ismi.mpiwg-berlin.mpg.de/place/88276	India	#174638	0800	2006	[PLACE[167982] is_part_of,PERSON[47316] lived_in]
+88310	Kayseri		city	http://ismi.mpiwg-berlin.mpg.de/place/88310	http://ismi.mpiwg-berlin.mpg.de/place/88310	Turkey	#174510	0800	2006	[PERSON[63956] lived_in,PERSON[69791] lived_in,PERSON[58576] was_born_in]
+88323	New Haven	New Haven, CT	city	http://ismi.mpiwg-berlin.mpg.de/place/88323	http://ismi.mpiwg-berlin.mpg.de/place/88323	USA	#173554	0800	2006	[REPOSITORY[89347] is_in]
+88340	Peshawar		city	http://ismi.mpiwg-berlin.mpg.de/place/88340	http://ismi.mpiwg-berlin.mpg.de/place/88340	Pakistan	#179735	0800	2006	[PERSON[50309] lived_in,PERSON[48884] lived_in,PERSON[37929] lived_in,PERSON[40046] lived_in,PERSON[50316] lived_in,PERSON[482777] lived_in,PERSON[39502] lived_in,PERSON[48430] lived_in,PERSON[49757] lived_in,PERSON[38032] lived_in,TEXT[167570] was_created_in,PERSON[24831] lived_in,PERSON[25718] lived_in]
+93084	Central Asia		country	http://ismi.mpiwg-berlin.mpg.de/place/93084	http://ismi.mpiwg-berlin.mpg.de/place/93084			0800	2006	[PLACE[87833] is_part_of,PLACE[86846] is_part_of,PLACE[44417] is_part_of,PLACE[87609] is_part_of,PLACE[88323] is_part_of,PLACE[87483] is_part_of,PLACE[88247] is_part_of,PLACE[86439] is_part_of,PLACE[88049] is_part_of,PLACE[88072] is_part_of,PLACE[44343] is_part_of]
+93261	Andalusia		country	http://ismi.mpiwg-berlin.mpg.de/place/93261	http://ismi.mpiwg-berlin.mpg.de/place/93261			0800	2006	[PERSON[74997] lived_in,PERSON[74997] died_in]
+93604	Kufa		city	http://ismi.mpiwg-berlin.mpg.de/place/93604	http://ismi.mpiwg-berlin.mpg.de/place/93604	Iraq	#173298	0800	2006	[REPOSITORY[88126] is_in]
+93607	Baṣra		city	http://ismi.mpiwg-berlin.mpg.de/place/93607	http://ismi.mpiwg-berlin.mpg.de/place/93607	Iraq	#173298	0800	2006	[REPOSITORY[203976] is_in,REPOSITORY[88665] is_in]
+93622	North Africa		country	http://ismi.mpiwg-berlin.mpg.de/place/93622	http://ismi.mpiwg-berlin.mpg.de/place/93622			0800	2006	[WITNESS[447118] was_copied_in]
+108247	Zahra	Zahra (suburb of Cordova)	city	http://ismi.mpiwg-berlin.mpg.de/place/108247	http://ismi.mpiwg-berlin.mpg.de/place/108247	Spain	#174730	0800	2006	[REPOSITORY[483791] is_in]
+108354	Salamanca	Salamanca (Spain)	city	http://ismi.mpiwg-berlin.mpg.de/place/108354	http://ismi.mpiwg-berlin.mpg.de/place/108354	Spain	#174730	0800	2006	[PERSON[448034] lived_in,PERSON[448034] died_in,PERSON[50188] lived_in,REPOSITORY[521735] is_in,WITNESS[448076] was_copied_in,PERSON[14116] lived_in,WITNESS[442028] was_copied_in,WITNESS[441851] was_copied_in,WITNESS[444096] was_copied_in,PERSON[96671] lived_in,PERSON[13385] lived_in,PERSON[13385] died_in,PERSON[71579] lived_in,PERSON[502571] lived_in,WITNESS[528446] was_copied_in,WITNESS[41042] was_copied_in,PERSON[31503] lived_in,PERSON[321691] lived_in,PERSON[69277] lived_in,PERSON[490351] lived_in]
+108386	Tortosa	Tortosa (Catalonia)	city	http://ismi.mpiwg-berlin.mpg.de/place/108386	http://ismi.mpiwg-berlin.mpg.de/place/108386	Spain	#174730	0800	2006	[REPOSITORY[199185] is_in,REPOSITORY[291332] is_in,REPOSITORY[89692] is_in,WITNESS[523672] was_copied_in,REPOSITORY[88467] is_in,REPOSITORY[370477] is_in,REPOSITORY[89013] is_in]
+119509	Sfax	Sfax (Tunisia)	city	http://ismi.mpiwg-berlin.mpg.de/place/119509	http://ismi.mpiwg-berlin.mpg.de/place/119509	Tunisia	#173557	0800	2006	[PERSON[64974] lived_in,PERSON[64974] was_born_in,PERSON[30072] lived_in]
+119513	Elche	Elche (Andalusia)	city	http://ismi.mpiwg-berlin.mpg.de/place/119513	http://ismi.mpiwg-berlin.mpg.de/place/119513	Spain	#174730	0800	2006	[PERSON[24619] lived_in,PERSON[59648] lived_in,PERSON[59648] was_born_in,PERSON[46669] lived_in,REPOSITORY[197058] is_in,PERSON[6995] lived_in,REPOSITORY[111378] is_in,PERSON[199377] lived_in,PERSON[199377] was_born_in,PERSON[49337] lived_in,REPOSITORY[173127] is_in,REPOSITORY[18845] is_in,PERSON[44253] lived_in,REPOSITORY[160405] is_in,REPOSITORY[35151] is_in,REPOSITORY[89929] is_in,WITNESS[178270] was_copied_in,PERSON[70537] lived_in,REPOSITORY[442474] is_in,REPOSITORY[80018] is_in,REPOSITORY[89034] is_in,PERSON[25958] lived_in,PERSON[38032] lived_in,REPOSITORY[205953] is_in,PERSON[45264] lived_in,PERSON[45264] was_born_in,REPOSITORY[89984] is_in,PERSON[185878] lived_in,PERSON[47316] lived_in,PERSON[43521] lived_in,PERSON[43521] died_in,PERSON[43521] was_born_in,REPOSITORY[131493] is_in,REPOSITORY[109455] is_in]
+119665	Ceuta	Ceuta (northern Morocco)	city	http://ismi.mpiwg-berlin.mpg.de/place/119665	http://ismi.mpiwg-berlin.mpg.de/place/119665	Spain	#174730	0800	2006	[REPOSITORY[88681] is_in,REPOSITORY[183862] is_in]
+123652	al-Madrasaẗ al-Šāmiyyaẗ		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/123652	http://ismi.mpiwg-berlin.mpg.de/place/123652	Damascus	#85658	0800	2006	[PLACE[330886] is_part_of]
+127632	Mecca		city	http://ismi.mpiwg-berlin.mpg.de/place/127632	http://ismi.mpiwg-berlin.mpg.de/place/127632	Saudi Arabia	#179081	0800	2006	[PERSON[460011] lived_in,PERSON[46669] lived_in,PERSON[209245] lived_in,PERSON[186591] lived_in,PERSON[36164] lived_in,PERSON[320060] lived_in,PERSON[9476] lived_in,PERSON[32901] lived_in,PERSON[544421] lived_in,PERSON[48631] lived_in,PERSON[34311] lived_in,PERSON[68745] lived_in,PERSON[319804] lived_in,PERSON[201345] lived_in,PERSON[455890] lived_in,PERSON[3321] lived_in,PERSON[23620] lived_in,PERSON[69146] lived_in,PERSON[485157] lived_in,PERSON[856] lived_in,PERSON[333240] lived_in,PERSON[489993] lived_in,PERSON[42295] lived_in,PERSON[332318] lived_in,PERSON[44222] lived_in,PERSON[543744] lived_in,PERSON[42680] lived_in,PERSON[66697] lived_in,PERSON[51615] lived_in,PERSON[68959] lived_in,PERSON[33086] lived_in,PERSON[544293] lived_in,PERSON[31555] lived_in,PERSON[72071] lived_in,PERSON[186519] lived_in,PERSON[71721] lived_in,PERSON[71183] lived_in,PERSON[45844] lived_in,PERSON[52057] died_in,PLACE[86746] is_part_of,PLACE[319018] is_part_of,PLACE[142708] is_part_of,PLACE[85226] is_part_of,PLACE[87313] is_part_of,PLACE[486754] is_part_of,PLACE[434061] is_part_of,PLACE[87102] is_part_of,PERSON[46669] was_born_in,PERSON[353169] was_born_in,PERSON[391665] was_born_in,PERSON[22998] was_born_in,PERSON[376073] was_born_in,PERSON[376110] was_born_in,PERSON[355495] was_born_in,PERSON[376017] was_born_in,PERSON[3321] was_born_in,PERSON[14643] was_born_in,PERSON[333240] was_born_in,PERSON[332318] was_born_in,PERSON[153035] was_born_in,PERSON[72071] was_born_in,TEXT[319851] was_created_in,TEXT[42568] was_created_in,TEXT[42591] was_created_in,WITNESS[85391] was_copied_in]
+134677	Nisibis		city	http://ismi.mpiwg-berlin.mpg.de/place/134677	http://ismi.mpiwg-berlin.mpg.de/place/134677	Syria	#174694	0800	2006	[PERSON[335703] was_born_in,PERSON[482495] lived_in,PERSON[395738] was_born_in,PLACE[483787] is_part_of,PLACE[86233] is_part_of,PERSON[49133] lived_in,PLACE[87660] is_part_of,PERSON[186237] lived_in,PLACE[530136] is_part_of,PERSON[44436] lived_in,PLACE[69524] is_part_of,PERSON[42360] lived_in,PLACE[86701] is_part_of,PERSON[319703] lived_in,PERSON[61812] was_born_in,PERSON[396819] lived_in,PERSON[487096] lived_in,PERSON[335690] was_born_in,PERSON[61812] lived_in,PERSON[487120] lived_in,PLACE[479550] is_part_of,PERSON[487184] lived_in,PERSON[543686] lived_in,PERSON[68531] lived_in,PERSON[67883] lived_in,PERSON[67883] died_in,PERSON[499114] lived_in,PERSON[335650] was_born_in,PERSON[395816] was_born_in,PERSON[186474] lived_in,PERSON[29509] lived_in,PERSON[186560] lived_in,PERSON[186072] lived_in,PERSON[186519] lived_in,PERSON[420200] lived_in,PERSON[101636] lived_in,PERSON[65136] lived_in]
+140114	Seville		city	http://ismi.mpiwg-berlin.mpg.de/place/140114	http://ismi.mpiwg-berlin.mpg.de/place/140114	Spain	#174730	0800	2006	[PERSON[105171] lived_in]
+140190	Ġandagān	Ġandagān (near Shiraz)	city	http://ismi.mpiwg-berlin.mpg.de/place/140190	http://ismi.mpiwg-berlin.mpg.de/place/140190	Iran	#174469	0800	2006	[WITNESS[129299] was_copied_in]
+140646	Toledo		city	http://ismi.mpiwg-berlin.mpg.de/place/140646	http://ismi.mpiwg-berlin.mpg.de/place/140646	Spain	#174730	0800	2006	[REPOSITORY[182981] is_in,REPOSITORY[89462] is_in]
+140728	Malaga		city	http://ismi.mpiwg-berlin.mpg.de/place/140728	http://ismi.mpiwg-berlin.mpg.de/place/140728	Spain	#174730	0800	2006	[PERSON[37055] lived_in,PERSON[36869] lived_in,PERSON[26846] lived_in,PERSON[37791] lived_in,PERSON[35726] lived_in]
+141246	Sicily		country	http://ismi.mpiwg-berlin.mpg.de/place/141246	http://ismi.mpiwg-berlin.mpg.de/place/141246	Italy	#173763	0800	2006	[PERSON[78352] lived_in]
+141626	Wāsiṭa	Wāsiṭa (south of Cordoba)	city	http://ismi.mpiwg-berlin.mpg.de/place/141626	http://ismi.mpiwg-berlin.mpg.de/place/141626	Spain	#174730	0800	2006	[WITNESS[441533] was_copied_in]
+142459	Takrit		city	http://ismi.mpiwg-berlin.mpg.de/place/142459	http://ismi.mpiwg-berlin.mpg.de/place/142459	Iraq	#173298	0800	2006	[PERSON[209245] lived_in,PERSON[209245] was_born_in,PERSON[13305] lived_in,PERSON[13305] was_born_in,TEXT[314084] was_created_in,PERSON[3863] was_born_in,WITNESS[443565] was_copied_in,WITNESS[411049] was_copied_in,TEXT[103999] was_created_in,PERSON[43059] lived_in,TEXT[440102] was_created_in,PERSON[455] lived_in,PERSON[455] was_born_in,WITNESS[14173] was_copied_in,PERSON[12815] lived_in,PERSON[23358] lived_in,REPOSITORY[88872] is_in,PLACE[447733] is_part_of,WITNESS[169685] was_copied_in,WITNESS[446789] was_copied_in,WITNESS[446664] was_copied_in,PERSON[493691] lived_in,PERSON[42295] lived_in,PERSON[42295] was_born_in,PERSON[532444] lived_in,PERSON[314068] lived_in,PERSON[21146] was_born_in]
+142516	Wann	Wann (Khuzistan)	city	http://ismi.mpiwg-berlin.mpg.de/place/142516	http://ismi.mpiwg-berlin.mpg.de/place/142516	Iran	#174469	0800	2006	[TEXT[488906] was_created_in,PERSON[23672] lived_in,PERSON[43565] lived_in,TEXT[485477] was_created_in,PERSON[37640] lived_in,PERSON[488124] was_born_in,PERSON[40294] lived_in,PERSON[40294] died_in,PERSON[485452] lived_in,PERSON[31233] lived_in]
+142599	Valencia		city	http://ismi.mpiwg-berlin.mpg.de/place/142599	http://ismi.mpiwg-berlin.mpg.de/place/142599	Spain	#174730	0800	2006	[PERSON[183967] lived_in,PERSON[5490] lived_in,PERSON[72728] lived_in]
+142614	Zaragoza		city	http://ismi.mpiwg-berlin.mpg.de/place/142614	http://ismi.mpiwg-berlin.mpg.de/place/142614	Spain	#174730	0800	2006	[TEXT[320207] was_created_in,TEXT[137050] was_created_in,PERSON[6876] lived_in,PERSON[6876] died_in,PERSON[320229] lived_in]
+142708	Giza		city	http://ismi.mpiwg-berlin.mpg.de/place/142708	http://ismi.mpiwg-berlin.mpg.de/place/142708	Egypt	#173189	0800	2006	[WITNESS[124739] was_copied_in,WITNESS[414319] was_copied_in]
+152291	Būzjān		city_district	http://ismi.mpiwg-berlin.mpg.de/place/152291	http://ismi.mpiwg-berlin.mpg.de/place/152291			0800	2006	[REPOSITORY[148558] is_in]
+153698	Qabadiyan	Qabadiyan (or Qubadiyan; modern Nosiri Khusrav in SE Tajikistan)	city	http://ismi.mpiwg-berlin.mpg.de/place/153698	http://ismi.mpiwg-berlin.mpg.de/place/153698	Tajikistan	#179518	0800	2006	[PERSON[75736] lived_in,PERSON[75736] died_in,PERSON[33770] lived_in,PERSON[65600] lived_in,PERSON[65600] died_in,PERSON[35456] lived_in,PERSON[35456] was_born_in]
+153749	Yamgan	Yamgan (or Yomgan; in NE Afghanistan)	city	http://ismi.mpiwg-berlin.mpg.de/place/153749	http://ismi.mpiwg-berlin.mpg.de/place/153749	Afghanistan	#179798	0800	2006	[REPOSITORY[177004] is_in,REPOSITORY[88632] is_in]
+153791	Balkh		city	http://ismi.mpiwg-berlin.mpg.de/place/153791	http://ismi.mpiwg-berlin.mpg.de/place/153791	Afghanistan	#179798	0800	2006	[PERSON[103195] lived_in,PERSON[207381] lived_in,PERSON[46102] lived_in,PERSON[100849] lived_in,PERSON[105546] lived_in,PERSON[346767] lived_in,PERSON[49702] lived_in,PERSON[75956] lived_in,PERSON[35493] lived_in,PERSON[103565] lived_in,PERSON[82809] lived_in,PERSON[36828] lived_in,PERSON[82201] lived_in,PERSON[448389] lived_in,PERSON[382985] lived_in,PERSON[44752] lived_in,PERSON[82074] lived_in,PERSON[199377] lived_in,PERSON[106108] lived_in,PERSON[37355] lived_in,PERSON[95976] lived_in,PERSON[26531] lived_in,PERSON[184813] lived_in,PERSON[81300] lived_in,PERSON[34607] lived_in,PERSON[44253] lived_in,PERSON[37929] lived_in,PERSON[186240] lived_in,PERSON[98397] lived_in,PERSON[30675] lived_in,PERSON[181477] lived_in,PERSON[98718] lived_in,PERSON[184524] lived_in,PERSON[104293] lived_in,PERSON[26569] lived_in,PERSON[40046] lived_in,PERSON[329000] lived_in,PERSON[28265] lived_in,PERSON[56849] lived_in,PERSON[61704] lived_in,PERSON[39684] lived_in,PERSON[363058] lived_in,PERSON[100705] lived_in,PERSON[101658] lived_in,PERSON[183159] lived_in,PERSON[34210] lived_in,PERSON[101309] lived_in,PERSON[199827] lived_in,PERSON[60834] lived_in,PERSON[25958] lived_in,PERSON[77213] lived_in,PERSON[38032] lived_in,PERSON[102917] lived_in,PERSON[63770] lived_in,PERSON[105280] lived_in,PERSON[82755] lived_in,PERSON[103749] lived_in,PERSON[102819] lived_in,PERSON[103878] lived_in,PERSON[163925] lived_in,PERSON[50990] lived_in,PERSON[82596] lived_in,PERSON[63956] lived_in,PERSON[24831] lived_in,PERSON[53792] lived_in,PERSON[62466] lived_in,PERSON[78877] lived_in,PERSON[49828] lived_in,PERSON[105997] lived_in,PERSON[98373] lived_in,PERSON[30931] lived_in,PERSON[37310] lived_in,PERSON[98608] lived_in,PERSON[74997] lived_in,PERSON[47316] lived_in,PERSON[101079] lived_in,PERSON[62099] lived_in,PERSON[55076] lived_in,PERSON[95260] lived_in,PERSON[63097] lived_in,PERSON[64916] lived_in,PERSON[55901] lived_in,PERSON[103428] lived_in,PERSON[64211] lived_in,PERSON[96609] lived_in,PERSON[66970] lived_in,PERSON[63206] lived_in,PERSON[103691] lived_in,PERSON[97829] lived_in,PERSON[100358] lived_in,PERSON[100957] lived_in,PERSON[52681] lived_in,PERSON[105453] lived_in,PERSON[26111] lived_in,PERSON[56265] lived_in,PERSON[62920] lived_in,PERSON[183200] lived_in,PERSON[183551] lived_in,PERSON[103275] lived_in,PERSON[63593] lived_in,PERSON[101414] lived_in,PERSON[51970] lived_in,PERSON[104105] lived_in,PERSON[55259] lived_in,PERSON[98807] lived_in,PERSON[74095] lived_in,PERSON[33648] lived_in,PERSON[98186] lived_in,PERSON[101218] lived_in,PERSON[63804] lived_in,PERSON[95610] lived_in,PERSON[183766] lived_in,PERSON[104684] lived_in,PERSON[53566] lived_in,PERSON[63597] lived_in,PERSON[59890] lived_in,PERSON[59512] lived_in,PERSON[57469] lived_in,PERSON[100078] lived_in,PERSON[102668] lived_in,PERSON[106357] lived_in,PERSON[97367] lived_in,PERSON[81093] lived_in,PERSON[100142] lived_in,PERSON[68861] lived_in,PERSON[64711] lived_in,PERSON[73630] lived_in,PERSON[57522] lived_in,PERSON[103311] lived_in,PERSON[184728] lived_in,PERSON[102343] lived_in,PERSON[96309] lived_in,PERSON[162140] lived_in,PERSON[104512] lived_in,PERSON[61249] lived_in,PERSON[25718] lived_in,PERSON[43521] lived_in,PERSON[53186] lived_in,PERSON[541762] lived_in,PERSON[101978] lived_in,PERSON[55606] lived_in,PERSON[30236] lived_in,PERSON[95451] lived_in,PERSON[103195] died_in,PERSON[199377] died_in,PERSON[30675] died_in,PERSON[28265] died_in,PERSON[100705] died_in,PERSON[101309] died_in,PERSON[37310] died_in,PERSON[47316] died_in,PERSON[52681] died_in,PERSON[101218] died_in,PERSON[63597] died_in,PERSON[81093] died_in,PERSON[102343] died_in,PERSON[541762] died_in,PERSON[30236] died_in,PLACE[43390] is_part_of,REPOSITORY[201092] is_in,REPOSITORY[443146] is_in,REPOSITORY[38234] is_in,REPOSITORY[497921] is_in,REPOSITORY[440136] is_in,REPOSITORY[497917] is_in,REPOSITORY[48421] is_in,REPOSITORY[88093] is_in,REPOSITORY[497912] is_in,REPOSITORY[497908] is_in,PERSON[26531] was_born_in,PERSON[44253] was_born_in,PERSON[184524] was_born_in,PERSON[26569] was_born_in,PERSON[40046] was_born_in,PERSON[28265] was_born_in,PERSON[101309] was_born_in,PERSON[25958] was_born_in,PERSON[24831] was_born_in,PERSON[37310] was_born_in,PERSON[101079] was_born_in,PERSON[26111] was_born_in,PERSON[51970] was_born_in,PERSON[101218] was_born_in,PERSON[53566] was_born_in,PERSON[59512] was_born_in,PERSON[184728] was_born_in,PERSON[55606] was_born_in,PERSON[30236] was_born_in,PERSON[95451] was_born_in,TEXT[92296] was_created_in,TEXT[107372] was_created_in,TEXT[87130] was_created_in,TEXT[143439] was_created_in,TEXT[105013] was_created_in,WITNESS[144427] was_copied_in,WITNESS[441450] was_copied_in,WITNESS[521723] was_copied_in,WITNESS[144456] was_copied_in]
+153829	Ghazna		city	http://ismi.mpiwg-berlin.mpg.de/place/153829	http://ismi.mpiwg-berlin.mpg.de/place/153829	Afghanistan	#179798	0800	2006	[REPOSITORY[519589] is_in,REPOSITORY[88948] is_in]
+153834	Marw		city	http://ismi.mpiwg-berlin.mpg.de/place/153834	http://ismi.mpiwg-berlin.mpg.de/place/153834	Turkmenistan	#178885	0800	2006	[PLACE[88007] is_part_of]
+154074	Ḫilāṭ	Ḫilāṭ [Aḫlāṭ]	city	http://ismi.mpiwg-berlin.mpg.de/place/154074	http://ismi.mpiwg-berlin.mpg.de/place/154074			0800	2006	[PERSON[162991] lived_in,PERSON[6366] lived_in,REPOSITORY[178695] is_in,REPOSITORY[88150] is_in,REPOSITORY[173346] is_in,PERSON[205259] was_born_in,WITNESS[520787] was_copied_in,WITNESS[440661] was_copied_in,PERSON[8098] lived_in,WITNESS[523623] was_copied_in,PERSON[40635] lived_in,PERSON[40635] died_in,REPOSITORY[89433] is_in,PERSON[203542] was_born_in,PERSON[8421] lived_in,PERSON[38032] lived_in,PERSON[97470] lived_in,PERSON[5490] lived_in,PERSON[5906] lived_in,PERSON[484882] lived_in]
+155041	Kaṯ		city	http://ismi.mpiwg-berlin.mpg.de/place/155041	http://ismi.mpiwg-berlin.mpg.de/place/155041			0800	2006	[PERSON[206029] lived_in,PERSON[97674] lived_in,PERSON[66557] lived_in,PERSON[68745] lived_in,PERSON[66841] lived_in,PERSON[33958] lived_in,PERSON[33958] was_born_in,PERSON[66068] lived_in,PERSON[64643] lived_in]
+155387	Kashghar		city	http://ismi.mpiwg-berlin.mpg.de/place/155387	http://ismi.mpiwg-berlin.mpg.de/place/155387			0800	2006	[PLACE[440173] is_part_of]
+156139	Oran		city	http://ismi.mpiwg-berlin.mpg.de/place/156139	http://ismi.mpiwg-berlin.mpg.de/place/156139	Algeria	#173275	0800	2006	[PERSON[30014] lived_in,PERSON[30014] was_born_in,PERSON[27331] lived_in,PERSON[27501] lived_in,PERSON[532444] lived_in,PERSON[103749] lived_in,PERSON[103749] was_born_in,PERSON[47316] lived_in,PERSON[47316] was_born_in,PERSON[64916] lived_in,PERSON[64916] died_in,PERSON[64916] was_born_in]
+163900	San Lorenzo de El Escorial		city_district	http://ismi.mpiwg-berlin.mpg.de/place/163900	http://ismi.mpiwg-berlin.mpg.de/place/163900	Spain	#174730	0800	2006	[PLACE[38689] is_part_of,PLACE[88035] is_part_of]
+164884	Wrocław		city	http://ismi.mpiwg-berlin.mpg.de/place/164884	http://ismi.mpiwg-berlin.mpg.de/place/164884			0800	2006	[STUDY_EVENT[38249] was_studied_in]
+167760	Baghdad		city	http://ismi.mpiwg-berlin.mpg.de/place/167760	http://ismi.mpiwg-berlin.mpg.de/place/167760	Iraq	#173298	0800	2006	[WITNESS[78260] was_copied_in]
+167982	Qāʾin		city	http://ismi.mpiwg-berlin.mpg.de/place/167982	http://ismi.mpiwg-berlin.mpg.de/place/167982	Qūhistān	#168047	0800	2006	[REPOSITORY[522550] is_in,PERSON[183766] lived_in]
+168025	Alamūt		city	http://ismi.mpiwg-berlin.mpg.de/place/168025	http://ismi.mpiwg-berlin.mpg.de/place/168025	Iran	#174469	0800	2006	[PERSON[197196] was_born_in]
+168047	Qūhistān		country	http://ismi.mpiwg-berlin.mpg.de/place/168047	http://ismi.mpiwg-berlin.mpg.de/place/168047	Iran	#174469	0800	2006	[TEXT[466481] was_created_in,TEXT[351304] was_created_in,PERSON[1645] lived_in,PERSON[70924] lived_in,PERSON[183227] lived_in,PERSON[53566] lived_in,PERSON[466456] lived_in]
+173189	Egypt		country	http://ismi.mpiwg-berlin.mpg.de/place/173189	http://ismi.mpiwg-berlin.mpg.de/place/173189			0800	2006	[PLACE[449379] is_part_of]
+173272	Uzbekistan		country	http://ismi.mpiwg-berlin.mpg.de/place/173272	http://ismi.mpiwg-berlin.mpg.de/place/173272			0800	2006	[PERSON[52681] lived_in,PERSON[52681] was_born_in]
+173275	Algeria		country	http://ismi.mpiwg-berlin.mpg.de/place/173275	http://ismi.mpiwg-berlin.mpg.de/place/173275			0800	2006	[PERSON[26460] lived_in,PERSON[26460] was_born_in,PERSON[26755] lived_in]
+173298	Iraq		country	http://ismi.mpiwg-berlin.mpg.de/place/173298	http://ismi.mpiwg-berlin.mpg.de/place/173298			0800	2006	[PERSON[35456] lived_in,PERSON[35456] died_in]
+173483	Austria		country	http://ismi.mpiwg-berlin.mpg.de/place/173483	http://ismi.mpiwg-berlin.mpg.de/place/173483			0800	2006	[PERSON[58439] lived_in,PERSON[51688] lived_in,PERSON[97367] lived_in]
+173531	Morocco		country	http://ismi.mpiwg-berlin.mpg.de/place/173531	http://ismi.mpiwg-berlin.mpg.de/place/173531			0800	2006	[PERSON[20541] lived_in,PERSON[27729] lived_in,PERSON[27729] died_in,PERSON[184234] lived_in,PERSON[184234] was_born_in,PERSON[209245] lived_in,PERSON[353185] lived_in,PERSON[448389] lived_in,TEXT[127700] was_created_in,PERSON[12897] lived_in,WITNESS[455457] was_copied_in,PERSON[26143] lived_in,TEXT[127717] was_created_in,WITNESS[11082] was_copied_in,PERSON[54130] lived_in,PERSON[46563] lived_in,PERSON[199108] lived_in,PERSON[532444] lived_in,PERSON[96225] lived_in,PERSON[96225] died_in,TEXT[364036] was_created_in,PERSON[544244] lived_in,PERSON[101636] lived_in,PERSON[544511] lived_in,PERSON[63874] lived_in,PERSON[162140] lived_in]
+173554	USA		country	http://ismi.mpiwg-berlin.mpg.de/place/173554	http://ismi.mpiwg-berlin.mpg.de/place/173554			0800	2006	[REPOSITORY[88505] is_in]
+173557	Tunisia		country	http://ismi.mpiwg-berlin.mpg.de/place/173557	http://ismi.mpiwg-berlin.mpg.de/place/173557			0800	2006	[PERSON[24600] was_born_in]
+173690	Indonesia		country	http://ismi.mpiwg-berlin.mpg.de/place/173690	http://ismi.mpiwg-berlin.mpg.de/place/173690			0800	2006	[PERSON[439114] was_born_in,PERSON[497194] lived_in,PERSON[314042] lived_in,REPOSITORY[89857] is_in,PERSON[532444] lived_in,PERSON[456381] lived_in,PERSON[456381] was_born_in]
+173763	Italy		country	http://ismi.mpiwg-berlin.mpg.de/place/173763	http://ismi.mpiwg-berlin.mpg.de/place/173763			0800	2006	[PERSON[44752] lived_in,PERSON[37640] lived_in,PERSON[37038] lived_in,PERSON[32704] lived_in,PERSON[66252] lived_in,PERSON[104894] lived_in,PERSON[66192] lived_in,PERSON[35284] lived_in,PERSON[186186] lived_in]
+173852	Armenia		country	http://ismi.mpiwg-berlin.mpg.de/place/173852	http://ismi.mpiwg-berlin.mpg.de/place/173852			0800	2006	[PERSON[32892] lived_in,PERSON[45876] lived_in,PERSON[105546] lived_in,PERSON[49702] lived_in,PERSON[46669] lived_in,PERSON[209245] lived_in,PERSON[187045] lived_in,PERSON[39022] lived_in,PERSON[24253] lived_in,PERSON[49903] lived_in,PERSON[448389] lived_in,PERSON[24600] lived_in,PERSON[6995] lived_in,PERSON[37553] lived_in,PERSON[10515] lived_in,PERSON[21049] lived_in,PERSON[449387] lived_in,PERSON[10695] lived_in,PERSON[42958] lived_in,PERSON[49337] lived_in,PERSON[10623] lived_in,PERSON[43565] lived_in,PERSON[30468] lived_in,PERSON[186622] lived_in,PERSON[7299] lived_in,PERSON[34607] lived_in,PERSON[27973] lived_in,PERSON[48884] lived_in,PERSON[25838] lived_in,PERSON[44253] lived_in,PERSON[48604] lived_in,PERSON[37929] lived_in,PERSON[27501] lived_in,PERSON[44503] lived_in,PERSON[10017] lived_in,PERSON[199827] lived_in,PERSON[14248] lived_in,PERSON[31398] lived_in,PERSON[25958] lived_in,PERSON[96225] lived_in,PERSON[26460] lived_in,PERSON[105280] lived_in,PERSON[350525] lived_in,PERSON[163925] lived_in,PERSON[62466] lived_in,PERSON[64572] lived_in,PERSON[183200] lived_in,PERSON[40294] lived_in,PERSON[63593] lived_in,PERSON[102668] lived_in,PERSON[31145] lived_in,PERSON[730] lived_in,PERSON[45844] lived_in,PERSON[45876] died_in,PERSON[49702] died_in,PERSON[46669] died_in,PERSON[39022] died_in,PERSON[34607] died_in,PERSON[48604] died_in,PERSON[17903] died_in,PERSON[31398] died_in,PERSON[64572] died_in,PERSON[484869] died_in,PLACE[498785] is_part_of,PLACE[123652] is_part_of,REPOSITORY[179094] is_in,REPOSITORY[171425] is_in,REPOSITORY[88423] is_in,PERSON[11622] was_born_in,PERSON[23047] was_born_in,PERSON[12547] was_born_in,PERSON[37553] was_born_in,PERSON[10515] was_born_in,PERSON[21049] was_born_in,PERSON[485793] was_born_in,PERSON[488158] was_born_in,PERSON[27973] was_born_in,PERSON[48604] was_born_in,PERSON[27501] was_born_in,PERSON[44503] was_born_in,PERSON[10017] was_born_in,PERSON[31398] was_born_in,PERSON[40294] was_born_in,WITNESS[390123] was_copied_in,WITNESS[39032] was_copied_in,WITNESS[484638] was_copied_in,WITNESS[58361] was_copied_in]
+173857	Ukraine		country	http://ismi.mpiwg-berlin.mpg.de/place/173857	http://ismi.mpiwg-berlin.mpg.de/place/173857			0800	2006	[PERSON[23358] lived_in]
+173935	Slovakia		country	http://ismi.mpiwg-berlin.mpg.de/place/173935	http://ismi.mpiwg-berlin.mpg.de/place/173935			0800	2006	[REPOSITORY[346210] is_in,PERSON[24600] lived_in,REPOSITORY[493538] is_in,REPOSITORY[541568] is_in,REPOSITORY[375892] is_in,REPOSITORY[320339] is_in,REPOSITORY[541586] is_in,REPOSITORY[89271] is_in,REPOSITORY[493541] is_in,REPOSITORY[88644] is_in,REPOSITORY[165179] is_in,REPOSITORY[88097] is_in]
+174008	Qayrawan		city	http://ismi.mpiwg-berlin.mpg.de/place/174008	http://ismi.mpiwg-berlin.mpg.de/place/174008	Tunisia	#173557	0800	2006	[PERSON[24670] lived_in,PERSON[24670] was_born_in,PERSON[1261] lived_in,PERSON[181477] lived_in,PERSON[100705] lived_in,PERSON[100705] was_born_in,PERSON[64456] lived_in,PERSON[66697] lived_in,PERSON[62575] lived_in,PERSON[98608] lived_in,PERSON[98608] was_born_in,PERSON[59241] lived_in,PERSON[62920] lived_in,PERSON[418400] lived_in,PERSON[186353] lived_in,PERSON[63444] lived_in]
+174469	Iran		country	http://ismi.mpiwg-berlin.mpg.de/place/174469	http://ismi.mpiwg-berlin.mpg.de/place/174469			0800	2006	[WITNESS[59056] was_copied_in,WITNESS[68223] was_copied_in]
+174492	Germany		country	http://ismi.mpiwg-berlin.mpg.de/place/174492	http://ismi.mpiwg-berlin.mpg.de/place/174492			0800	2006	[PLACE[88340] is_part_of,PLACE[87930] is_part_of]
+174510	Turkey		country	http://ismi.mpiwg-berlin.mpg.de/place/174510	http://ismi.mpiwg-berlin.mpg.de/place/174510			0800	2006	[PERSON[103195] lived_in,PERSON[207381] lived_in,PERSON[207381] was_born_in,PERSON[323550] lived_in]
+174533	UK		country	http://ismi.mpiwg-berlin.mpg.de/place/174533	http://ismi.mpiwg-berlin.mpg.de/place/174533			0800	2006	[WITNESS[522494] was_copied_in,REPOSITORY[88187] is_in]
+174621	Lebanon		country	http://ismi.mpiwg-berlin.mpg.de/place/174621	http://ismi.mpiwg-berlin.mpg.de/place/174621			0800	2006	[REPOSITORY[525081] is_in,PERSON[1960] lived_in,PERSON[1960] died_in]
+174638	India		country	http://ismi.mpiwg-berlin.mpg.de/place/174638	http://ismi.mpiwg-berlin.mpg.de/place/174638			0800	2006	[WITNESS[443474] was_copied_in,WITNESS[162277] was_copied_in]
+174659	Russia		country	http://ismi.mpiwg-berlin.mpg.de/place/174659	http://ismi.mpiwg-berlin.mpg.de/place/174659			0800	2006	[REPOSITORY[89476] is_in,REPOSITORY[179457] is_in,REPOSITORY[178950] is_in]
+174694	Syria		country	http://ismi.mpiwg-berlin.mpg.de/place/174694	http://ismi.mpiwg-berlin.mpg.de/place/174694			0800	2006	[PERSON[63770] lived_in,PERSON[100957] lived_in,PERSON[100957] was_born_in]
+174707	Netherlands		country	http://ismi.mpiwg-berlin.mpg.de/place/174707	http://ismi.mpiwg-berlin.mpg.de/place/174707			0800	2006	[PERSON[532444] lived_in]
+174730	Spain		country	http://ismi.mpiwg-berlin.mpg.de/place/174730	http://ismi.mpiwg-berlin.mpg.de/place/174730			0800	2006	[WITNESS[442695] was_copied_in]
+174775	France		country	http://ismi.mpiwg-berlin.mpg.de/place/174775	http://ismi.mpiwg-berlin.mpg.de/place/174775			0800	2006	[PERSON[45876] lived_in,PERSON[49337] lived_in,PERSON[49337] was_born_in,PERSON[25838] lived_in,PERSON[27501] lived_in,PERSON[25958] lived_in]
+177048	Kazimiya		city	http://ismi.mpiwg-berlin.mpg.de/place/177048	http://ismi.mpiwg-berlin.mpg.de/place/177048	Iraq	#173298	0800	2006	[WITNESS[442409] was_copied_in]
+178885	Turkmenistan		country	http://ismi.mpiwg-berlin.mpg.de/place/178885	http://ismi.mpiwg-berlin.mpg.de/place/178885			0800	2006	[PERSON[36400] lived_in,PERSON[310360] lived_in,PERSON[38830] lived_in,PERSON[7437] lived_in,PERSON[105171] lived_in,PERSON[38686] lived_in,PERSON[184974] lived_in,PERSON[64456] lived_in,PERSON[163925] lived_in,PERSON[66697] lived_in,PERSON[39447] lived_in,PERSON[39447] was_born_in,PERSON[31905] lived_in,PERSON[31905] was_born_in,PERSON[35984] lived_in]
+178897	Nigeria		country	http://ismi.mpiwg-berlin.mpg.de/place/178897	http://ismi.mpiwg-berlin.mpg.de/place/178897			0800	2006	[PLACE[87257] is_part_of,PLACE[87260] is_part_of,PLACE[86758] is_part_of,PLACE[87719] is_part_of,PLACE[86446] is_part_of,PLACE[86288] is_part_of]
+178900	Yemen		country	http://ismi.mpiwg-berlin.mpg.de/place/178900	http://ismi.mpiwg-berlin.mpg.de/place/178900			0800	2006	[REPOSITORY[89232] is_in]
+178920	Azerbaijan		country	http://ismi.mpiwg-berlin.mpg.de/place/178920	http://ismi.mpiwg-berlin.mpg.de/place/178920			0800	2006	[PERSON[13661] was_born_in,PERSON[484926] lived_in,PERSON[478772] lived_in]
+178937	Sweden		country	http://ismi.mpiwg-berlin.mpg.de/place/178937	http://ismi.mpiwg-berlin.mpg.de/place/178937			0800	2006	[PERSON[75892] lived_in,PERSON[47316] lived_in,PERSON[70839] lived_in]
+178964	Hungary		country	http://ismi.mpiwg-berlin.mpg.de/place/178964	http://ismi.mpiwg-berlin.mpg.de/place/178964			0800	2006	[PERSON[36828] lived_in,PERSON[36828] was_born_in]
+178992	Libya		country	http://ismi.mpiwg-berlin.mpg.de/place/178992	http://ismi.mpiwg-berlin.mpg.de/place/178992			0800	2006	[REPOSITORY[88348] is_in,PLACE[412619] is_part_of,PERSON[4670] lived_in,PERSON[4670] was_born_in,PERSON[42963] lived_in,REPOSITORY[440309] is_in,REPOSITORY[310496] is_in,PERSON[517756] was_born_in,REPOSITORY[199860] is_in]
+179005	Bosnia/Herzegovina		country	http://ismi.mpiwg-berlin.mpg.de/place/179005	http://ismi.mpiwg-berlin.mpg.de/place/179005			0800	2006	[REPOSITORY[114058] is_in,REPOSITORY[14460] is_in]
+179081	Saudi Arabia		country	http://ismi.mpiwg-berlin.mpg.de/place/179081	http://ismi.mpiwg-berlin.mpg.de/place/179081			0800	2006	[REPOSITORY[176544] is_in,PERSON[4670] lived_in,REPOSITORY[458008] is_in,PERSON[59005] lived_in,PERSON[72704] lived_in,REPOSITORY[355990] is_in,REPOSITORY[88866] is_in,REPOSITORY[458035] is_in,REPOSITORY[458130] is_in,WITNESS[299678] was_copied_in,PERSON[53056] lived_in]
+179170	Denmark		country	http://ismi.mpiwg-berlin.mpg.de/place/179170	http://ismi.mpiwg-berlin.mpg.de/place/179170			0800	2006	[REPOSITORY[177602] is_in,REPOSITORY[137943] is_in]
+179183	Georgia		country	http://ismi.mpiwg-berlin.mpg.de/place/179183	http://ismi.mpiwg-berlin.mpg.de/place/179183			0800	2006	[PERSON[143434] was_born_in,PERSON[532444] lived_in,PERSON[532444] died_in,PERSON[532444] was_born_in]
+179186	Bangladesh		country	http://ismi.mpiwg-berlin.mpg.de/place/179186	http://ismi.mpiwg-berlin.mpg.de/place/179186			0800	2006	[PERSON[25718] lived_in,PERSON[25718] was_born_in]
+179327	Belgium		country	http://ismi.mpiwg-berlin.mpg.de/place/179327	http://ismi.mpiwg-berlin.mpg.de/place/179327			0800	2006	[REPOSITORY[71941] is_in]
+179423	Golkanda		city	http://ismi.mpiwg-berlin.mpg.de/place/179423	http://ismi.mpiwg-berlin.mpg.de/place/179423			0800	2006	[REPOSITORY[199393] is_in,REPOSITORY[64394] is_in]
+179459	Canada		country	http://ismi.mpiwg-berlin.mpg.de/place/179459	http://ismi.mpiwg-berlin.mpg.de/place/179459			0800	2006	[PERSON[183159] lived_in,WITNESS[446873] was_copied_in]
+179483	Palestine	Palestine/Israel	country	http://ismi.mpiwg-berlin.mpg.de/place/179483	http://ismi.mpiwg-berlin.mpg.de/place/179483			0800	2006	[REPOSITORY[88874] is_in,REPOSITORY[88138] is_in]
+179518	Tajikistan		country	http://ismi.mpiwg-berlin.mpg.de/place/179518	http://ismi.mpiwg-berlin.mpg.de/place/179518			0800	2006	[REPOSITORY[493141] is_in]
+179659	Ireland		country	http://ismi.mpiwg-berlin.mpg.de/place/179659	http://ismi.mpiwg-berlin.mpg.de/place/179659			0800	2006	[REPOSITORY[201868] is_in]
+179683	Salé		city	http://ismi.mpiwg-berlin.mpg.de/place/179683	http://ismi.mpiwg-berlin.mpg.de/place/179683	Morocco	#173531	0800	2006	[PERSON[64059] lived_in,PERSON[64059] was_born_in]
+179735	Pakistan		country	http://ismi.mpiwg-berlin.mpg.de/place/179735	http://ismi.mpiwg-berlin.mpg.de/place/179735			0800	2006	[PERSON[184458] lived_in,PERSON[184458] died_in,PERSON[382985] lived_in]
+179766	Fās		city	http://ismi.mpiwg-berlin.mpg.de/place/179766	http://ismi.mpiwg-berlin.mpg.de/place/179766	Morocco	#173531	0800	2006	[WITNESS[68721] was_copied_in]
+179798	Afghanistan		country	http://ismi.mpiwg-berlin.mpg.de/place/179798	http://ismi.mpiwg-berlin.mpg.de/place/179798			0800	2006	[PERSON[186240] lived_in,PERSON[186240] was_born_in,PERSON[76792] lived_in,PERSON[76792] was_born_in,PERSON[78877] lived_in,PERSON[78877] was_born_in]
+200567	unknown country		country	http://ismi.mpiwg-berlin.mpg.de/place/200567	http://ismi.mpiwg-berlin.mpg.de/place/200567			0800	2006	[REPOSITORY[118156] is_in]
+200570	UNKNOWN	unknown city is part of unknown country	city	http://ismi.mpiwg-berlin.mpg.de/place/200570	http://ismi.mpiwg-berlin.mpg.de/place/200570	unknown country	#200567	0800	2006	[REPOSITORY[131274] is_in,REPOSITORY[89466] is_in,REPOSITORY[178913] is_in,REPOSITORY[172792] is_in,PERSON[69904] lived_in,PERSON[50599] lived_in,PERSON[50599] was_born_in]
+270897	Erzurum		city	http://ismi.mpiwg-berlin.mpg.de/place/270897	http://ismi.mpiwg-berlin.mpg.de/place/270897	Turkey	#174510	0800	2006	[PERSON[57991] lived_in,REPOSITORY[127522] is_in,TRANSFER_EVENT[30221] has_original_location,TRANSFER_EVENT[30221] has_new_location,PERSON[30014] lived_in,PERSON[34607] lived_in,PERSON[34607] was_born_in,PERSON[27691] lived_in,TEXT[124860] was_created_in,REPOSITORY[522532] is_in,PERSON[30722] lived_in,WITNESS[10916] was_copied_in,PERSON[30954] lived_in,PERSON[74607] lived_in,PERSON[74607] died_in,PERSON[183766] lived_in]
+271745	Jāmiʿ Naqīb al-Juyūš		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/271745	http://ismi.mpiwg-berlin.mpg.de/place/271745			0800	2006	[PERSON[7866] lived_in,PERSON[7866] was_born_in,PERSON[42698] lived_in,WITNESS[441402] was_copied_in,REPOSITORY[89726] is_in,PERSON[51287] lived_in,PERSON[50316] lived_in,PERSON[183146] lived_in,PERSON[183635] lived_in,PERSON[5490] lived_in,PERSON[186892] lived_in]
+276374	Palermo		city	http://ismi.mpiwg-berlin.mpg.de/place/276374	http://ismi.mpiwg-berlin.mpg.de/place/276374	Italy	#173763	0800	2006	[PERSON[50188] lived_in,REPOSITORY[88810] is_in,REPOSITORY[145194] is_in,PERSON[44590] lived_in,PERSON[125741] lived_in,PERSON[455] lived_in,WITNESS[364049] was_copied_in,PERSON[341972] lived_in,PERSON[341972] was_born_in,REPOSITORY[529259] is_in,REPOSITORY[441217] is_in,REPOSITORY[525194] is_in,REPOSITORY[443256] is_in,PERSON[484882] lived_in]
+276430	Segovia		city	http://ismi.mpiwg-berlin.mpg.de/place/276430	http://ismi.mpiwg-berlin.mpg.de/place/276430	Spain	#174730	0800	2006	[REPOSITORY[89069] is_in]
+310048	Khwārizm		country	http://ismi.mpiwg-berlin.mpg.de/place/310048	http://ismi.mpiwg-berlin.mpg.de/place/310048	Turkmenistan	#178885	0800	2006	[REPOSITORY[48927] is_in,REPOSITORY[518067] is_in,REPOSITORY[137521] is_in,REPOSITORY[410986] is_in]
+310373	Nasā		city_district	http://ismi.mpiwg-berlin.mpg.de/place/310373	http://ismi.mpiwg-berlin.mpg.de/place/310373	Turkmenistan	#178885	0800	2006	[REPOSITORY[19695] is_in]
+310384	Khurāsān		city_district	http://ismi.mpiwg-berlin.mpg.de/place/310384	http://ismi.mpiwg-berlin.mpg.de/place/310384	Turkmenistan	#178885	0800	2006	[PLACE[86683] is_part_of]
+311328	Ḥamāh		city	http://ismi.mpiwg-berlin.mpg.de/place/311328	http://ismi.mpiwg-berlin.mpg.de/place/311328	Syria	#174694	0800	2006	[REPOSITORY[178309] is_in,REPOSITORY[90072] is_in,REPOSITORY[498311] is_in,REPOSITORY[88550] is_in]
+312817	Gülistan	Gülistan (Guliston)	city	http://ismi.mpiwg-berlin.mpg.de/place/312817	http://ismi.mpiwg-berlin.mpg.de/place/312817	Uzbekistan	#173272	0800	2006	[PERSON[68113] lived_in,PERSON[67183] lived_in,PERSON[67183] was_born_in,PERSON[7089] lived_in,PERSON[77911] lived_in,PERSON[77911] died_in,PERSON[33229] lived_in,PERSON[35310] lived_in,PERSON[35310] was_born_in,PERSON[33958] lived_in]
+312831	Mardin		city	http://ismi.mpiwg-berlin.mpg.de/place/312831	http://ismi.mpiwg-berlin.mpg.de/place/312831	Turkey	#174510	0800	2006	[REPOSITORY[157267] is_in]
+313825	Serakhs		city	http://ismi.mpiwg-berlin.mpg.de/place/313825	http://ismi.mpiwg-berlin.mpg.de/place/313825	Turkmenistan	#178885	0800	2006	[WITNESS[45226] was_copied_in,WITNESS[18549] was_copied_in]
+314816	Tabaristan		city	http://ismi.mpiwg-berlin.mpg.de/place/314816	http://ismi.mpiwg-berlin.mpg.de/place/314816	Iran	#174469	0800	2006	[PLACE[443952] is_part_of,REPOSITORY[128753] is_in]
+318030	Mersin/Tarsus		city	http://ismi.mpiwg-berlin.mpg.de/place/318030	http://ismi.mpiwg-berlin.mpg.de/place/318030	Turkey	#174510	0800	2006	[REPOSITORY[89604] is_in]
+319018	Qift		city	http://ismi.mpiwg-berlin.mpg.de/place/319018	http://ismi.mpiwg-berlin.mpg.de/place/319018	Egypt	#173189	0800	2006	[REPOSITORY[531666] is_in,REPOSITORY[88847] is_in,REPOSITORY[72950] is_in,REPOSITORY[88667] is_in,REPOSITORY[173496] is_in]
+320173	Sarai	Sarai (Saraj or Saray)	country	http://ismi.mpiwg-berlin.mpg.de/place/320173	http://ismi.mpiwg-berlin.mpg.de/place/320173		#320173	0800	2006	[PERSON[68165] lived_in]
+321561	Tlemcen		city	http://ismi.mpiwg-berlin.mpg.de/place/321561	http://ismi.mpiwg-berlin.mpg.de/place/321561	Algeria	#173275	0800	2006	[REPOSITORY[90448] is_in,REPOSITORY[89781] is_in]
+325114	Arrajān		city	http://ismi.mpiwg-berlin.mpg.de/place/325114	http://ismi.mpiwg-berlin.mpg.de/place/325114			0800	2006	[PERSON[71815] lived_in,PERSON[71815] died_in]
+325429	Khuttal		city	http://ismi.mpiwg-berlin.mpg.de/place/325429	http://ismi.mpiwg-berlin.mpg.de/place/325429			0800	2006	[REPOSITORY[88469] is_in]
+326959	Qinnasrin		city	http://ismi.mpiwg-berlin.mpg.de/place/326959	http://ismi.mpiwg-berlin.mpg.de/place/326959	Syria	#174694	0800	2006	[PERSON[310360] lived_in,PERSON[60778] lived_in,PERSON[72419] lived_in]
+327648	Gundeshapur	Gundeshapur [Gundēšāpūr] (Fars)	city	http://ismi.mpiwg-berlin.mpg.de/place/327648	http://ismi.mpiwg-berlin.mpg.de/place/327648	Iran	#174469	0800	2006	[PERSON[185858] lived_in]
+328715	Edessa		city	http://ismi.mpiwg-berlin.mpg.de/place/328715	http://ismi.mpiwg-berlin.mpg.de/place/328715			0800	2006	[PERSON[449387] lived_in,PERSON[55492] lived_in,PERSON[55492] was_born_in,REPOSITORY[525048] is_in,WITNESS[41444] was_copied_in]
+329068	Samarra		city	http://ismi.mpiwg-berlin.mpg.de/place/329068	http://ismi.mpiwg-berlin.mpg.de/place/329068	Iraq	#173298	0800	2006	[PERSON[75956] lived_in]
+330883	Ethiopia		country	http://ismi.mpiwg-berlin.mpg.de/place/330883	http://ismi.mpiwg-berlin.mpg.de/place/330883			0800	2006	[REPOSITORY[531396] is_in,REPOSITORY[380289] is_in,REPOSITORY[359102] is_in,REPOSITORY[89460] is_in,REPOSITORY[441806] is_in,REPOSITORY[380612] is_in]
+330886	Agarfa, Bale		city	http://ismi.mpiwg-berlin.mpg.de/place/330886	http://ismi.mpiwg-berlin.mpg.de/place/330886	Ethiopia	#330883	0800	2006	[PERSON[53428] lived_in]
+331126	Sarakhs		city	http://ismi.mpiwg-berlin.mpg.de/place/331126	http://ismi.mpiwg-berlin.mpg.de/place/331126	Iran	#174469	0800	2006	[PERSON[100586] lived_in]
+333575	Farghāna		city	http://ismi.mpiwg-berlin.mpg.de/place/333575	http://ismi.mpiwg-berlin.mpg.de/place/333575			0800	2006	[REPOSITORY[199217] is_in,REPOSITORY[88394] is_in,REPOSITORY[88362] is_in,PERSON[4318] was_born_in,REPOSITORY[89458] is_in,REPOSITORY[358570] is_in,TEXT[336889] was_created_in,PERSON[330318] lived_in,PERSON[330318] was_born_in,PERSON[3771] lived_in,PERSON[3771] died_in,PERSON[33479] lived_in,PERSON[40908] lived_in]
+338465	Cremona		city	http://ismi.mpiwg-berlin.mpg.de/place/338465	http://ismi.mpiwg-berlin.mpg.de/place/338465	Italy	#173763	0800	2006	[REPOSITORY[44324] is_in]
+347936	Harran		city	http://ismi.mpiwg-berlin.mpg.de/place/347936	http://ismi.mpiwg-berlin.mpg.de/place/347936	Turkey	#174510	0800	2006	[WITNESS[93553] was_copied_in]
+350573	ʿAkkā		city_district	http://ismi.mpiwg-berlin.mpg.de/place/350573	http://ismi.mpiwg-berlin.mpg.de/place/350573	Palestine/Israel	#179483	0800	2006	[REPOSITORY[540706] is_in]
+350578	Sidon		city_district	http://ismi.mpiwg-berlin.mpg.de/place/350578	http://ismi.mpiwg-berlin.mpg.de/place/350578	Lebanon	#174621	0800	2006	[PERSON[31720] lived_in,PERSON[62466] lived_in]
+350648	Nūr Aḥmadiyya		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/350648	http://ismi.mpiwg-berlin.mpg.de/place/350648	ʿAkkā	#350573	0800	2006	[PERSON[31617] lived_in,PERSON[31842] lived_in]
+350677	UNKNOWN			http://ismi.mpiwg-berlin.mpg.de/place/350677	http://ismi.mpiwg-berlin.mpg.de/place/350677			0800	2006	[REPOSITORY[122822] is_in,REPOSITORY[89238] is_in,REPOSITORY[530116] is_in]
+356027	Écija			http://ismi.mpiwg-berlin.mpg.de/place/356027	http://ismi.mpiwg-berlin.mpg.de/place/356027	Spain	#174730	0800	2006	[PERSON[37510] lived_in,PERSON[64875] lived_in,PERSON[186186] lived_in,PERSON[186186] was_born_in,PERSON[36621] lived_in]
+356327	Iṣṭaḫr			http://ismi.mpiwg-berlin.mpg.de/place/356327	http://ismi.mpiwg-berlin.mpg.de/place/356327	Iran	#174469	0800	2006	[REPOSITORY[73071] is_in,REPOSITORY[89881] is_in]
+359019	Tarsus		city	http://ismi.mpiwg-berlin.mpg.de/place/359019	http://ismi.mpiwg-berlin.mpg.de/place/359019			0800	2006	[PERSON[25838] lived_in,PERSON[36511] lived_in]
+360314	Siraf			http://ismi.mpiwg-berlin.mpg.de/place/360314	http://ismi.mpiwg-berlin.mpg.de/place/360314	Iran	#174469	0800	2006	[PLACE[142614] is_part_of,PLACE[108247] is_part_of,PLACE[141626] is_part_of,PLACE[436967] is_part_of,PLACE[142599] is_part_of,PLACE[108386] is_part_of,PLACE[140646] is_part_of,PLACE[140114] is_part_of,PLACE[276430] is_part_of,PLACE[163900] is_part_of,PLACE[108354] is_part_of,PLACE[431843] is_part_of,PLACE[140728] is_part_of,PLACE[86912] is_part_of,PLACE[395007] is_part_of,PLACE[436281] is_part_of,PLACE[88223] is_part_of,PLACE[119665] is_part_of,PLACE[414387] is_part_of,PLACE[119513] is_part_of,PLACE[356027] is_part_of,PLACE[438196] is_part_of,PLACE[394897] is_part_of,PLACE[354268] is_part_of,PLACE[490235] is_part_of,PERSON[61001] lived_in,PERSON[64875] lived_in,PERSON[55684] lived_in,PERSON[24248] was_born_in]
+361847	Ahwaz			http://ismi.mpiwg-berlin.mpg.de/place/361847	http://ismi.mpiwg-berlin.mpg.de/place/361847			0800	2006	[WITNESS[528770] was_copied_in,TEXT[528895] was_created_in]
+362860	Samarqand		city	http://ismi.mpiwg-berlin.mpg.de/place/362860	http://ismi.mpiwg-berlin.mpg.de/place/362860	Uzbekistan	#173272	0800	2006	[PERSON[66697] lived_in,PERSON[66697] was_born_in]
+363352	Raqqa			http://ismi.mpiwg-berlin.mpg.de/place/363352	http://ismi.mpiwg-berlin.mpg.de/place/363352			0800	2006	[REPOSITORY[154512] is_in]
+374418	Ḫujand		city	http://ismi.mpiwg-berlin.mpg.de/place/374418	http://ismi.mpiwg-berlin.mpg.de/place/374418	Tajikistan	#179518	0800	2006	[PERSON[59832] lived_in]
+374813	Sumaysat			http://ismi.mpiwg-berlin.mpg.de/place/374813	http://ismi.mpiwg-berlin.mpg.de/place/374813	Syria	#174694	0800	2006	[REPOSITORY[210277] is_in]
+374934	Herat			http://ismi.mpiwg-berlin.mpg.de/place/374934	http://ismi.mpiwg-berlin.mpg.de/place/374934	Afghanistan	#179798	0800	2006	[PERSON[44752] lived_in,PERSON[56265] lived_in,PERSON[55684] lived_in]
+376768	Sijistan			http://ismi.mpiwg-berlin.mpg.de/place/376768	http://ismi.mpiwg-berlin.mpg.de/place/376768			0800	2006	[PERSON[98009] lived_in]
+380989	Kirman			http://ismi.mpiwg-berlin.mpg.de/place/380989	http://ismi.mpiwg-berlin.mpg.de/place/380989	Iran	#174469	0800	2006	[REPOSITORY[44034] is_in,REPOSITORY[89135] is_in]
+381807	Karaj			http://ismi.mpiwg-berlin.mpg.de/place/381807	http://ismi.mpiwg-berlin.mpg.de/place/381807	Iran	#174469	0800	2006	[PERSON[456922] lived_in,PERSON[28464] lived_in,PERSON[457051] lived_in,PERSON[44436] lived_in]
+382383	Jawhar		city	http://ismi.mpiwg-berlin.mpg.de/place/382383	http://ismi.mpiwg-berlin.mpg.de/place/382383			0800	2006	[REPOSITORY[65685] is_in]
+384589	Isfarain		city	http://ismi.mpiwg-berlin.mpg.de/place/384589	http://ismi.mpiwg-berlin.mpg.de/place/384589	Iran	#174469	0800	2006	[PLACE[86776] is_part_of,PLACE[86472] is_part_of]
+390282	Marwarrüḏ			http://ismi.mpiwg-berlin.mpg.de/place/390282	http://ismi.mpiwg-berlin.mpg.de/place/390282	Afghanistan	#179798	0800	2006	[REPOSITORY[67597] is_in,REPOSITORY[89624] is_in]
+390537	Amul		city	http://ismi.mpiwg-berlin.mpg.de/place/390537	http://ismi.mpiwg-berlin.mpg.de/place/390537	Turkmenistan	#178885	0800	2006	[REPOSITORY[196754] is_in]
+393060	St Andrews	St Andrews, Fife, Scotland	city_district	http://ismi.mpiwg-berlin.mpg.de/place/393060	http://ismi.mpiwg-berlin.mpg.de/place/393060	UK	#174533	0800	2006	[PLACE[321561] is_part_of,PERSON[46450] lived_in,PERSON[46450] was_born_in,PLACE[156139] is_part_of,PLACE[87820] is_part_of,PERSON[3284] lived_in,PERSON[3284] was_born_in,PERSON[30998] lived_in,PERSON[40908] lived_in]
+394897	Badajoz			http://ismi.mpiwg-berlin.mpg.de/place/394897	http://ismi.mpiwg-berlin.mpg.de/place/394897	Spain	#174730	0800	2006	[PLACE[86548] is_part_of,PLACE[362860] is_part_of,PLACE[312817] is_part_of,PLACE[87068] is_part_of]
+395007	Jaén			http://ismi.mpiwg-berlin.mpg.de/place/395007	http://ismi.mpiwg-berlin.mpg.de/place/395007	Spain	#174730	0800	2006	[PLACE[87037] is_part_of]
+412619	Taft			http://ismi.mpiwg-berlin.mpg.de/place/412619	http://ismi.mpiwg-berlin.mpg.de/place/412619	Yazd	#87675	0800	2006	[PERSON[66941] lived_in,PERSON[73116] lived_in,PERSON[57269] lived_in,PERSON[67370] lived_in,PERSON[489193] lived_in,PERSON[32094] lived_in,PERSON[338491] died_in,PERSON[68187] lived_in,PERSON[65512] lived_in,PERSON[65898] lived_in,PERSON[69660] lived_in,PERSON[69354] lived_in,PERSON[69354] died_in,PERSON[65600] lived_in,PERSON[65600] was_born_in,PERSON[67183] lived_in,PERSON[69507] lived_in]
+414387	Carmona			http://ismi.mpiwg-berlin.mpg.de/place/414387	http://ismi.mpiwg-berlin.mpg.de/place/414387	Spain	#174730	0800	2006	[PERSON[199740] lived_in,PERSON[311319] lived_in,PERSON[162991] lived_in,PERSON[456922] lived_in,PERSON[169798] lived_in,PERSON[77868] lived_in,PERSON[206457] lived_in,PERSON[1080] lived_in,PERSON[14116] lived_in,PERSON[8727] lived_in,PERSON[493846] lived_in,PERSON[34800] lived_in,PERSON[40635] lived_in,PERSON[348855] lived_in,PERSON[50309] lived_in,PERSON[172536] lived_in,PERSON[48884] lived_in,PERSON[55492] lived_in,PERSON[457051] lived_in,PERSON[157611] lived_in,PERSON[204626] lived_in,PERSON[457003] lived_in,PERSON[58096] lived_in,PERSON[19604] lived_in,PERSON[73454] lived_in,PERSON[2827] lived_in,PERSON[16712] lived_in,PERSON[45264] lived_in,PERSON[1645] lived_in,PERSON[42529] lived_in,PERSON[53596] lived_in,PERSON[47316] lived_in,PERSON[56492] lived_in,PERSON[29509] lived_in,PLACE[458112] is_part_of,PLACE[87675] is_part_of,PLACE[142516] is_part_of,PLACE[86384] is_part_of,PLACE[484892] is_part_of,PLACE[314816] is_part_of,PLACE[360314] is_part_of,PLACE[85653] is_part_of,PLACE[331126] is_part_of,PLACE[457991] is_part_of,PLACE[168047] is_part_of,PLACE[463432] is_part_of,PLACE[87984] is_part_of,PLACE[88250] is_part_of,PLACE[498926] is_part_of,PLACE[87957] is_part_of,PLACE[384589] is_part_of,PLACE[87474] is_part_of,PLACE[380989] is_part_of,PLACE[25264] is_part_of,PLACE[488271] is_part_of,PLACE[381807] is_part_of,PLACE[356327] is_part_of,PLACE[86943] is_part_of,PLACE[327648] is_part_of,PLACE[140190] is_part_of,PLACE[168025] is_part_of,PLACE[87782] is_part_of,PERSON[199740] was_born_in,PERSON[21377] was_born_in]
+422190	Bayhaq			http://ismi.mpiwg-berlin.mpg.de/place/422190	http://ismi.mpiwg-berlin.mpg.de/place/422190	Khurāsān	#310384	0800	2006	[WITNESS[176993] was_copied_in,TEXT[30635] was_created_in]
+422251	Farab			http://ismi.mpiwg-berlin.mpg.de/place/422251	http://ismi.mpiwg-berlin.mpg.de/place/422251			0800	2006	[PERSON[47316] lived_in]
+426724	Mehdia			http://ismi.mpiwg-berlin.mpg.de/place/426724	http://ismi.mpiwg-berlin.mpg.de/place/426724	Tunisia	#173557	0800	2006	[REPOSITORY[197104] is_in,REPOSITORY[137949] is_in,REPOSITORY[89593] is_in,REPOSITORY[182532] is_in]
+428715	Nasaf			http://ismi.mpiwg-berlin.mpg.de/place/428715	http://ismi.mpiwg-berlin.mpg.de/place/428715			0800	2006	[PERSON[44436] lived_in,PERSON[44436] was_born_in,PERSON[544244] was_born_in]
+431559	ʿAyn Zarba		city	http://ismi.mpiwg-berlin.mpg.de/place/431559	http://ismi.mpiwg-berlin.mpg.de/place/431559			0800	2006	[REPOSITORY[95088] is_in,REPOSITORY[89133] is_in]
+431843	Murcia			http://ismi.mpiwg-berlin.mpg.de/place/431843	http://ismi.mpiwg-berlin.mpg.de/place/431843	Spain	#174730	0800	2006	[REPOSITORY[173688] is_in]
+433318	Shahrazur			http://ismi.mpiwg-berlin.mpg.de/place/433318	http://ismi.mpiwg-berlin.mpg.de/place/433318	Iraq	#173298	0800	2006	[REPOSITORY[88528] is_in]
+434061	Aswan			http://ismi.mpiwg-berlin.mpg.de/place/434061	http://ismi.mpiwg-berlin.mpg.de/place/434061	Egypt	#173189	0800	2006	[REPOSITORY[88595] is_in]
+434389	Balad	Balad (Iraq)	city_district	http://ismi.mpiwg-berlin.mpg.de/place/434389	http://ismi.mpiwg-berlin.mpg.de/place/434389	Iraq	#173298	0800	2006	[REPOSITORY[88790] is_in,REPOSITORY[110977] is_in]
+436281	Guadix			http://ismi.mpiwg-berlin.mpg.de/place/436281	http://ismi.mpiwg-berlin.mpg.de/place/436281	Spain	#174730	0800	2006	[REPOSITORY[88101] is_in]
+436967	Wādyāš			http://ismi.mpiwg-berlin.mpg.de/place/436967	http://ismi.mpiwg-berlin.mpg.de/place/436967	Spain	#174730	0800	2006	[REPOSITORY[440177] is_in,REPOSITORY[473071] is_in]
+437004	Bahrain			http://ismi.mpiwg-berlin.mpg.de/place/437004	http://ismi.mpiwg-berlin.mpg.de/place/437004			0800	2006	[REPOSITORY[498045] is_in,REPOSITORY[346292] is_in,REPOSITORY[380272] is_in]
+437015	Erbil			http://ismi.mpiwg-berlin.mpg.de/place/437015	http://ismi.mpiwg-berlin.mpg.de/place/437015			0800	2006	[REPOSITORY[197990] is_in,REPOSITORY[89608] is_in,REPOSITORY[89492] is_in,REPOSITORY[311056] is_in,REPOSITORY[88740] is_in]
+437147	Suhraward			http://ismi.mpiwg-berlin.mpg.de/place/437147	http://ismi.mpiwg-berlin.mpg.de/place/437147			0800	2006	[REPOSITORY[393064] is_in]
+438040	Madrasa Kāmiliyya		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/438040	http://ismi.mpiwg-berlin.mpg.de/place/438040	Cairo	#85226	0800	2006	[PLACE[393060] is_part_of,PLACE[86816] is_part_of,PLACE[87080] is_part_of,PLACE[86645] is_part_of,PLACE[86946] is_part_of,PLACE[86828] is_part_of,PLACE[87546] is_part_of,PLACE[86475] is_part_of]
+438196	Baeza			http://ismi.mpiwg-berlin.mpg.de/place/438196	http://ismi.mpiwg-berlin.mpg.de/place/438196	Spain	#174730	0800	2006	[PERSON[101978] lived_in,PERSON[101978] was_born_in]
+440170	Kuwait		country	http://ismi.mpiwg-berlin.mpg.de/place/440170	http://ismi.mpiwg-berlin.mpg.de/place/440170			0800	2006	[PERSON[59488] lived_in,PERSON[8727] lived_in,TEXT[346326] was_created_in,WITNESS[440145] was_copied_in,PERSON[4670] lived_in,PERSON[4998] lived_in,PERSON[18142] lived_in,PERSON[29372] lived_in,PERSON[1645] lived_in,TEXT[301753] was_created_in,WITNESS[112726] was_copied_in,PERSON[53301] lived_in,PERSON[5490] lived_in,PERSON[30188] lived_in,PERSON[183573] lived_in,PERSON[183573] was_born_in]
+440173	Kuwait City		city	http://ismi.mpiwg-berlin.mpg.de/place/440173	http://ismi.mpiwg-berlin.mpg.de/place/440173	Kuwait	#440170	0800	2006	[PERSON[68861] lived_in,PERSON[68861] was_born_in]
+441543	Deccan		region	http://ismi.mpiwg-berlin.mpg.de/place/441543	http://ismi.mpiwg-berlin.mpg.de/place/441543	India	#174638	0800	2006	[PERSON[37407] lived_in,PERSON[36856] lived_in,PERSON[147597] lived_in,PERSON[205027] lived_in,PERSON[47205] lived_in,PERSON[12052] lived_in,PERSON[23906] lived_in,PERSON[205447] lived_in,PERSON[204476] lived_in,PERSON[5417] lived_in,PERSON[192847] lived_in,PERSON[139667] lived_in,PERSON[28748] lived_in,PERSON[207970] lived_in,PERSON[28670] lived_in,PERSON[100166] lived_in,PERSON[37370] lived_in,PERSON[209566] lived_in,PERSON[162831] lived_in,PERSON[21146] lived_in,PLACE[87882] is_part_of,PLACE[443439] is_part_of,PLACE[502402] is_part_of,PLACE[544626] is_part_of,PLACE[86603] is_part_of,PLACE[318030] is_part_of,PLACE[312831] is_part_of,PLACE[441899] is_part_of,PLACE[87295] is_part_of,PLACE[85376] is_part_of,PLACE[443486] is_part_of,PLACE[525086] is_part_of,PLACE[87301] is_part_of,PLACE[443803] is_part_of,PLACE[87152] is_part_of,PLACE[88310] is_part_of,PLACE[87594] is_part_of,PLACE[49174] is_part_of,PLACE[85148] is_part_of,PLACE[347936] is_part_of,PLACE[87304] is_part_of,PLACE[447260] is_part_of,PLACE[270897] is_part_of,PLACE[87114] is_part_of,PLACE[85627] is_part_of,PLACE[88226] is_part_of,PLACE[85246] is_part_of,PLACE[87384] is_part_of,PLACE[86378] is_part_of,PLACE[86680] is_part_of,PLACE[411067] is_part_of,PLACE[462175] is_part_of,PLACE[87724] is_part_of,PLACE[482813] is_part_of,PLACE[525362] is_part_of,PLACE[87434] is_part_of,PLACE[88263] is_part_of,PERSON[21971] was_born_in,PERSON[23766] was_born_in,PERSON[497194] was_born_in,PERSON[18005] was_born_in,PERSON[21589] was_born_in,PERSON[373414] was_born_in,PERSON[417622] was_born_in,PERSON[18365] was_born_in,PERSON[432685] was_born_in,PERSON[497785] was_born_in]
+441547	Fatḥ-Nakr		city_district	http://ismi.mpiwg-berlin.mpg.de/place/441547	http://ismi.mpiwg-berlin.mpg.de/place/441547	Deccan	#441543	0800	2006	[PERSON[11160] lived_in,PERSON[6876] lived_in,PERSON[46563] lived_in,PERSON[46563] was_born_in]
+441899	Maraş	Maraş (Kahramanmaraş)	city	http://ismi.mpiwg-berlin.mpg.de/place/441899	http://ismi.mpiwg-berlin.mpg.de/place/441899	Turkey	#174510	0800	2006	[PERSON[185978] lived_in]
+442398	Barda	Barda (Barḏaʿaẗ)	city	http://ismi.mpiwg-berlin.mpg.de/place/442398	http://ismi.mpiwg-berlin.mpg.de/place/442398	Azerbaijan	#178920	0800	2006	[PERSON[373639] was_born_in,PLACE[4404] is_part_of,PLACE[446245] is_part_of,PLACE[445345] is_part_of,PERSON[457003] lived_in,PLACE[442398] is_part_of,PLACE[87016] is_part_of,PLACE[480382] is_part_of]
+442705	Sulaymaniyah		city	http://ismi.mpiwg-berlin.mpg.de/place/442705	http://ismi.mpiwg-berlin.mpg.de/place/442705	Iraq	#173298	0800	2006	[PERSON[162991] lived_in,WITNESS[188748] was_copied_in,WITNESS[118747] was_copied_in,REPOSITORY[88702] is_in,REPOSITORY[108818] is_in,PERSON[8727] lived_in,TEXT[434811] was_created_in,PERSON[96671] was_born_in,PERSON[96671] died_in,TEXT[127823] was_created_in,PERSON[40635] lived_in,PERSON[40635] was_born_in,PERSON[455] lived_in,PERSON[131192] was_born_in,REPOSITORY[458092] is_in,PERSON[6673] lived_in,PERSON[13385] lived_in,PERSON[453473] lived_in,PERSON[395870] was_born_in,PERSON[517756] lived_in,PERSON[57656] lived_in,TEXT[398289] was_created_in,TEXT[57321] was_created_in,TEXT[153279] was_created_in,PERSON[134296] died_in,PERSON[134296] was_born_in,PERSON[2827] lived_in,PERSON[63770] lived_in,REPOSITORY[457961] is_in,PERSON[1645] lived_in,PERSON[1645] died_in,PERSON[78352] lived_in,PERSON[50990] lived_in,PERSON[55259] lived_in,PERSON[26328] lived_in,PERSON[457102] lived_in,PERSON[34119] lived_in]
+442709	Māwaẗ		city_district	http://ismi.mpiwg-berlin.mpg.de/place/442709	http://ismi.mpiwg-berlin.mpg.de/place/442709	Sulaymaniyah	#442705	0800	2006	[PERSON[272829] was_born_in,WITNESS[442655] was_copied_in,PERSON[348855] lived_in,PERSON[19264] died_in]
+443439	Tokat		city	http://ismi.mpiwg-berlin.mpg.de/place/443439	http://ismi.mpiwg-berlin.mpg.de/place/443439	Turkey	#174510	0800	2006	[PERSON[184234] lived_in,PERSON[184234] died_in,PERSON[81892] lived_in,PERSON[98260] lived_in,PERSON[98260] was_born_in,PERSON[103956] lived_in,PERSON[103956] was_born_in,PERSON[104820] lived_in,PERSON[99414] lived_in,PERSON[106549] lived_in,PERSON[106549] was_born_in,PERSON[103311] lived_in,PERSON[103311] was_born_in,PERSON[184728] lived_in,PERSON[102343] lived_in,PERSON[102343] was_born_in]
+443486	Ladik		city	http://ismi.mpiwg-berlin.mpg.de/place/443486	http://ismi.mpiwg-berlin.mpg.de/place/443486	Turkey	#174510	0800	2006	[PERSON[498585] lived_in,TEXT[498596] was_created_in,PERSON[186434] lived_in,PERSON[186434] was_born_in,PERSON[310360] lived_in,WITNESS[43597] was_copied_in,PERSON[7437] lived_in,PERSON[7437] died_in,PERSON[7437] was_born_in,PERSON[24670] lived_in,PERSON[24670] died_in,PERSON[349407] lived_in,PERSON[105171] lived_in,PERSON[304708] lived_in,PERSON[50800] lived_in,PERSON[106357] lived_in]
+443803	Kilis		city	http://ismi.mpiwg-berlin.mpg.de/place/443803	http://ismi.mpiwg-berlin.mpg.de/place/443803	Turkey	#174510	0800	2006	[REPOSITORY[116669] is_in,REPOSITORY[88453] is_in,REPOSITORY[179759] is_in,REPOSITORY[89333] is_in,REPOSITORY[442206] is_in]
+443952	Osmancık		city_district	http://ismi.mpiwg-berlin.mpg.de/place/443952	http://ismi.mpiwg-berlin.mpg.de/place/443952	Çorum	#86378	0800	2006	[WITNESS[344206] was_copied_in,WITNESS[345146] was_copied_in,PERSON[28064] was_born_in]
+445345	Nakhchivan		region	http://ismi.mpiwg-berlin.mpg.de/place/445345	http://ismi.mpiwg-berlin.mpg.de/place/445345	Azerbaijan	#178920	0800	2006	[WITNESS[24319] was_copied_in]
+446245	Shirvān‎			http://ismi.mpiwg-berlin.mpg.de/place/446245	http://ismi.mpiwg-berlin.mpg.de/place/446245	Azerbaijan	#178920	0800	2006	[REPOSITORY[276434] is_in]
+447130	Uskudar		city_district	http://ismi.mpiwg-berlin.mpg.de/place/447130	http://ismi.mpiwg-berlin.mpg.de/place/447130	Istanbul	#85148	0800	2006	[PERSON[350525] lived_in]
+447260	Gaziantep	Gaziantep (Ayntāb)	city	http://ismi.mpiwg-berlin.mpg.de/place/447260	http://ismi.mpiwg-berlin.mpg.de/place/447260	Turkey	#174510	0800	2006	[REPOSITORY[542270] is_in]
+447733	Iznik		city_district	http://ismi.mpiwg-berlin.mpg.de/place/447733	http://ismi.mpiwg-berlin.mpg.de/place/447733	Bursa	#85627	0800	2006	[WITNESS[164164] was_copied_in,WITNESS[46700] was_copied_in]
+447960	Birgi			http://ismi.mpiwg-berlin.mpg.de/place/447960	http://ismi.mpiwg-berlin.mpg.de/place/447960	İzmir	#49174	0800	2006	[TEXT[128190] was_created_in]
+449376	Bulgaria		country	http://ismi.mpiwg-berlin.mpg.de/place/449376	http://ismi.mpiwg-berlin.mpg.de/place/449376			0800	2006	[REPOSITORY[182727] is_in,WITNESS[90164] was_copied_in,REPOSITORY[88962] is_in,REPOSITORY[455725] is_in]
+449379	Plovdiv	Plovdiv (Filibe)	city	http://ismi.mpiwg-berlin.mpg.de/place/449379	http://ismi.mpiwg-berlin.mpg.de/place/449379	Bulgaria	#449376	0800	2006	[PERSON[183390] lived_in]
+450324	Dīnawar		city	http://ismi.mpiwg-berlin.mpg.de/place/450324	http://ismi.mpiwg-berlin.mpg.de/place/450324			0800	2006	[PERSON[447971] lived_in,PERSON[447971] was_born_in]
+450367	Jayyān	Jayyān (Jaén)	city	http://ismi.mpiwg-berlin.mpg.de/place/450367	http://ismi.mpiwg-berlin.mpg.de/place/450367	Andalusia	#93261	0800	2006	[REPOSITORY[89431] is_in]
+455703	Shikohabad		city	http://ismi.mpiwg-berlin.mpg.de/place/455703	http://ismi.mpiwg-berlin.mpg.de/place/455703	India	#174638	0800	2006	[PLACE[87807] is_part_of,PERSON[350525] lived_in]
+456861	Satarāh		city	http://ismi.mpiwg-berlin.mpg.de/place/456861	http://ismi.mpiwg-berlin.mpg.de/place/456861	India	#174638	0800	2006	[REPOSITORY[129997] is_in]
+457991	Qum		city	http://ismi.mpiwg-berlin.mpg.de/place/457991	http://ismi.mpiwg-berlin.mpg.de/place/457991	Iran	#174469	0800	2006	[PERSON[8727] lived_in,PERSON[48707] lived_in,PERSON[39177] lived_in,PERSON[39177] was_born_in,REPOSITORY[90004] is_in,TEXT[154920] was_created_in,TEXT[131095] was_created_in,WITNESS[175392] was_copied_in,TEXT[42839] was_created_in,PERSON[455] lived_in,PERSON[455] died_in,PERSON[172536] lived_in,PERSON[323028] lived_in,PERSON[98851] lived_in,PERSON[323078] lived_in,PERSON[23358] was_born_in,PERSON[56849] lived_in,PERSON[322833] lived_in,PERSON[2827] lived_in,PERSON[2827] died_in,PERSON[64456] lived_in,PERSON[532444] lived_in,WITNESS[31115] was_copied_in,PERSON[1645] lived_in,PERSON[60778] lived_in,PERSON[59241] lived_in,PERSON[155688] lived_in,PERSON[155688] died_in,PERSON[5490] lived_in,PERSON[5490] was_born_in,PERSON[411490] lived_in,PERSON[72071] lived_in,PERSON[34069] lived_in,PERSON[186892] lived_in,PERSON[60106] lived_in,PERSON[438972] lived_in]
+458112	Zanjān		city_district	http://ismi.mpiwg-berlin.mpg.de/place/458112	http://ismi.mpiwg-berlin.mpg.de/place/458112	Iran	#174469	0800	2006	[PLACE[87876] is_part_of]
+458696	Wāsiṭ		city	http://ismi.mpiwg-berlin.mpg.de/place/458696	http://ismi.mpiwg-berlin.mpg.de/place/458696	Iraq	#173298	0800	2006	[PERSON[543853] lived_in,PLACE[87640] is_part_of,PERSON[99756] lived_in]
+462175	Antakya		city	http://ismi.mpiwg-berlin.mpg.de/place/462175	http://ismi.mpiwg-berlin.mpg.de/place/462175	Turkey	#174510	0800	2006	[PERSON[172536] lived_in,PERSON[172536] was_born_in,PERSON[43834] lived_in]
+463432	Qazwīn		city	http://ismi.mpiwg-berlin.mpg.de/place/463432	http://ismi.mpiwg-berlin.mpg.de/place/463432	Iran	#174469	0800	2006	[STUDY_EVENT[38134] was_studied_in]
+473519	Tazeghedra		city	http://ismi.mpiwg-berlin.mpg.de/place/473519	http://ismi.mpiwg-berlin.mpg.de/place/473519	Morocco	#173531	0800	2006	[PLACE[71934] is_part_of]
+478778	Maġrib		region	http://ismi.mpiwg-berlin.mpg.de/place/478778	http://ismi.mpiwg-berlin.mpg.de/place/478778	North Africa	#93622	0800	2006	[PERSON[50188] lived_in,PERSON[56642] lived_in,PERSON[56642] was_born_in,PERSON[62466] lived_in,PERSON[100078] lived_in,PERSON[100078] was_born_in]
+479550	Dhamār		city	http://ismi.mpiwg-berlin.mpg.de/place/479550	http://ismi.mpiwg-berlin.mpg.de/place/479550	Yemen	#178900	0800	2006	[PERSON[4670] died_in]
+480382	Ardabil		city	http://ismi.mpiwg-berlin.mpg.de/place/480382	http://ismi.mpiwg-berlin.mpg.de/place/480382	Azerbaijan	#178920	0800	2006	[PERSON[86761] lived_in,PERSON[182016] lived_in,WITNESS[301912] was_copied_in,WITNESS[301881] was_copied_in,PERSON[24600] lived_in,PERSON[44752] lived_in,PERSON[44752] died_in,WITNESS[297512] was_copied_in,WITNESS[85825] was_copied_in,PERSON[19264] was_born_in,PERSON[1645] lived_in,WITNESS[64505] was_copied_in]
+482813	Anatolia		region	http://ismi.mpiwg-berlin.mpg.de/place/482813	http://ismi.mpiwg-berlin.mpg.de/place/482813	Turkey	#174510	0800	2006	[REPOSITORY[60377] is_in]
+482817	Niksar		city	http://ismi.mpiwg-berlin.mpg.de/place/482817	http://ismi.mpiwg-berlin.mpg.de/place/482817	Anatolia	#482813	0800	2006	[REPOSITORY[458116] is_in]
+483787	Zabid		city	http://ismi.mpiwg-berlin.mpg.de/place/483787	http://ismi.mpiwg-berlin.mpg.de/place/483787	Yemen	#178900	0800	2006	[PERSON[499355] lived_in,PERSON[32892] lived_in,PERSON[76587] lived_in,PERSON[35493] lived_in,PERSON[39022] lived_in,PERSON[24600] lived_in,PERSON[489122] lived_in,PERSON[37553] lived_in,PERSON[10515] lived_in,PERSON[49035] lived_in,PERSON[46450] lived_in,PERSON[9476] lived_in,PERSON[21049] lived_in,PERSON[45772] lived_in,PERSON[49337] lived_in,PERSON[40635] lived_in,PERSON[44253] lived_in,PERSON[48604] lived_in,PERSON[55492] lived_in,PERSON[22203] lived_in,PERSON[336460] lived_in,PERSON[455890] lived_in,PERSON[66822] lived_in,PERSON[6876] lived_in,PERSON[37640] lived_in,PERSON[43385] lived_in,PERSON[73521] lived_in,PERSON[485157] lived_in,PERSON[856] lived_in,PERSON[199108] lived_in,PERSON[532444] lived_in,PERSON[96225] lived_in,PERSON[37660] lived_in,PERSON[73328] lived_in,PERSON[68631] lived_in,PERSON[485001] lived_in,PERSON[26460] lived_in,PERSON[1645] lived_in,PERSON[319987] lived_in,PERSON[3284] lived_in,PERSON[430057] lived_in,PERSON[32704] lived_in,PERSON[95658] lived_in,PERSON[96038] lived_in,PERSON[456381] lived_in,PERSON[30998] lived_in,PERSON[100957] lived_in,PERSON[97470] lived_in,PERSON[35456] lived_in,PERSON[29142] lived_in,PERSON[74095] lived_in,PERSON[27411] lived_in,PERSON[68546] lived_in,PERSON[52057] lived_in,PERSON[2988] lived_in,PERSON[8207] lived_in,PERSON[52848] lived_in,PERSON[52949] lived_in,PERSON[3226] lived_in,PERSON[5277] lived_in,PERSON[35493] died_in,PERSON[318680] died_in,PERSON[46450] died_in,PERSON[21049] died_in,PERSON[45772] died_in,PERSON[21589] died_in,PERSON[55492] died_in,PERSON[19818] died_in,PERSON[488124] died_in,PERSON[856] died_in,PERSON[456381] died_in,PERSON[30998] died_in,PERSON[100957] died_in,PERSON[68546] died_in,PERSON[3226] died_in,PLACE[22073] is_part_of,PLACE[438040] is_part_of,PLACE[2066] is_part_of,REPOSITORY[481409] is_in,REPOSITORY[22057] is_in,REPOSITORY[177984] is_in,REPOSITORY[482956] is_in,REPOSITORY[89730] is_in,REPOSITORY[167188] is_in,REPOSITORY[311050] is_in,PERSON[9476] was_born_in,PERSON[6876] was_born_in,PERSON[19818] was_born_in,PERSON[856] was_born_in,PERSON[30998] was_born_in,PERSON[2988] was_born_in,PERSON[3226] was_born_in,TEXT[493890] was_created_in,TEXT[64014] was_created_in,TEXT[485118] was_created_in,TEXT[108027] was_created_in,TEXT[531094] was_created_in,WITNESS[68695] was_copied_in,WITNESS[68023] was_copied_in,WITNESS[68834] was_copied_in,WITNESS[70873] was_copied_in,WITNESS[73487] was_copied_in]
+484892	Tabrīz		city	http://ismi.mpiwg-berlin.mpg.de/place/484892	http://ismi.mpiwg-berlin.mpg.de/place/484892	Iran	#174469	0800	2006	[WITNESS[487894] was_copied_in,REPOSITORY[182959] is_in,REPOSITORY[88408] is_in,PERSON[487864] lived_in]
+485679	Merv		city	http://ismi.mpiwg-berlin.mpg.de/place/485679	http://ismi.mpiwg-berlin.mpg.de/place/485679	Turkmenistan	#178885	0800	2006	[REPOSITORY[530139] is_in]
+488271	Kashan		city	http://ismi.mpiwg-berlin.mpg.de/place/488271	http://ismi.mpiwg-berlin.mpg.de/place/488271	Iran	#174469	0800	2006	[PERSON[25066] lived_in,PERSON[25066] was_born_in]
+490235	Almeria		city	http://ismi.mpiwg-berlin.mpg.de/place/490235	http://ismi.mpiwg-berlin.mpg.de/place/490235	Spain	#174730	0800	2006	[REPOSITORY[111680] is_in]
+493134	Qatar		country	http://ismi.mpiwg-berlin.mpg.de/place/493134	http://ismi.mpiwg-berlin.mpg.de/place/493134			0800	2006	[PERSON[66697] lived_in,PERSON[66697] died_in]
+493137	Doha		city	http://ismi.mpiwg-berlin.mpg.de/place/493137	http://ismi.mpiwg-berlin.mpg.de/place/493137	Qatar	#493134	0800	2006	[PLACE[441547] is_part_of]
+498785	Ẓāhiriyya Juwāniyya madrasa		madrasa	http://ismi.mpiwg-berlin.mpg.de/place/498785	http://ismi.mpiwg-berlin.mpg.de/place/498785	Damascus	#85658	0800	2006	[REPOSITORY[159768] is_in,REPOSITORY[89184] is_in,REPOSITORY[88640] is_in,REPOSITORY[88746] is_in,REPOSITORY[89036] is_in,REPOSITORY[89986] is_in,REPOSITORY[88412] is_in,REPOSITORY[89445] is_in,REPOSITORY[88437] is_in,REPOSITORY[89017] is_in,REPOSITORY[179018] is_in,REPOSITORY[88806] is_in,REPOSITORY[95159] is_in,REPOSITORY[89574] is_in,REPOSITORY[89283] is_in,REPOSITORY[89121] is_in,REPOSITORY[89160] is_in,REPOSITORY[88864] is_in,REPOSITORY[89869] is_in,REPOSITORY[89683] is_in,REPOSITORY[89694] is_in,REPOSITORY[88465] is_in,REPOSITORY[89236] is_in,REPOSITORY[89620] is_in,REPOSITORY[89804] is_in,REPOSITORY[88870] is_in,REPOSITORY[88164] is_in,REPOSITORY[88714] is_in,REPOSITORY[90058] is_in,REPOSITORY[89407] is_in,REPOSITORY[89698] is_in,REPOSITORY[89234] is_in,REPOSITORY[89728] is_in,REPOSITORY[88766] is_in,REPOSITORY[89606] is_in,REPOSITORY[89819] is_in,REPOSITORY[89636] is_in,REPOSITORY[89447] is_in,REPOSITORY[92051] is_in,REPOSITORY[88451] is_in,REPOSITORY[89091] is_in,REPOSITORY[71640] is_in]
+501761	Yedikule		city_district	http://ismi.mpiwg-berlin.mpg.de/place/501761	http://ismi.mpiwg-berlin.mpg.de/place/501761	Istanbul	#85148	0800	2006	[PERSON[13385] lived_in,PERSON[13385] was_born_in,PERSON[115672] was_born_in]
+502402	Samsun		city	http://ismi.mpiwg-berlin.mpg.de/place/502402	http://ismi.mpiwg-berlin.mpg.de/place/502402	Turkey	#174510	0800	2006	[REPOSITORY[67501] is_in,REPOSITORY[89551] is_in,PERSON[188153] died_in,PERSON[188153] was_born_in,PERSON[28064] lived_in,PERSON[32258] lived_in,PERSON[32258] died_in,PERSON[1765] lived_in]
+517299	Otlukbeli		city_district	http://ismi.mpiwg-berlin.mpg.de/place/517299	http://ismi.mpiwg-berlin.mpg.de/place/517299	Erzincan	#87114	0800	2006	[PERSON[22729] was_born_in,PERSON[38573] lived_in,PERSON[69479] lived_in,PERSON[37510] lived_in,PERSON[40175] lived_in]
+525086	Kütahya		city	http://ismi.mpiwg-berlin.mpg.de/place/525086	http://ismi.mpiwg-berlin.mpg.de/place/525086	Turkey	#174510	0800	2006	[WITNESS[447248] was_copied_in]
+525362	Amasya		city	http://ismi.mpiwg-berlin.mpg.de/place/525362	http://ismi.mpiwg-berlin.mpg.de/place/525362	Turkey	#174510	0800	2006	[REPOSITORY[205268] is_in]
+525410	Gelibolu		city	http://ismi.mpiwg-berlin.mpg.de/place/525410	http://ismi.mpiwg-berlin.mpg.de/place/525410			0800	2006	[REPOSITORY[199266] is_in,REPOSITORY[89524] is_in,REPOSITORY[519609] is_in,REPOSITORY[364178] is_in]
+529096	Galata			http://ismi.mpiwg-berlin.mpg.de/place/529096	http://ismi.mpiwg-berlin.mpg.de/place/529096	Istanbul	#85148	0800	2006	[PERSON[28137] lived_in,PLACE[450367] is_part_of,PERSON[456297] lived_in,PERSON[484926] lived_in,PERSON[29142] lived_in,PERSON[50599] lived_in,PERSON[73175] lived_in,PERSON[8975] lived_in]
+529683	Ahmedabad			http://ismi.mpiwg-berlin.mpg.de/place/529683	http://ismi.mpiwg-berlin.mpg.de/place/529683	India	#174638	0800	2006	[REPOSITORY[115944] is_in]
+530136	Mukalla			http://ismi.mpiwg-berlin.mpg.de/place/530136	http://ismi.mpiwg-berlin.mpg.de/place/530136	Yemen	#178900	0800	2006	[REPOSITORY[89760] is_in,PERSON[24600] lived_in,REPOSITORY[174728] is_in,PERSON[396677] died_in]
+540577	Badakhshan			http://ismi.mpiwg-berlin.mpg.de/place/540577	http://ismi.mpiwg-berlin.mpg.de/place/540577	Afghanistan	#179798	0800	2006	[REPOSITORY[385573] is_in]
+540703	New Delhi			http://ismi.mpiwg-berlin.mpg.de/place/540703	http://ismi.mpiwg-berlin.mpg.de/place/540703	India	#174638	0800	2006	[REPOSITORY[501825] is_in,REPOSITORY[456761] is_in,REPOSITORY[89591] is_in]
+544017	Delhi		city	http://ismi.mpiwg-berlin.mpg.de/place/544017	http://ismi.mpiwg-berlin.mpg.de/place/544017	India	#174638	0800	2006	[PLACE[86507] is_part_of]
