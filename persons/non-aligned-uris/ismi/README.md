@@ -10,6 +10,10 @@ These are persons from the ISMI database of manuscripts.
 
 ## Version
 
+### 0.5
+
+Second version of person list with alias names, floruit, and description of relations in the database.
+
 ### 0.0.1
 
 Very first version of person list.
@@ -20,10 +24,14 @@ Very first version of person list.
 
 | field | description |
 | --- | --- |
+| id | ISMI database identifier |
 | uri | URI in ISMI database web frontend |
 | name_translit | person name (latin transliteration) |
 | name_arabic | person name (arabic script) |
-| birth_date_ce | birth date (CE) |
-| death_date_ce | death date (CE) |
+| alias_names | other names |
+| birth_year | birth date (CE) |
+| death_year | death date (CE) |
+| floruit_years | floruit dates (CE) |
+| description | short description of relations in the ISMI database |
 
 Also see [the general README](https://github.com/Hist-ME/URIs/blob/master/README.md) for this repo.
